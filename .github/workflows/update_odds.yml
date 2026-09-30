@@ -1,0 +1,34 @@
+name: Run CFB Model & Update Odds
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # Enables the manual "Run workflow" button
+
+jobs:
+  run-python-script:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install requests pandas
+
+      - name: Run script
+        run: python build_slate.py
+
+      - name: Commit and push updated games_output.json back to repo
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.io"
+          git add games_output.json
+          git commit -m "Auto-update odds and schedule data [skip ci]" || exit 0
+          git push
