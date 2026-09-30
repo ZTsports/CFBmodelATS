@@ -5,11 +5,14 @@ on:
     - cron: '0 */6 * * *'
   workflow_dispatch: # Enables the manual "Run workflow" button
 
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
 jobs:
   run-python-script:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -32,3 +35,16 @@ jobs:
           git add games_output.json
           git commit -m "Auto-update odds and schedule data [skip ci]" || exit 0
           git push
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+
+  deploy:
+    needs: run-python-script
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
