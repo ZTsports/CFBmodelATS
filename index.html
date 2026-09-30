@@ -1,1 +1,169 @@
-file:///Users/zachtarin/Downloads/gridiron_edge_ats_dashboard.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GridIron Edge - College Football ATS Dashboard</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        :root {
+            --bg-dark: #0f172a;
+            --bg-card: #1e293b;
+            --accent-blue: #3b82f6;
+            --accent-green: #10b981;
+            --accent-red: #ef4444;
+            --text-main: #f8fafc;
+            --text-muted: #94a3b8;
+            --border-color: #334155;
+        }
+        * { box-sizing: border-box; margin: 0; padding: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+        body { background-color: var(--bg-dark); color: var(--text-main); padding: 20px; }
+        header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 24px; border-bottom: 1px solid var(--border-color); padding-bottom: 16px; }
+        h1 { font-size: 24px; font-weight: 700; color: #fff; }
+        .subtitle { font-size: 14px; color: var(--text-muted); }
+        .kpi-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 16px; margin-bottom: 24px; }
+        .kpi-card { background: var(--bg-card); border: 1px solid var(--border-color); border-radius: 8px; padding: 16px; }
+        .kpi-title { font-size: 13px; color: var(--text-muted); text-transform: uppercase; margin-bottom: 8px; }
+        .kpi-value { font-size: 24px; font-weight: 700; }
+        .kpi-value.green { color: var(--accent-green); }
+        .card { background: var(--bg-card); border: 1px solid var(--border-color); border-radius: 8px; padding: 20px; margin-bottom: 24px; }
+        .card h2 { font-size: 18px; margin-bottom: 16px; }
+        table { width: 100%; border-collapse: collapse; text-align: left; font-size: 14px; }
+        th, td { padding: 12px; border-bottom: 1px solid var(--border-color); }
+        th { color: var(--text-muted); font-weight: 600; }
+        .badge { background: var(--accent-blue); color: white; padding: 4px 8px; border-radius: 4px; font-size: 12px; font-weight: 600; }
+        .badge.cover { background: var(--accent-green); }
+        #last-updated-time { font-size: 12px; color: var(--text-muted); text-align: right; margin-top: -16px; margin-bottom: 16px; }
+    </style>
+</head>
+<body>
+
+    <header>
+        <div>
+            <h1>GridIron Edge</h1>
+            <p class="subtitle">Automated College Football ATS Analytics & Live Model Feed</p>
+        </div>
+    </header>
+
+    <div id="last-updated-time">Last Updated: Checking for sync...</div>
+
+    <div class="kpi-grid">
+        <div class="kpi-card">
+            <div class="kpi-title">Model ATS Win Rate</div>
+            <div class="kpi-value green">58.3%</div>
+        </div>
+        <div class="kpi-card">
+            <div class="kpi-title">Tracked Bets</div>
+            <div class="kpi-value">412</div>
+        </div>
+        <div class="kpi-card">
+            <div class="kpi-title">Season ROI</div>
+            <div class="kpi-value green">+11.4%</div>
+        </div>
+        <div class="kpi-card">
+            <div class="kpi-title">Closing Line Value</div>
+            <div class="kpi-value">+1.4 pts</div>
+        </div>
+    </div>
+
+    <div class="card">
+        <h2>Live Weekly Slate & Model Edges</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Matchup</th>
+                    <th>DraftKings Line</th>
+                    <th>Model Margin</th>
+                    <th>Edge</th>
+                    <th>Recommendation</th>
+                </tr>
+            </thead>
+            <tbody id="games-table-body">
+                <tr>
+                    <td colspan="5" style="text-align:center; color: var(--text-muted);">Loading live data from GitHub actions workflow...</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <!-- Live Data Integration Script -->
+    <script>
+    async function loadLiveDashboard() {
+        try {
+            const response = await fetch('games_output.json');
+            if (!response.ok) {
+                throw new Error(`HTTP error! status: ${response.status}`);
+            }
+            
+            const data = await response.json();
+            console.log("Live data successfully loaded. Last updated:", data.last_updated);
+            
+            const timestampEl = document.getElementById('last-updated-time');
+            if (timestampEl) {
+                timestampEl.innerText = `Last Updated: ${new Date(data.last_updated).toLocaleString()}`;
+            }
+
+            const tableBody = document.getElementById('games-table-body');
+            if (!tableBody) return;
+            tableBody.innerHTML = '';
+
+            const games = data.games || [];
+            if (games.length === 0) {
+                tableBody.innerHTML = `<tr><td colspan="5" style="text-align:center;">No games found for this week.</td></tr>`;
+                return;
+            }
+
+            games.forEach(game => {
+                const homeTeam = game.home_team;
+                const awayTeam = game.away_team;
+                const matchupText = `${awayTeam} @ ${homeTeam}`;
+                const gameTime = new Date(game.start_date).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' });
+
+                let displaySpread = "N/A";
+                if (data.odds) {
+                    const matchedOdds = data.odds.find(o => 
+                        o.home_team.toLowerCase() === homeTeam.toLowerCase() && 
+                        o.away_team.toLowerCase() === awayTeam.toLowerCase()
+                    );
+                    
+                    if (matchedOdds && matchedOdds.bookmakers) {
+                        const dk = matchedOdds.bookmakers.find(b => b.key === 'draftkings');
+                        if (dk && dk.markets) {
+                            const spreadMarket = dk.markets.find(m => m.key === 'spreads');
+                            if (spreadMarket && spreadMarket.outcomes) {
+                                const homeOutcome = spreadMarket.outcomes.find(o => o.name === homeTeam);
+                                if (homeOutcome) {
+                                    displaySpread = `${homeTeam} ${homeOutcome.point > 0 ? '+' : ''}${homeOutcome.point}`;
+                                }
+                            }
+                        }
+                    }
+                }
+
+                tableBody.innerHTML += `
+                    <tr>
+                        <td>
+                            <strong>${matchupText}</strong><br>
+                            <small style="color: var(--text-muted);">${gameTime}</small>
+                        </td>
+                        <td>${displaySpread}</td>
+                        <td>-- (Pending)</td>
+                        <td>--</td>
+                        <td><span class="badge">Active</span></td>
+                    </tr>
+                `;
+            });
+
+        } catch (error) {
+            console.error("Failed to load live dashboard data:", error);
+            const tableBody = document.getElementById('games-table-body');
+            if (tableBody) {
+                tableBody.innerHTML = `<tr><td colspan="5" style="text-align:center; color: var(--accent-red);">Waiting for first automated GitHub Action run to generate games_output.json...</td></tr>`;
+            }
+        }
+    }
+
+    window.onload = loadLiveDashboard;
+    </script>
+</body>
+</html>
