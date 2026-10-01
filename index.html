@@ -32,7 +32,6 @@
         th, td { padding: 12px; border-bottom: 1px solid var(--border-color); }
         th { color: var(--text-muted); font-weight: 600; }
         .badge { background: var(--accent-blue); color: white; padding: 4px 8px; border-radius: 4px; font-size: 12px; font-weight: 600; }
-        .badge.cover { background: var(--accent-green); }
         #last-updated-time { font-size: 12px; color: var(--text-muted); text-align: right; margin-top: -16px; margin-bottom: 16px; }
     </style>
 </head>
@@ -88,8 +87,9 @@
 
     <script>
     async function loadLiveDashboard() {
+        const tableBody = document.getElementById('games-table-body');
         try {
-            const response = await fetch('games_output.json?t=' + new Date().getTime());
+            const response = await fetch('games_output.json?t=' + Date.now());
             if (!response.ok) throw new Error(`HTTP status: ${response.status}`);
             
             const data = await response.json();
@@ -99,28 +99,26 @@
                 timestampEl.innerText = `Last Updated: ${new Date(data.last_updated).toLocaleString()}`;
             }
 
-            const tableBody = document.getElementById('games-table-body');
             if (!tableBody) return;
             tableBody.innerHTML = '';
 
-            const games = data.games || [];
-            if (!Array.isArray(games) || games.length === 0) {
+            const games = Array.isArray(data.games) ? data.games : [];
+            if (games.length === 0) {
                 tableBody.innerHTML = `<tr><td colspan="5" style="text-align:center;">No games scheduled right now.</td></tr>`;
                 return;
             }
 
             games.forEach(game => {
-                const homeTeam = game.home_team || game.homeTeam || "Home Team";
-                const awayTeam = game.away_team || game.awayTeam || "Away Team";
-                const matchupText = `${awayTeam} @ ${homeTeam}`;
-                const gameDate = game.start_date || game.commence_time;
-                const gameTime = gameDate ? new Date(gameDate).toLocaleString([], { month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit' }) : "TBD";
+                const home = String(game.home_team || game.homeTeam || "Home");
+                const away = String(game.away_team || game.awayTeam || "Away");
+                const matchupText = `${away} @ ${home}`;
+                const rawDate = game.start_date || game.commence_time;
+                const gameTime = rawDate ? new Date(rawDate).toLocaleString([], { month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit' }) : "TBD";
 
                 let displaySpread = "Line Pending";
                 if (Array.isArray(data.odds)) {
                     const matchedOdds = data.odds.find(o => 
-                        o && o.home_team && homeTeam &&
-                        o.home_team.toString().toLowerCase() === homeTeam.toString().toLowerCase()
+                        o && o.home_team && o.home_team.toLowerCase() === home.toLowerCase()
                     );
                     
                     if (matchedOdds && Array.isArray(matchedOdds.bookmakers)) {
@@ -128,9 +126,9 @@
                         if (dk && Array.isArray(dk.markets)) {
                             const spreadMarket = dk.markets.find(m => m.key === 'spreads');
                             if (spreadMarket && Array.isArray(spreadMarket.outcomes)) {
-                                const homeOutcome = spreadMarket.outcomes.find(o => o.name === homeTeam);
-                                if (homeOutcome && homeOutcome.point !== undefined) {
-                                    displaySpread = `${homeTeam} ${homeOutcome.point > 0 ? '+' : ''}${homeOutcome.point}`;
+                                const outcome = spreadMarket.outcomes.find(o => o.name && o.name.toLowerCase() === home.toLowerCase());
+                                if (outcome && outcome.point !== undefined) {
+                                    displaySpread = `${home} ${outcome.point > 0 ? '+' : ''}${outcome.point}`;
                                 }
                             }
                         }
@@ -153,7 +151,6 @@
 
         } catch (error) {
             console.error("Dashboard error:", error);
-            const tableBody = document.getElementById('games-table-body');
             if (tableBody) {
                 tableBody.innerHTML = `<tr><td colspan="5" style="text-align:center; color: var(--accent-red);">Error displaying slate: ${error.message}</td></tr>`;
             }
