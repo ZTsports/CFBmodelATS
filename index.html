@@ -80,26 +80,22 @@
             </thead>
             <tbody id="games-table-body">
                 <tr>
-                    <td colspan="5" style="text-align:center; color: var(--text-muted);">Loading live data from GitHub actions workflow...</td>
+                    <td colspan="5" style="text-align:center; color: var(--text-muted);">Loading live data...</td>
                 </tr>
             </tbody>
         </table>
     </div>
 
-    <!-- Live Data Integration Script -->
     <script>
     async function loadLiveDashboard() {
         try {
-            const response = await fetch('games_output.json');
-            if (!response.ok) {
-                throw new Error(`HTTP error! status: ${response.status}`);
-            }
+            const response = await fetch('games_output.json?t=' + new Date().getTime());
+            if (!response.ok) throw new Error(`HTTP status: ${response.status}`);
             
             const data = await response.json();
-            console.log("Live data successfully loaded. Last updated:", data.last_updated);
             
             const timestampEl = document.getElementById('last-updated-time');
-            if (timestampEl) {
+            if (timestampEl && data.last_updated) {
                 timestampEl.innerText = `Last Updated: ${new Date(data.last_updated).toLocaleString()}`;
             }
 
@@ -108,31 +104,32 @@
             tableBody.innerHTML = '';
 
             const games = data.games || [];
-            if (games.length === 0) {
-                tableBody.innerHTML = `<tr><td colspan="5" style="text-align:center;">No games found for this week.</td></tr>`;
+            if (!Array.isArray(games) || games.length === 0) {
+                tableBody.innerHTML = `<tr><td colspan="5" style="text-align:center;">No games scheduled right now.</td></tr>`;
                 return;
             }
 
             games.forEach(game => {
-                const homeTeam = game.home_team;
-                const awayTeam = game.away_team;
+                const homeTeam = game.home_team || game.homeTeam || "Home Team";
+                const awayTeam = game.away_team || game.awayTeam || "Away Team";
                 const matchupText = `${awayTeam} @ ${homeTeam}`;
-                const gameTime = new Date(game.start_date).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' });
+                const gameDate = game.start_date || game.commence_time;
+                const gameTime = gameDate ? new Date(gameDate).toLocaleString([], { month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit' }) : "TBD";
 
-                let displaySpread = "N/A";
-                if (data.odds) {
+                let displaySpread = "Line Pending";
+                if (Array.isArray(data.odds)) {
                     const matchedOdds = data.odds.find(o => 
-                        o.home_team.toLowerCase() === homeTeam.toLowerCase() && 
-                        o.away_team.toLowerCase() === awayTeam.toLowerCase()
+                        o && o.home_team && homeTeam &&
+                        o.home_team.toString().toLowerCase() === homeTeam.toString().toLowerCase()
                     );
                     
-                    if (matchedOdds && matchedOdds.bookmakers) {
-                        const dk = matchedOdds.bookmakers.find(b => b.key === 'draftkings');
-                        if (dk && dk.markets) {
+                    if (matchedOdds && Array.isArray(matchedOdds.bookmakers)) {
+                        const dk = matchedOdds.bookmakers.find(b => b.key === 'draftkings') || matchedOdds.bookmakers[0];
+                        if (dk && Array.isArray(dk.markets)) {
                             const spreadMarket = dk.markets.find(m => m.key === 'spreads');
-                            if (spreadMarket && spreadMarket.outcomes) {
+                            if (spreadMarket && Array.isArray(spreadMarket.outcomes)) {
                                 const homeOutcome = spreadMarket.outcomes.find(o => o.name === homeTeam);
-                                if (homeOutcome) {
+                                if (homeOutcome && homeOutcome.point !== undefined) {
                                     displaySpread = `${homeTeam} ${homeOutcome.point > 0 ? '+' : ''}${homeOutcome.point}`;
                                 }
                             }
@@ -155,10 +152,10 @@
             });
 
         } catch (error) {
-            console.error("Failed to load live dashboard data:", error);
+            console.error("Dashboard error:", error);
             const tableBody = document.getElementById('games-table-body');
             if (tableBody) {
-                tableBody.innerHTML = `<tr><td colspan="5" style="text-align:center; color: var(--accent-red);">Waiting for first automated GitHub Action run to generate games_output.json...</td></tr>`;
+                tableBody.innerHTML = `<tr><td colspan="5" style="text-align:center; color: var(--accent-red);">Error displaying slate: ${error.message}</td></tr>`;
             }
         }
     }
