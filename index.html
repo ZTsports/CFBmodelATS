@@ -109,31 +109,14 @@
             }
 
             games.forEach(game => {
-                const home = String(game.home_team || game.homeTeam || "Home");
-                const away = String(game.away_team || game.awayTeam || "Away");
+                const home = String(game.home_team || "Home");
+                const away = String(game.away_team || "Away");
                 const matchupText = `${away} @ ${home}`;
-                const rawDate = game.start_date || game.commence_time;
+                const rawDate = game.start_date;
                 const gameTime = rawDate ? new Date(rawDate).toLocaleString([], { month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit' }) : "TBD";
 
-                let displaySpread = "Line Pending";
-                if (Array.isArray(data.odds)) {
-                    const matchedOdds = data.odds.find(o => 
-                        o && o.home_team && o.home_team.toLowerCase() === home.toLowerCase()
-                    );
-                    
-                    if (matchedOdds && Array.isArray(matchedOdds.bookmakers)) {
-                        const dk = matchedOdds.bookmakers.find(b => b.key === 'draftkings') || matchedOdds.bookmakers[0];
-                        if (dk && Array.isArray(dk.markets)) {
-                            const spreadMarket = dk.markets.find(m => m.key === 'spreads');
-                            if (spreadMarket && Array.isArray(spreadMarket.outcomes)) {
-                                const outcome = spreadMarket.outcomes.find(o => o.name && o.name.toLowerCase() === home.toLowerCase());
-                                if (outcome && outcome.point !== undefined) {
-                                    displaySpread = `${home} ${outcome.point > 0 ? '+' : ''}${outcome.point}`;
-                                }
-                            }
-                        }
-                    }
-                }
+                // Read the pre-matched DraftKings spread from Python
+                const displaySpread = game.draftkings_line || "Line Pending";
 
                 tableBody.innerHTML += `
                     <tr>
@@ -141,7 +124,7 @@
                             <strong>${matchupText}</strong><br>
                             <small style="color: var(--text-muted);">${gameTime}</small>
                         </td>
-                        <td>${displaySpread}</td>
+                        <td><strong>${displaySpread}</strong></td>
                         <td>-- (Pending)</td>
                         <td>--</td>
                         <td><span class="badge">Active</span></td>
