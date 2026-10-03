@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-02T18:13:03.797879+00:00",
+  "last_updated": "2026-10-03T00:13:51.202432+00:00",
   "games_count": 277,
   "games": [
     {
@@ -18,7 +18,7 @@
       "home_team": "Florida International",
       "away_team": "New Mexico State",
       "start_date": "",
-      "draftkings_line": "Line Pending"
+      "draftkings_line": "Florida International -4.5"
     },
     {
       "home_team": "Western Kentucky",
@@ -90,7 +90,7 @@
       "home_team": "Florida",
       "away_team": "South Carolina",
       "start_date": "",
-      "draftkings_line": "Florida +2.5"
+      "draftkings_line": "Florida +1.5"
     },
     {
       "home_team": "Memphis",
@@ -300,7 +300,7 @@
       "home_team": "NC State",
       "away_team": "Wake Forest",
       "start_date": "",
-      "draftkings_line": "NC State +3.5"
+      "draftkings_line": "NC State +3.0"
     },
     {
       "home_team": "Plymouth State",
@@ -318,7 +318,7 @@
       "home_team": "Northwestern",
       "away_team": "Ball State",
       "start_date": "",
-      "draftkings_line": "Northwestern +2.5"
+      "draftkings_line": "Northwestern +3.0"
     },
     {
       "home_team": "Eastern",
@@ -1542,7 +1542,7 @@
       "home_team": "Kentucky",
       "away_team": "LSU",
       "start_date": "",
-      "draftkings_line": "Kentucky +10.5"
+      "draftkings_line": "Kentucky +10.0"
     },
     {
       "home_team": "Missouri Western",
@@ -1572,7 +1572,7 @@
       "home_team": "Virginia",
       "away_team": "Syracuse",
       "start_date": "",
-      "draftkings_line": "Virginia -2.5"
+      "draftkings_line": "Virginia -6.5"
     },
     {
       "home_team": "Northern Illinois",
@@ -1596,7 +1596,7 @@
       "home_team": "Penn State",
       "away_team": "USC",
       "start_date": "",
-      "draftkings_line": "Penn State -1.5"
+      "draftkings_line": "Line Pending"
     },
     {
       "home_team": "West Texas",
