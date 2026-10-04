@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-03T22:08:23.741294+00:00",
+  "last_updated": "2026-10-04T03:07:23.065060+00:00",
   "games_count": 277,
   "games": [
     {
@@ -72,7 +72,7 @@
       "home_team": "Washington",
       "away_team": "Iowa",
       "start_date": "",
-      "draftkings_line": "Washington -2.5"
+      "draftkings_line": "Washington +2.5"
     },
     {
       "home_team": "Utah State",
@@ -90,7 +90,7 @@
       "home_team": "Florida",
       "away_team": "South Carolina",
       "start_date": "",
-      "draftkings_line": "Florida -23.5"
+      "draftkings_line": "Florida -3.5"
     },
     {
       "home_team": "Memphis",
@@ -108,7 +108,7 @@
       "home_team": "Missouri",
       "away_team": "Texas A&M",
       "start_date": "",
-      "draftkings_line": "Missouri -15.5"
+      "draftkings_line": "Line Pending"
     },
     {
       "home_team": "Ohio Dominican",
@@ -144,7 +144,7 @@
       "home_team": "Nebraska",
       "away_team": "Indiana",
       "start_date": "",
-      "draftkings_line": "Nebraska -12.5"
+      "draftkings_line": "Line Pending"
     },
     {
       "home_team": "North Greenville",
@@ -300,7 +300,7 @@
       "home_team": "NC State",
       "away_team": "Wake Forest",
       "start_date": "",
-      "draftkings_line": "NC State -5.5"
+      "draftkings_line": "Line Pending"
     },
     {
       "home_team": "Plymouth State",
@@ -1506,7 +1506,7 @@
       "home_team": "UNLV",
       "away_team": "North Dakota State",
       "start_date": "",
-      "draftkings_line": "UNLV -16.5"
+      "draftkings_line": "Line Pending"
     },
     {
       "home_team": "Wisconsin Lutheran",
@@ -1584,13 +1584,13 @@
       "home_team": "Alabama",
       "away_team": "Georgia",
       "start_date": "",
-      "draftkings_line": "Alabama -13.5"
+      "draftkings_line": "Alabama +2.5"
     },
     {
       "home_team": "Louisiana Tech",
       "away_team": "Louisiana",
       "start_date": "",
-      "draftkings_line": "Louisiana Tech -1.5"
+      "draftkings_line": "Line Pending"
     },
     {
       "home_team": "Penn State",
@@ -1656,7 +1656,7 @@
       "home_team": "Arizona State",
       "away_team": "Hawai'i",
       "start_date": "",
-      "draftkings_line": "Arizona State -3.5"
+      "draftkings_line": "Arizona State +1.5"
     },
     {
       "home_team": "Fresno State",
