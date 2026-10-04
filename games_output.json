@@ -1,30 +1,30 @@
 {
-  "last_updated": "2026-10-04T11:20:03.572116+00:00",
+  "last_updated": "2026-10-04T18:12:30.018092+00:00",
   "games_count": 277,
   "games": [
     {
       "home_team": "Troy",
       "away_team": "Southern Miss",
       "start_date": "",
-      "draftkings_line": "Troy -9.5"
+      "draftkings_line": "Troy -10.0"
     },
     {
       "home_team": "Kennesaw State",
       "away_team": "Jacksonville State",
       "start_date": "",
-      "draftkings_line": "Kennesaw State +3.5"
+      "draftkings_line": "Kennesaw State +3.0"
     },
     {
       "home_team": "Florida International",
       "away_team": "New Mexico State",
       "start_date": "",
-      "draftkings_line": "Florida International -3.5"
+      "draftkings_line": "Florida International -4.5"
     },
     {
       "home_team": "Western Kentucky",
       "away_team": "Missouri State",
       "start_date": "",
-      "draftkings_line": "Western Kentucky +1.5"
+      "draftkings_line": "Western Kentucky -1.5"
     },
     {
       "home_team": "Liberty",
@@ -42,7 +42,7 @@
       "home_team": "UTSA",
       "away_team": "South Florida",
       "start_date": "",
-      "draftkings_line": "UTSA -7.5"
+      "draftkings_line": "UTSA -7.0"
     },
     {
       "home_team": "Bridgewater State",
@@ -54,7 +54,7 @@
       "home_team": "Louisville",
       "away_team": "Florida State",
       "start_date": "",
-      "draftkings_line": "Louisville -6.5"
+      "draftkings_line": "Louisville -4.5"
     },
     {
       "home_team": "Marist",
@@ -72,7 +72,7 @@
       "home_team": "Utah State",
       "away_team": "Washington State",
       "start_date": "",
-      "draftkings_line": "Utah State -2.5"
+      "draftkings_line": "Utah State -3.5"
     },
     {
       "home_team": "Washington",
@@ -84,7 +84,7 @@
       "home_team": "BYU",
       "away_team": "Iowa State",
       "start_date": "",
-      "draftkings_line": "BYU -11.5"
+      "draftkings_line": "BYU -10.5"
     },
     {
       "home_team": "Catholic",
@@ -156,13 +156,13 @@
       "home_team": "Oklahoma State",
       "away_team": "UCF",
       "start_date": "",
-      "draftkings_line": "Oklahoma State -9.5"
+      "draftkings_line": "Oklahoma State -10.0"
     },
     {
       "home_team": "Nebraska",
       "away_team": "Indiana",
       "start_date": "",
-      "draftkings_line": "Nebraska +8.5"
+      "draftkings_line": "Nebraska +9.5"
     },
     {
       "home_team": "Michigan Tech",
@@ -174,7 +174,7 @@
       "home_team": "West Virginia",
       "away_team": "Arizona",
       "start_date": "",
-      "draftkings_line": "West Virginia +3.5"
+      "draftkings_line": "West Virginia +2.5"
     },
     {
       "home_team": "North Greenville",
@@ -204,7 +204,7 @@
       "home_team": "Bowling Green",
       "away_team": "Sacramento State",
       "start_date": "",
-      "draftkings_line": "Line Pending"
+      "draftkings_line": "Bowling Green -7.0"
     },
     {
       "home_team": "Yale",
@@ -252,7 +252,7 @@
       "home_team": "NC State",
       "away_team": "Wake Forest",
       "start_date": "",
-      "draftkings_line": "NC State +2.5"
+      "draftkings_line": "NC State +3.0"
     },
     {
       "home_team": "Buffalo State",
@@ -264,7 +264,7 @@
       "home_team": "Army",
       "away_team": "Tulane",
       "start_date": "",
-      "draftkings_line": "Line Pending"
+      "draftkings_line": "Army -4.0"
     },
     {
       "home_team": "Brown",
@@ -312,7 +312,7 @@
       "home_team": "Florida",
       "away_team": "South Carolina",
       "start_date": "",
-      "draftkings_line": "Florida -3.5"
+      "draftkings_line": "Florida -4.5"
     },
     {
       "home_team": "Glenville State",
@@ -1146,7 +1146,7 @@
       "home_team": "Akron",
       "away_team": "Eastern Michigan",
       "start_date": "",
-      "draftkings_line": "Line Pending"
+      "draftkings_line": "Akron +5.5"
     },
     {
       "home_team": "Vanderbilt",
@@ -1158,7 +1158,7 @@
       "home_team": "North Texas",
       "away_team": "Charlotte",
       "start_date": "",
-      "draftkings_line": "Line Pending"
+      "draftkings_line": "North Texas -24.5"
     },
     {
       "home_team": "Tennessee Tech",
@@ -1182,13 +1182,13 @@
       "home_team": "California",
       "away_team": "Virginia Tech",
       "start_date": "",
-      "draftkings_line": "California +12.5"
+      "draftkings_line": "California +10.5"
     },
     {
       "home_team": "Georgia Tech",
       "away_team": "Duke",
       "start_date": "",
-      "draftkings_line": "Georgia Tech +6.5"
+      "draftkings_line": "Georgia Tech +7.0"
     },
     {
       "home_team": "Tennessee State",
@@ -1200,7 +1200,7 @@
       "home_team": "Notre Dame",
       "away_team": "Stanford",
       "start_date": "",
-      "draftkings_line": "Notre Dame -35.5"
+      "draftkings_line": "Notre Dame -36.5"
     },
     {
       "home_team": "Fordham",
@@ -1212,7 +1212,7 @@
       "home_team": "Oregon",
       "away_team": "UCLA",
       "start_date": "",
-      "draftkings_line": "Oregon -12.5"
+      "draftkings_line": "Oregon -11.5"
     },
     {
       "home_team": "Navy",
@@ -1224,43 +1224,43 @@
       "home_team": "Michigan State",
       "away_team": "Illinois",
       "start_date": "",
-      "draftkings_line": "Michigan State +3.5"
+      "draftkings_line": "Michigan State +3.0"
     },
     {
       "home_team": "Oklahoma",
       "away_team": "Texas",
       "start_date": "",
-      "draftkings_line": "Oklahoma -9.5"
+      "draftkings_line": "Oklahoma -10.0"
     },
     {
       "home_team": "Toledo",
       "away_team": "Buffalo",
       "start_date": "",
-      "draftkings_line": "Line Pending"
+      "draftkings_line": "Toledo -19.5"
     },
     {
       "home_team": "Ohio",
       "away_team": "Central Michigan",
       "start_date": "",
-      "draftkings_line": "Ohio -35.5"
+      "draftkings_line": "Ohio -3.5"
     },
     {
       "home_team": "Western Michigan",
       "away_team": "Kent State",
       "start_date": "",
-      "draftkings_line": "Line Pending"
+      "draftkings_line": "Western Michigan -14.0"
     },
     {
       "home_team": "Temple",
       "away_team": "UConn",
       "start_date": "",
-      "draftkings_line": "Line Pending"
+      "draftkings_line": "Temple -3.0"
     },
     {
       "home_team": "East Carolina",
       "away_team": "Rice",
       "start_date": "",
-      "draftkings_line": "Line Pending"
+      "draftkings_line": "East Carolina -9.5"
     },
     {
       "home_team": "Tiffin",
@@ -1470,7 +1470,7 @@
       "home_team": "Oregon State",
       "away_team": "San Diego State",
       "start_date": "",
-      "draftkings_line": "Oregon State -14.5"
+      "draftkings_line": "Oregon State -14.0"
     },
     {
       "home_team": "Bloomsburg",
@@ -1482,7 +1482,7 @@
       "home_team": "Marshall",
       "away_team": "Coastal Carolina",
       "start_date": "",
-      "draftkings_line": "Line Pending"
+      "draftkings_line": "Marshall -2.5"
     },
     {
       "home_team": "Austin Peay",
@@ -1500,13 +1500,13 @@
       "home_team": "UTEP",
       "away_team": "Nevada",
       "start_date": "",
-      "draftkings_line": "Line Pending"
+      "draftkings_line": "UTEP +9.5"
     },
     {
       "home_team": "UNLV",
       "away_team": "North Dakota State",
       "start_date": "",
-      "draftkings_line": "Line Pending"
+      "draftkings_line": "UNLV +4.0"
     },
     {
       "home_team": "Wisconsin Lutheran",
@@ -1536,7 +1536,7 @@
       "home_team": "Memphis",
       "away_team": "UAB",
       "start_date": "",
-      "draftkings_line": "Line Pending"
+      "draftkings_line": "Memphis -15.5"
     },
     {
       "home_team": "North Central College",
@@ -1560,7 +1560,7 @@
       "home_team": "Kentucky",
       "away_team": "LSU",
       "start_date": "",
-      "draftkings_line": "Kentucky +1.5"
+      "draftkings_line": "Kentucky -1.5"
     },
     {
       "home_team": "Alabama",
@@ -1572,31 +1572,31 @@
       "home_team": "Northern Illinois",
       "away_team": "Air Force",
       "start_date": "",
-      "draftkings_line": "Line Pending"
+      "draftkings_line": "Northern Illinois +12.5"
     },
     {
       "home_team": "Louisiana Tech",
       "away_team": "Louisiana",
       "start_date": "",
-      "draftkings_line": "Line Pending"
+      "draftkings_line": "Louisiana Tech +1.5"
     },
     {
       "home_team": "Penn State",
       "away_team": "USC",
       "start_date": "",
-      "draftkings_line": "Penn State +2.5"
+      "draftkings_line": "Penn State +1.5"
     },
     {
       "home_team": "Virginia",
       "away_team": "Syracuse",
       "start_date": "",
-      "draftkings_line": "Virginia +3.5"
+      "draftkings_line": "Virginia +2.5"
     },
     {
       "home_team": "Georgia Southern",
       "away_team": "James Madison",
       "start_date": "",
-      "draftkings_line": "Line Pending"
+      "draftkings_line": "Georgia Southern +9.5"
     },
     {
       "home_team": "West Texas",
@@ -1620,7 +1620,7 @@
       "home_team": "Purdue",
       "away_team": "Minnesota",
       "start_date": "",
-      "draftkings_line": "Purdue +4.5"
+      "draftkings_line": "Purdue +3.0"
     },
     {
       "home_team": "Abilene Christian",
@@ -1650,19 +1650,19 @@
       "home_team": "Utah",
       "away_team": "Kansas",
       "start_date": "",
-      "draftkings_line": "Utah -2.5"
+      "draftkings_line": "Utah -3.5"
     },
     {
       "home_team": "Fresno State",
       "away_team": "Boise State",
       "start_date": "",
-      "draftkings_line": "Fresno State +8.5"
+      "draftkings_line": "Fresno State +7.5"
     },
     {
       "home_team": "Arizona State",
       "away_team": "Hawai'i",
       "start_date": "",
-      "draftkings_line": "Arizona State -18.5"
+      "draftkings_line": "Arizona State -22.5"
     }
   ]
 }
