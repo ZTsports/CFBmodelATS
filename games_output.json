@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-05T06:17:03.631583+00:00",
+  "last_updated": "2026-10-05T12:14:19.581389+00:00",
   "games_count": 277,
   "games": [
     {
@@ -54,7 +54,7 @@
       "home_team": "Louisville",
       "away_team": "Florida State",
       "start_date": "",
-      "draftkings_line": "Louisville -5.5"
+      "draftkings_line": "Louisville -4.5"
     },
     {
       "home_team": "Marist",
@@ -186,7 +186,7 @@
       "home_team": "Pittsburgh",
       "away_team": "North Carolina",
       "start_date": "",
-      "draftkings_line": "Pittsburgh -4.0"
+      "draftkings_line": "Pittsburgh -4.5"
     },
     {
       "home_team": "Sacred Heart",
@@ -264,7 +264,7 @@
       "home_team": "Army",
       "away_team": "Tulane",
       "start_date": "",
-      "draftkings_line": "Army -3.5"
+      "draftkings_line": "Army -3.0"
     },
     {
       "home_team": "Brown",
@@ -1254,7 +1254,7 @@
       "home_team": "Temple",
       "away_team": "UConn",
       "start_date": "",
-      "draftkings_line": "Temple -3.5"
+      "draftkings_line": "Temple -4.0"
     },
     {
       "home_team": "East Carolina",
@@ -1506,7 +1506,7 @@
       "home_team": "UNLV",
       "away_team": "North Dakota State",
       "start_date": "",
-      "draftkings_line": "UNLV +3.5"
+      "draftkings_line": "UNLV +3.0"
     },
     {
       "home_team": "Wisconsin Lutheran",
@@ -1635,6 +1635,12 @@
       "draftkings_line": "Line Pending"
     },
     {
+      "home_team": "Arizona State",
+      "away_team": "Hawai'i",
+      "start_date": "",
+      "draftkings_line": "Arizona State -21.5"
+    },
+    {
       "home_team": "Cal Lutheran",
       "away_team": "Azusa Pacific",
       "start_date": "",
@@ -1656,13 +1662,7 @@
       "home_team": "Fresno State",
       "away_team": "Boise State",
       "start_date": "",
-      "draftkings_line": "Fresno State +6.0"
-    },
-    {
-      "home_team": "Arizona State",
-      "away_team": "Hawai'i",
-      "start_date": "",
-      "draftkings_line": "Arizona State -21.5"
+      "draftkings_line": "Fresno State +5.5"
     }
   ]
 }
