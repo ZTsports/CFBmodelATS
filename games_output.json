@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-05T18:13:53.083862+00:00",
+  "last_updated": "2026-10-06T00:15:37.183582+00:00",
   "games_count": 277,
   "games": [
     {
@@ -54,7 +54,7 @@
       "home_team": "Louisville",
       "away_team": "Florida State",
       "start_date": "",
-      "draftkings_line": "Louisville -4.0"
+      "draftkings_line": "Louisville -3.5"
     },
     {
       "home_team": "Marist",
@@ -186,7 +186,7 @@
       "home_team": "Pittsburgh",
       "away_team": "North Carolina",
       "start_date": "",
-      "draftkings_line": "Pittsburgh -4.5"
+      "draftkings_line": "Pittsburgh -4.0"
     },
     {
       "home_team": "Sacred Heart",
@@ -204,7 +204,7 @@
       "home_team": "Bowling Green",
       "away_team": "Sacramento State",
       "start_date": "",
-      "draftkings_line": "Bowling Green -7.5"
+      "draftkings_line": "Bowling Green -7.0"
     },
     {
       "home_team": "Yale",
@@ -252,7 +252,7 @@
       "home_team": "NC State",
       "away_team": "Wake Forest",
       "start_date": "",
-      "draftkings_line": "NC State +3.5"
+      "draftkings_line": "NC State +4.0"
     },
     {
       "home_team": "Buffalo State",
@@ -1182,7 +1182,7 @@
       "home_team": "California",
       "away_team": "Virginia Tech",
       "start_date": "",
-      "draftkings_line": "California +9.5"
+      "draftkings_line": "California +8.5"
     },
     {
       "home_team": "Georgia Tech",
@@ -1236,7 +1236,7 @@
       "home_team": "Toledo",
       "away_team": "Buffalo",
       "start_date": "",
-      "draftkings_line": "Toledo -20.5"
+      "draftkings_line": "Toledo -19.5"
     },
     {
       "home_team": "Ohio",
@@ -1254,7 +1254,7 @@
       "home_team": "Temple",
       "away_team": "UConn",
       "start_date": "",
-      "draftkings_line": "Temple -4.5"
+      "draftkings_line": "Temple -3.5"
     },
     {
       "home_team": "East Carolina",
@@ -1500,7 +1500,7 @@
       "home_team": "UTEP",
       "away_team": "Nevada",
       "start_date": "",
-      "draftkings_line": "UTEP +9.5"
+      "draftkings_line": "UTEP +8.5"
     },
     {
       "home_team": "UNLV",
@@ -1572,7 +1572,7 @@
       "home_team": "Northern Illinois",
       "away_team": "Air Force",
       "start_date": "",
-      "draftkings_line": "Northern Illinois +10.0"
+      "draftkings_line": "Northern Illinois +7.5"
     },
     {
       "home_team": "Louisiana Tech",
@@ -1662,7 +1662,7 @@
       "home_team": "Fresno State",
       "away_team": "Boise State",
       "start_date": "",
-      "draftkings_line": "Fresno State +6.0"
+      "draftkings_line": "Fresno State +6.5"
     }
   ]
 }
