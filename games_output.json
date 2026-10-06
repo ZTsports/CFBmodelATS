@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-06T00:15:37.183582+00:00",
+  "last_updated": "2026-10-06T06:13:22.191139+00:00",
   "games_count": 277,
   "games": [
     {
@@ -162,7 +162,7 @@
       "home_team": "Nebraska",
       "away_team": "Indiana",
       "start_date": "",
-      "draftkings_line": "Nebraska +7.5"
+      "draftkings_line": "Nebraska +7.0"
     },
     {
       "home_team": "Michigan Tech",
@@ -1152,13 +1152,13 @@
       "home_team": "Vanderbilt",
       "away_team": "Ole Miss",
       "start_date": "",
-      "draftkings_line": "Vanderbilt +9.5"
+      "draftkings_line": "Vanderbilt +10.0"
     },
     {
       "home_team": "North Texas",
       "away_team": "Charlotte",
       "start_date": "",
-      "draftkings_line": "North Texas -27.5"
+      "draftkings_line": "North Texas -28.5"
     },
     {
       "home_team": "Tennessee Tech",
@@ -1236,7 +1236,7 @@
       "home_team": "Toledo",
       "away_team": "Buffalo",
       "start_date": "",
-      "draftkings_line": "Toledo -19.5"
+      "draftkings_line": "Toledo -20.5"
     },
     {
       "home_team": "Ohio",
