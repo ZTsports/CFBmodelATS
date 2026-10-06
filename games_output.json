@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-06T12:12:57.252462+00:00",
+  "last_updated": "2026-10-06T18:11:07.767284+00:00",
   "games_count": 277,
   "games": [
     {
       "home_team": "Troy",
       "away_team": "Southern Miss",
       "start_date": "",
-      "draftkings_line": "Troy -10.5"
+      "draftkings_line": "Troy -10.0"
     },
     {
       "home_team": "Kennesaw State",
@@ -18,7 +18,7 @@
       "home_team": "Florida International",
       "away_team": "New Mexico State",
       "start_date": "",
-      "draftkings_line": "Florida International -6.0"
+      "draftkings_line": "Florida International -6.5"
     },
     {
       "home_team": "Western Kentucky",
@@ -156,13 +156,13 @@
       "home_team": "Oklahoma State",
       "away_team": "UCF",
       "start_date": "",
-      "draftkings_line": "Oklahoma State -9.5"
+      "draftkings_line": "Oklahoma State -8.5"
     },
     {
       "home_team": "Nebraska",
       "away_team": "Indiana",
       "start_date": "",
-      "draftkings_line": "Nebraska +7.0"
+      "draftkings_line": "Nebraska +7.5"
     },
     {
       "home_team": "Michigan Tech",
@@ -174,7 +174,7 @@
       "home_team": "West Virginia",
       "away_team": "Arizona",
       "start_date": "",
-      "draftkings_line": "West Virginia +3.5"
+      "draftkings_line": "West Virginia +3.0"
     },
     {
       "home_team": "North Greenville",
@@ -186,7 +186,7 @@
       "home_team": "Pittsburgh",
       "away_team": "North Carolina",
       "start_date": "",
-      "draftkings_line": "Pittsburgh -4.0"
+      "draftkings_line": "Pittsburgh -3.5"
     },
     {
       "home_team": "Sacred Heart",
@@ -204,7 +204,7 @@
       "home_team": "Bowling Green",
       "away_team": "Sacramento State",
       "start_date": "",
-      "draftkings_line": "Bowling Green -7.0"
+      "draftkings_line": "Bowling Green -7.5"
     },
     {
       "home_team": "Yale",
@@ -312,7 +312,7 @@
       "home_team": "Florida",
       "away_team": "South Carolina",
       "start_date": "",
-      "draftkings_line": "Florida -6.0"
+      "draftkings_line": "Florida -6.5"
     },
     {
       "home_team": "Glenville State",
@@ -1182,7 +1182,7 @@
       "home_team": "California",
       "away_team": "Virginia Tech",
       "start_date": "",
-      "draftkings_line": "California +8.5"
+      "draftkings_line": "California +9.5"
     },
     {
       "home_team": "Georgia Tech",
@@ -1200,7 +1200,7 @@
       "home_team": "Notre Dame",
       "away_team": "Stanford",
       "start_date": "",
-      "draftkings_line": "Notre Dame -37.5"
+      "draftkings_line": "Notre Dame -38.5"
     },
     {
       "home_team": "Fordham",
@@ -1230,7 +1230,7 @@
       "home_team": "Oklahoma",
       "away_team": "Texas",
       "start_date": "",
-      "draftkings_line": "Oklahoma -9.5"
+      "draftkings_line": "Oklahoma -8.5"
     },
     {
       "home_team": "Toledo",
@@ -1470,7 +1470,7 @@
       "home_team": "Oregon State",
       "away_team": "San Diego State",
       "start_date": "",
-      "draftkings_line": "Oregon State -14.0"
+      "draftkings_line": "Oregon State -14.5"
     },
     {
       "home_team": "Bloomsburg",
@@ -1500,7 +1500,7 @@
       "home_team": "UTEP",
       "away_team": "Nevada",
       "start_date": "",
-      "draftkings_line": "UTEP +8.5"
+      "draftkings_line": "UTEP +9.5"
     },
     {
       "home_team": "UNLV",
@@ -1590,7 +1590,7 @@
       "home_team": "Virginia",
       "away_team": "Syracuse",
       "start_date": "",
-      "draftkings_line": "Virginia +3.5"
+      "draftkings_line": "Virginia +3.0"
     },
     {
       "home_team": "Georgia Southern",
