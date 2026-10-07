@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-07T00:15:47.970259+00:00",
+  "last_updated": "2026-10-07T06:12:33.043288+00:00",
   "games_count": 277,
   "games": [
     {
       "home_team": "Troy",
       "away_team": "Southern Miss",
       "start_date": "",
-      "draftkings_line": "Troy -14.5"
+      "draftkings_line": "Line Pending"
     },
     {
       "home_team": "Kennesaw State",
@@ -78,7 +78,7 @@
       "home_team": "Washington",
       "away_team": "Iowa",
       "start_date": "",
-      "draftkings_line": "Washington -3.0"
+      "draftkings_line": "Washington -3.5"
     },
     {
       "home_team": "BYU",
@@ -162,7 +162,7 @@
       "home_team": "Nebraska",
       "away_team": "Indiana",
       "start_date": "",
-      "draftkings_line": "Nebraska +7.0"
+      "draftkings_line": "Nebraska +7.5"
     },
     {
       "home_team": "Michigan Tech",
@@ -1236,7 +1236,7 @@
       "home_team": "Toledo",
       "away_team": "Buffalo",
       "start_date": "",
-      "draftkings_line": "Toledo -20.5"
+      "draftkings_line": "Toledo -21.0"
     },
     {
       "home_team": "Ohio",
