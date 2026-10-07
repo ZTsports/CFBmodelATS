@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-07T12:14:57.915681+00:00",
+  "last_updated": "2026-10-07T18:12:52.223567+00:00",
   "games_count": 277,
   "games": [
     {
@@ -156,7 +156,7 @@
       "home_team": "Oklahoma State",
       "away_team": "UCF",
       "start_date": "",
-      "draftkings_line": "Oklahoma State -9.5"
+      "draftkings_line": "Oklahoma State -10.5"
     },
     {
       "home_team": "Nebraska",
@@ -1188,7 +1188,7 @@
       "home_team": "Georgia Tech",
       "away_team": "Duke",
       "start_date": "",
-      "draftkings_line": "Georgia Tech +7.0"
+      "draftkings_line": "Georgia Tech +6.5"
     },
     {
       "home_team": "Tennessee State",
@@ -1230,7 +1230,7 @@
       "home_team": "Oklahoma",
       "away_team": "Texas",
       "start_date": "",
-      "draftkings_line": "Oklahoma -9.5"
+      "draftkings_line": "Oklahoma -10.5"
     },
     {
       "home_team": "Toledo",
