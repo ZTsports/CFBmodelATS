@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-08T12:14:20.393940+00:00",
+  "last_updated": "2026-10-08T18:12:37.925199+00:00",
   "games_count": 277,
   "games": [
     {
@@ -24,7 +24,7 @@
       "home_team": "Western Kentucky",
       "away_team": "Missouri State",
       "start_date": "",
-      "draftkings_line": "Western Kentucky -1.5"
+      "draftkings_line": "Western Kentucky +1.5"
     },
     {
       "home_team": "Liberty",
@@ -42,7 +42,7 @@
       "home_team": "UTSA",
       "away_team": "South Florida",
       "start_date": "",
-      "draftkings_line": "UTSA -7.0"
+      "draftkings_line": "UTSA -6.5"
     },
     {
       "home_team": "Alabama State",
@@ -90,7 +90,7 @@
       "home_team": "BYU",
       "away_team": "Iowa State",
       "start_date": "",
-      "draftkings_line": "BYU -10.0"
+      "draftkings_line": "BYU -10.5"
     },
     {
       "home_team": "Maine Maritime",
@@ -192,7 +192,7 @@
       "home_team": "Pittsburgh",
       "away_team": "North Carolina",
       "start_date": "",
-      "draftkings_line": "Pittsburgh -4.0"
+      "draftkings_line": "Pittsburgh -3.5"
     },
     {
       "home_team": "Westfield State",
@@ -1236,7 +1236,7 @@
       "home_team": "Akron",
       "away_team": "Eastern Michigan",
       "start_date": "",
-      "draftkings_line": "Akron +7.0"
+      "draftkings_line": "Akron +6.5"
     },
     {
       "home_team": "Tennessee Tech",
@@ -1518,7 +1518,7 @@
       "home_team": "Kentucky",
       "away_team": "LSU",
       "start_date": "",
-      "draftkings_line": "Kentucky -1.5"
+      "draftkings_line": "Kentucky +1.5"
     },
     {
       "home_team": "Austin Peay",
@@ -1542,7 +1542,7 @@
       "home_team": "Marshall",
       "away_team": "Coastal Carolina",
       "start_date": "",
-      "draftkings_line": "Marshall -3.5"
+      "draftkings_line": "Marshall -4.0"
     },
     {
       "home_team": "Missouri Western",
@@ -1554,7 +1554,7 @@
       "home_team": "UTEP",
       "away_team": "Nevada",
       "start_date": "",
-      "draftkings_line": "UTEP +9.5"
+      "draftkings_line": "UTEP +10.0"
     },
     {
       "home_team": "UNLV",
