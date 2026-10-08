@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-07T18:12:52.223567+00:00",
+  "last_updated": "2026-10-08T00:14:37.527494+00:00",
   "games_count": 277,
   "games": [
     {
@@ -12,19 +12,19 @@
       "home_team": "Kennesaw State",
       "away_team": "Jacksonville State",
       "start_date": "",
-      "draftkings_line": "Kennesaw State +3.0"
+      "draftkings_line": "Kennesaw State +6.5"
     },
     {
       "home_team": "Florida International",
       "away_team": "New Mexico State",
       "start_date": "",
-      "draftkings_line": "Florida International -6.5"
+      "draftkings_line": "Florida International -8.5"
     },
     {
       "home_team": "Western Kentucky",
       "away_team": "Missouri State",
       "start_date": "",
-      "draftkings_line": "Western Kentucky -2.5"
+      "draftkings_line": "Western Kentucky -1.5"
     },
     {
       "home_team": "Liberty",
@@ -36,7 +36,7 @@
       "home_team": "Arkansas State",
       "away_team": "South Alabama",
       "start_date": "",
-      "draftkings_line": "Arkansas State -1.5"
+      "draftkings_line": "Arkansas State -3.0"
     },
     {
       "home_team": "UTSA",
@@ -78,13 +78,13 @@
       "home_team": "Washington",
       "away_team": "Iowa",
       "start_date": "",
-      "draftkings_line": "Washington -3.5"
+      "draftkings_line": "Washington -3.0"
     },
     {
       "home_team": "BYU",
       "away_team": "Iowa State",
       "start_date": "",
-      "draftkings_line": "BYU -10.5"
+      "draftkings_line": "BYU -10.0"
     },
     {
       "home_team": "Catholic",
@@ -186,7 +186,7 @@
       "home_team": "Pittsburgh",
       "away_team": "North Carolina",
       "start_date": "",
-      "draftkings_line": "Pittsburgh -3.5"
+      "draftkings_line": "Pittsburgh -4.0"
     },
     {
       "home_team": "Sacred Heart",
@@ -312,7 +312,7 @@
       "home_team": "Florida",
       "away_team": "South Carolina",
       "start_date": "",
-      "draftkings_line": "Florida -6.5"
+      "draftkings_line": "Florida -8.5"
     },
     {
       "home_team": "Glenville State",
@@ -1152,7 +1152,7 @@
       "home_team": "Vanderbilt",
       "away_team": "Ole Miss",
       "start_date": "",
-      "draftkings_line": "Vanderbilt +10.0"
+      "draftkings_line": "Vanderbilt +9.5"
     },
     {
       "home_team": "North Texas",
@@ -1170,7 +1170,7 @@
       "home_team": "Kansas State",
       "away_team": "Houston",
       "start_date": "",
-      "draftkings_line": "Kansas State -1.5"
+      "draftkings_line": "Kansas State -3.0"
     },
     {
       "home_team": "Gardner-Webb",
@@ -1368,7 +1368,7 @@
       "home_team": "Arkansas",
       "away_team": "Tennessee",
       "start_date": "",
-      "draftkings_line": "Arkansas -1.5"
+      "draftkings_line": "Arkansas -3.0"
     },
     {
       "home_team": "Ohio State",
@@ -1470,7 +1470,7 @@
       "home_team": "Oregon State",
       "away_team": "San Diego State",
       "start_date": "",
-      "draftkings_line": "Oregon State -14.5"
+      "draftkings_line": "Oregon State -15.5"
     },
     {
       "home_team": "Bloomsburg",
@@ -1560,7 +1560,7 @@
       "home_team": "Kentucky",
       "away_team": "LSU",
       "start_date": "",
-      "draftkings_line": "Kentucky -2.5"
+      "draftkings_line": "Kentucky -1.5"
     },
     {
       "home_team": "Alabama",
