@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-08T00:14:37.527494+00:00",
+  "last_updated": "2026-10-08T06:14:51.673211+00:00",
   "games_count": 277,
   "games": [
     {
@@ -12,13 +12,13 @@
       "home_team": "Kennesaw State",
       "away_team": "Jacksonville State",
       "start_date": "",
-      "draftkings_line": "Kennesaw State +6.5"
+      "draftkings_line": "Line Pending"
     },
     {
       "home_team": "Florida International",
       "away_team": "New Mexico State",
       "start_date": "",
-      "draftkings_line": "Florida International -8.5"
+      "draftkings_line": "Line Pending"
     },
     {
       "home_team": "Western Kentucky",
@@ -312,7 +312,7 @@
       "home_team": "Florida",
       "away_team": "South Carolina",
       "start_date": "",
-      "draftkings_line": "Florida -8.5"
+      "draftkings_line": "Florida -11.5"
     },
     {
       "home_team": "Glenville State",
@@ -1482,7 +1482,7 @@
       "home_team": "Marshall",
       "away_team": "Coastal Carolina",
       "start_date": "",
-      "draftkings_line": "Marshall -3.0"
+      "draftkings_line": "Marshall -3.5"
     },
     {
       "home_team": "Austin Peay",
