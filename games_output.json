@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-09T12:13:12.023953+00:00",
+  "last_updated": "2026-10-09T18:11:57.116072+00:00",
   "games_count": 277,
   "games": [
     {
@@ -96,7 +96,7 @@
       "home_team": "Louisville",
       "away_team": "Florida State",
       "start_date": "",
-      "draftkings_line": "Louisville -3.5"
+      "draftkings_line": "Louisville -4.0"
     },
     {
       "home_team": "Rhodes",
@@ -306,13 +306,13 @@
       "home_team": "Army",
       "away_team": "Tulane",
       "start_date": "",
-      "draftkings_line": "Army -3.0"
+      "draftkings_line": "Army -3.5"
     },
     {
       "home_team": "Bowling Green",
       "away_team": "Sacramento State",
       "start_date": "",
-      "draftkings_line": "Bowling Green -7.5"
+      "draftkings_line": "Bowling Green -8.5"
     },
     {
       "home_team": "Wagner",
@@ -1500,7 +1500,7 @@
       "home_team": "UTEP",
       "away_team": "Nevada",
       "start_date": "",
-      "draftkings_line": "UTEP +10.0"
+      "draftkings_line": "UTEP +9.5"
     },
     {
       "home_team": "Alabama A&M",
@@ -1536,7 +1536,7 @@
       "home_team": "Kentucky",
       "away_team": "LSU",
       "start_date": "",
-      "draftkings_line": "Kentucky +8.5"
+      "draftkings_line": "Kentucky +9.5"
     },
     {
       "home_team": "Wilmington (OH)",
@@ -1590,7 +1590,7 @@
       "home_team": "Northern Illinois",
       "away_team": "Air Force",
       "start_date": "",
-      "draftkings_line": "Northern Illinois +7.5"
+      "draftkings_line": "Northern Illinois +7.0"
     },
     {
       "home_team": "Georgia Southern",
