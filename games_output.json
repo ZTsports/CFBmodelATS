@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-08T18:12:37.925199+00:00",
+  "last_updated": "2026-10-09T00:16:38.471334+00:00",
   "games_count": 277,
   "games": [
     {
@@ -24,25 +24,25 @@
       "home_team": "Western Kentucky",
       "away_team": "Missouri State",
       "start_date": "",
-      "draftkings_line": "Western Kentucky +1.5"
+      "draftkings_line": "Western Kentucky -4.5"
     },
     {
       "home_team": "Liberty",
       "away_team": "Sam Houston",
       "start_date": "",
-      "draftkings_line": "Liberty -13.5"
+      "draftkings_line": "Liberty -20.5"
     },
     {
       "home_team": "Arkansas State",
       "away_team": "South Alabama",
       "start_date": "",
-      "draftkings_line": "Arkansas State -3.0"
+      "draftkings_line": "Arkansas State +3.5"
     },
     {
       "home_team": "UTSA",
       "away_team": "South Florida",
       "start_date": "",
-      "draftkings_line": "UTSA -6.5"
+      "draftkings_line": "UTSA +1.5"
     },
     {
       "home_team": "Alabama State",
@@ -306,7 +306,7 @@
       "home_team": "Northwestern",
       "away_team": "Ball State",
       "start_date": "",
-      "draftkings_line": "Northwestern -37.5"
+      "draftkings_line": "Northwestern -35.5"
     },
     {
       "home_team": "Georgetown",
@@ -1158,13 +1158,13 @@
       "home_team": "Kansas State",
       "away_team": "Houston",
       "start_date": "",
-      "draftkings_line": "Kansas State -3.0"
+      "draftkings_line": "Kansas State +3.5"
     },
     {
       "home_team": "Navy",
       "away_team": "Tulsa",
       "start_date": "",
-      "draftkings_line": "Navy -2.5"
+      "draftkings_line": "Navy -1.5"
     },
     {
       "home_team": "Western Michigan",
@@ -1176,7 +1176,7 @@
       "home_team": "Notre Dame",
       "away_team": "Stanford",
       "start_date": "",
-      "draftkings_line": "Notre Dame -38.5"
+      "draftkings_line": "Notre Dame -39.5"
     },
     {
       "home_team": "Oregon",
@@ -1368,13 +1368,13 @@
       "home_team": "Arkansas",
       "away_team": "Tennessee",
       "start_date": "",
-      "draftkings_line": "Arkansas -3.0"
+      "draftkings_line": "Arkansas +3.5"
     },
     {
       "home_team": "Ohio State",
       "away_team": "Maryland",
       "start_date": "",
-      "draftkings_line": "Ohio State -34.5"
+      "draftkings_line": "Ohio State -32.5"
     },
     {
       "home_team": "Northern Iowa",
@@ -1518,7 +1518,7 @@
       "home_team": "Kentucky",
       "away_team": "LSU",
       "start_date": "",
-      "draftkings_line": "Kentucky +1.5"
+      "draftkings_line": "Kentucky -4.5"
     },
     {
       "home_team": "Austin Peay",
