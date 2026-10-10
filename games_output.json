@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-10T06:12:27.154751+00:00",
-  "games_count": 277,
+  "last_updated": "2026-10-10T12:11:32.960988+00:00",
+  "games_count": 275,
   "games": [
     {
       "home_team": "Troy",
@@ -33,14 +33,14 @@
       "draftkings_line": "Line Pending"
     },
     {
-      "home_team": "UTSA",
-      "away_team": "South Florida",
+      "home_team": "Arkansas State",
+      "away_team": "South Alabama",
       "start_date": "",
       "draftkings_line": "Line Pending"
     },
     {
-      "home_team": "Arkansas State",
-      "away_team": "South Alabama",
+      "home_team": "UTSA",
+      "away_team": "South Florida",
       "start_date": "",
       "draftkings_line": "Line Pending"
     },
@@ -75,8 +75,8 @@
       "draftkings_line": "Line Pending"
     },
     {
-      "home_team": "Belhaven",
-      "away_team": "North Carolina Wesleyan",
+      "home_team": "Louisville",
+      "away_team": "Florida State",
       "start_date": "",
       "draftkings_line": "Line Pending"
     },
@@ -93,8 +93,8 @@
       "draftkings_line": "Line Pending"
     },
     {
-      "home_team": "Louisville",
-      "away_team": "Florida State",
+      "home_team": "Belhaven",
+      "away_team": "North Carolina Wesleyan",
       "start_date": "",
       "draftkings_line": "Line Pending"
     },
@@ -129,20 +129,8 @@
       "draftkings_line": "Line Pending"
     },
     {
-      "home_team": "Missouri",
-      "away_team": "Texas A&M",
-      "start_date": "",
-      "draftkings_line": "Missouri -3.5"
-    },
-    {
-      "home_team": "Sacred Heart",
-      "away_team": "Stonehill",
-      "start_date": "",
-      "draftkings_line": "Line Pending"
-    },
-    {
-      "home_team": "Catholic",
-      "away_team": "Susquehanna",
+      "home_team": "Maine Maritime",
+      "away_team": "Norwich",
       "start_date": "",
       "draftkings_line": "Line Pending"
     },
@@ -156,7 +144,7 @@
       "home_team": "Nebraska",
       "away_team": "Indiana",
       "start_date": "",
-      "draftkings_line": "Nebraska +7.5"
+      "draftkings_line": "Nebraska +8.5"
     },
     {
       "home_team": "West Virginia",
@@ -183,8 +171,8 @@
       "draftkings_line": "Line Pending"
     },
     {
-      "home_team": "Presbyterian",
-      "away_team": "Davidson",
+      "home_team": "Wagner",
+      "away_team": "Princeton",
       "start_date": "",
       "draftkings_line": "Line Pending"
     },
@@ -201,38 +189,44 @@
       "draftkings_line": "Line Pending"
     },
     {
-      "home_team": "Yale",
-      "away_team": "Dartmouth",
-      "start_date": "",
-      "draftkings_line": "Line Pending"
-    },
-    {
-      "home_team": "North Carolina A&T",
-      "away_team": "New Hampshire",
-      "start_date": "",
-      "draftkings_line": "Line Pending"
-    },
-    {
       "home_team": "North Greenville",
       "away_team": "Chowan",
       "start_date": "",
       "draftkings_line": "Line Pending"
     },
     {
-      "home_team": "Charleston (WV)",
-      "away_team": "Wheeling",
+      "home_team": "Presbyterian",
+      "away_team": "Davidson",
+      "start_date": "",
+      "draftkings_line": "Line Pending"
+    },
+    {
+      "home_team": "Yale",
+      "away_team": "Dartmouth",
+      "start_date": "",
+      "draftkings_line": "Line Pending"
+    },
+    {
+      "home_team": "NC State",
+      "away_team": "Wake Forest",
+      "start_date": "",
+      "draftkings_line": "NC State +3.5"
+    },
+    {
+      "home_team": "Millersville",
+      "away_team": "Shippensburg",
+      "start_date": "",
+      "draftkings_line": "Line Pending"
+    },
+    {
+      "home_team": "The Citadel",
+      "away_team": "East Tennessee State",
       "start_date": "",
       "draftkings_line": "Line Pending"
     },
     {
       "home_team": "Ohio Dominican",
       "away_team": "Thomas More",
-      "start_date": "",
-      "draftkings_line": "Line Pending"
-    },
-    {
-      "home_team": "Millersville",
-      "away_team": "Shippensburg",
       "start_date": "",
       "draftkings_line": "Line Pending"
     },
@@ -249,14 +243,14 @@
       "draftkings_line": "Line Pending"
     },
     {
-      "home_team": "Kutztown",
-      "away_team": "Lackawanna",
+      "home_team": "Westfield State",
+      "away_team": "Mass Maritime",
       "start_date": "",
       "draftkings_line": "Line Pending"
     },
     {
-      "home_team": "Westfield State",
-      "away_team": "Mass Maritime",
+      "home_team": "Findlay",
+      "away_team": "Ashland",
       "start_date": "",
       "draftkings_line": "Line Pending"
     },
@@ -267,26 +261,8 @@
       "draftkings_line": "Line Pending"
     },
     {
-      "home_team": "Dayton",
-      "away_team": "Morehead State",
-      "start_date": "",
-      "draftkings_line": "Line Pending"
-    },
-    {
-      "home_team": "Maine Maritime",
-      "away_team": "Norwich",
-      "start_date": "",
-      "draftkings_line": "Line Pending"
-    },
-    {
       "home_team": "Charleston Southern",
       "away_team": "South Carolina State",
-      "start_date": "",
-      "draftkings_line": "Line Pending"
-    },
-    {
-      "home_team": "Findlay",
-      "away_team": "Ashland",
       "start_date": "",
       "draftkings_line": "Line Pending"
     },
@@ -315,14 +291,20 @@
       "draftkings_line": "Bowling Green -8.5"
     },
     {
-      "home_team": "Wagner",
-      "away_team": "Princeton",
+      "home_team": "Kutztown",
+      "away_team": "Lackawanna",
       "start_date": "",
       "draftkings_line": "Line Pending"
     },
     {
       "home_team": "Brown",
       "away_team": "Bryant",
+      "start_date": "",
+      "draftkings_line": "Line Pending"
+    },
+    {
+      "home_team": "Dayton",
+      "away_team": "Morehead State",
       "start_date": "",
       "draftkings_line": "Line Pending"
     },
@@ -339,10 +321,46 @@
       "draftkings_line": "Line Pending"
     },
     {
-      "home_team": "NC State",
-      "away_team": "Wake Forest",
+      "home_team": "Missouri",
+      "away_team": "Texas A&M",
       "start_date": "",
-      "draftkings_line": "NC State +3.5"
+      "draftkings_line": "Missouri -3.5"
+    },
+    {
+      "home_team": "Sacred Heart",
+      "away_team": "Stonehill",
+      "start_date": "",
+      "draftkings_line": "Line Pending"
+    },
+    {
+      "home_team": "Catholic",
+      "away_team": "Susquehanna",
+      "start_date": "",
+      "draftkings_line": "Line Pending"
+    },
+    {
+      "home_team": "Maryville (TN)",
+      "away_team": "Sewanee",
+      "start_date": "",
+      "draftkings_line": "Line Pending"
+    },
+    {
+      "home_team": "Charleston (WV)",
+      "away_team": "Wheeling",
+      "start_date": "",
+      "draftkings_line": "Line Pending"
+    },
+    {
+      "home_team": "North Carolina A&T",
+      "away_team": "New Hampshire",
+      "start_date": "",
+      "draftkings_line": "Line Pending"
+    },
+    {
+      "home_team": "Georgetown",
+      "away_team": "Bucknell",
+      "start_date": "",
+      "draftkings_line": "Line Pending"
     },
     {
       "home_team": "Eastern",
@@ -355,12 +373,6 @@
       "away_team": "Ball State",
       "start_date": "",
       "draftkings_line": "Northwestern -35.5"
-    },
-    {
-      "home_team": "Georgetown",
-      "away_team": "Bucknell",
-      "start_date": "",
-      "draftkings_line": "Line Pending"
     },
     {
       "home_team": "Florida",
@@ -399,20 +411,8 @@
       "draftkings_line": "Line Pending"
     },
     {
-      "home_team": "Morehouse",
-      "away_team": "Savannah State",
-      "start_date": "",
-      "draftkings_line": "Line Pending"
-    },
-    {
       "home_team": "Central State",
       "away_team": "Tuskegee",
-      "start_date": "",
-      "draftkings_line": "Line Pending"
-    },
-    {
-      "home_team": "Fort Valley State",
-      "away_team": "Clark Atlanta",
       "start_date": "",
       "draftkings_line": "Line Pending"
     },
@@ -477,6 +477,12 @@
       "draftkings_line": "Line Pending"
     },
     {
+      "home_team": "Alabama A&M",
+      "away_team": "Bethune-Cookman",
+      "start_date": "",
+      "draftkings_line": "Line Pending"
+    },
+    {
       "home_team": "California (PA)",
       "away_team": "Edinboro",
       "start_date": "",
@@ -531,6 +537,12 @@
       "draftkings_line": "Line Pending"
     },
     {
+      "home_team": "East Carolina",
+      "away_team": "Rice",
+      "start_date": "",
+      "draftkings_line": "East Carolina -10.0"
+    },
+    {
       "home_team": "Southern Virginia",
       "away_team": "Brevard",
       "start_date": "",
@@ -545,12 +557,6 @@
     {
       "home_team": "Emory & Henry",
       "away_team": "Mars Hill",
-      "start_date": "",
-      "draftkings_line": "Line Pending"
-    },
-    {
-      "home_team": "Maryville (TN)",
-      "away_team": "Sewanee",
       "start_date": "",
       "draftkings_line": "Line Pending"
     },
@@ -645,12 +651,6 @@
       "draftkings_line": "Line Pending"
     },
     {
-      "home_team": "West Virginia Wesleyan",
-      "away_team": "Fairmont State",
-      "start_date": "",
-      "draftkings_line": "Line Pending"
-    },
-    {
       "home_team": "Williams",
       "away_team": "Bates",
       "start_date": "",
@@ -681,12 +681,6 @@
       "draftkings_line": "Line Pending"
     },
     {
-      "home_team": "Pacific Lutheran",
-      "away_team": "Puget Sound",
-      "start_date": "",
-      "draftkings_line": "Line Pending"
-    },
-    {
       "home_team": "Guilford",
       "away_team": "Bridgewater",
       "start_date": "",
@@ -701,6 +695,12 @@
     {
       "home_team": "Butler",
       "away_team": "San Diego",
+      "start_date": "",
+      "draftkings_line": "Line Pending"
+    },
+    {
+      "home_team": "Mount Union",
+      "away_team": "Marietta",
       "start_date": "",
       "draftkings_line": "Line Pending"
     },
@@ -723,86 +723,8 @@
       "draftkings_line": "Line Pending"
     },
     {
-      "home_team": "Mount Union",
-      "away_team": "Marietta",
-      "start_date": "",
-      "draftkings_line": "Line Pending"
-    },
-    {
-      "home_team": "Ripon",
-      "away_team": "Lake Forest",
-      "start_date": "",
-      "draftkings_line": "Line Pending"
-    },
-    {
-      "home_team": "Kentucky State",
-      "away_team": "Miles",
-      "start_date": "",
-      "draftkings_line": "Line Pending"
-    },
-    {
-      "home_team": "Chicago",
-      "away_team": "Cornell (IA)",
-      "start_date": "",
-      "draftkings_line": "Line Pending"
-    },
-    {
-      "home_team": "Carleton",
-      "away_team": "St. Scholastica",
-      "start_date": "",
-      "draftkings_line": "Line Pending"
-    },
-    {
-      "home_team": "St. Norbert",
-      "away_team": "Lakeland",
-      "start_date": "",
-      "draftkings_line": "Line Pending"
-    },
-    {
-      "home_team": "South Dakota",
-      "away_team": "Southern Illinois",
-      "start_date": "",
-      "draftkings_line": "Line Pending"
-    },
-    {
-      "home_team": "Augustana (IL)",
-      "away_team": "Millikin",
-      "start_date": "",
-      "draftkings_line": "Line Pending"
-    },
-    {
-      "home_team": "Carthage",
-      "away_team": "Elmhurst",
-      "start_date": "",
-      "draftkings_line": "Line Pending"
-    },
-    {
-      "home_team": "Mary Hardin Baylor",
-      "away_team": "Howard Payne",
-      "start_date": "",
-      "draftkings_line": "Line Pending"
-    },
-    {
-      "home_team": "McMurry",
-      "away_team": "Hardin Simmons",
-      "start_date": "",
-      "draftkings_line": "Line Pending"
-    },
-    {
-      "home_team": "Huntingdon",
-      "away_team": "Greensboro",
-      "start_date": "",
-      "draftkings_line": "Line Pending"
-    },
-    {
-      "home_team": "Coe",
-      "away_team": "Central College",
-      "start_date": "",
-      "draftkings_line": "Line Pending"
-    },
-    {
-      "home_team": "Hillsdale",
-      "away_team": "Walsh",
+      "home_team": "Southwestern U",
+      "away_team": "Trinity (TX)",
       "start_date": "",
       "draftkings_line": "Line Pending"
     },
@@ -813,14 +735,38 @@
       "draftkings_line": "Line Pending"
     },
     {
+      "home_team": "Allen",
+      "away_team": "Benedict",
+      "start_date": "",
+      "draftkings_line": "Line Pending"
+    },
+    {
+      "home_team": "IU Pennsylvania",
+      "away_team": "Lock Haven",
+      "start_date": "",
+      "draftkings_line": "Line Pending"
+    },
+    {
+      "home_team": "Huntingdon",
+      "away_team": "Greensboro",
+      "start_date": "",
+      "draftkings_line": "Line Pending"
+    },
+    {
+      "home_team": "Bemidji State",
+      "away_team": "Wayne State (NE)",
+      "start_date": "",
+      "draftkings_line": "Line Pending"
+    },
+    {
       "home_team": "Northwestern (MN)",
       "away_team": "Minnesota Morris",
       "start_date": "",
       "draftkings_line": "Line Pending"
     },
     {
-      "home_team": "Allen",
-      "away_team": "Benedict",
+      "home_team": "Sioux Falls",
+      "away_team": "Southwest Minnesota State",
       "start_date": "",
       "draftkings_line": "Line Pending"
     },
@@ -855,56 +801,8 @@
       "draftkings_line": "Line Pending"
     },
     {
-      "home_team": "Massachusetts",
-      "away_team": "Miami (OH)",
-      "start_date": "",
-      "draftkings_line": "Line Pending"
-    },
-    {
-      "home_team": "Bemidji State",
-      "away_team": "Wayne State (NE)",
-      "start_date": "",
-      "draftkings_line": "Line Pending"
-    },
-    {
-      "home_team": "Austin",
-      "away_team": "Lyon",
-      "start_date": "",
-      "draftkings_line": "Line Pending"
-    },
-    {
-      "home_team": "Hendrix",
-      "away_team": "Centenary (LA)",
-      "start_date": "",
-      "draftkings_line": "Line Pending"
-    },
-    {
-      "home_team": "Southern Connecticut State",
-      "away_team": "Monroe",
-      "start_date": "",
-      "draftkings_line": "Line Pending"
-    },
-    {
-      "home_team": "Sioux Falls",
-      "away_team": "Southwest Minnesota State",
-      "start_date": "",
-      "draftkings_line": "Line Pending"
-    },
-    {
       "home_team": "Valparaiso",
       "away_team": "Drake",
-      "start_date": "",
-      "draftkings_line": "Line Pending"
-    },
-    {
-      "home_team": "Norfolk State",
-      "away_team": "Virginia Lynchburg",
-      "start_date": "",
-      "draftkings_line": "Line Pending"
-    },
-    {
-      "home_team": "Baldwin Wallace",
-      "away_team": "Ohio Northern",
       "start_date": "",
       "draftkings_line": "Line Pending"
     },
@@ -921,14 +819,62 @@
       "draftkings_line": "Line Pending"
     },
     {
-      "home_team": "Aurora",
-      "away_team": "Concordia Chicago",
+      "home_team": "McKendree",
+      "away_team": "Southwest Baptist",
       "start_date": "",
       "draftkings_line": "Line Pending"
     },
     {
-      "home_team": "Eureka",
-      "away_team": "Concordia (WI)",
+      "home_team": "Upper Iowa",
+      "away_team": "Truman State",
+      "start_date": "",
+      "draftkings_line": "Line Pending"
+    },
+    {
+      "home_team": "Rose Hulman",
+      "away_team": "Anderson (IN)",
+      "start_date": "",
+      "draftkings_line": "Line Pending"
+    },
+    {
+      "home_team": "Hilbert",
+      "away_team": "St. Lawrence",
+      "start_date": "",
+      "draftkings_line": "Line Pending"
+    },
+    {
+      "home_team": "Lindenwood",
+      "away_team": "Southeast Missouri State",
+      "start_date": "",
+      "draftkings_line": "Line Pending"
+    },
+    {
+      "home_team": "St. Thomas (MN)",
+      "away_team": "Stetson",
+      "start_date": "",
+      "draftkings_line": "Line Pending"
+    },
+    {
+      "home_team": "Bethel (MN)",
+      "away_team": "Augsburg",
+      "start_date": "",
+      "draftkings_line": "Line Pending"
+    },
+    {
+      "home_team": "Concordia (MN)",
+      "away_team": "Hamline",
+      "start_date": "",
+      "draftkings_line": "Line Pending"
+    },
+    {
+      "home_team": "Macalester",
+      "away_team": "Saint John's (MN)",
+      "start_date": "",
+      "draftkings_line": "Line Pending"
+    },
+    {
+      "home_team": "Gustavus Adolphus",
+      "away_team": "St. Olaf",
       "start_date": "",
       "draftkings_line": "Line Pending"
     },
@@ -945,86 +891,146 @@
       "draftkings_line": "Line Pending"
     },
     {
-      "home_team": "St. Thomas (MN)",
-      "away_team": "Stetson",
+      "home_team": "East Texas Baptist",
+      "away_team": "Schreiner",
       "start_date": "",
       "draftkings_line": "Line Pending"
     },
     {
-      "home_team": "Lindenwood",
-      "away_team": "Southeast Missouri State",
+      "home_team": "Eureka",
+      "away_team": "Concordia (WI)",
       "start_date": "",
       "draftkings_line": "Line Pending"
     },
     {
-      "home_team": "Gustavus Adolphus",
-      "away_team": "St. Olaf",
+      "home_team": "Aurora",
+      "away_team": "Concordia Chicago",
       "start_date": "",
       "draftkings_line": "Line Pending"
     },
     {
-      "home_team": "Macalester",
-      "away_team": "Saint John's (MN)",
+      "home_team": "Baldwin Wallace",
+      "away_team": "Ohio Northern",
       "start_date": "",
       "draftkings_line": "Line Pending"
     },
     {
-      "home_team": "McKendree",
-      "away_team": "Southwest Baptist",
+      "home_team": "Norfolk State",
+      "away_team": "Virginia Lynchburg",
       "start_date": "",
       "draftkings_line": "Line Pending"
     },
     {
-      "home_team": "Upper Iowa",
-      "away_team": "Truman State",
+      "home_team": "Southern Connecticut State",
+      "away_team": "Monroe",
       "start_date": "",
       "draftkings_line": "Line Pending"
     },
     {
-      "home_team": "Concordia (MN)",
-      "away_team": "Hamline",
+      "home_team": "Averett",
+      "away_team": "Shenandoah",
       "start_date": "",
       "draftkings_line": "Line Pending"
     },
     {
-      "home_team": "Rose Hulman",
-      "away_team": "Anderson (IN)",
+      "home_team": "Hendrix",
+      "away_team": "Centenary (LA)",
       "start_date": "",
       "draftkings_line": "Line Pending"
     },
     {
-      "home_team": "Bethel (MN)",
-      "away_team": "Augsburg",
+      "home_team": "Austin",
+      "away_team": "Lyon",
       "start_date": "",
       "draftkings_line": "Line Pending"
     },
     {
-      "home_team": "Hilbert",
-      "away_team": "St. Lawrence",
+      "home_team": "Massachusetts",
+      "away_team": "Miami (OH)",
       "start_date": "",
       "draftkings_line": "Line Pending"
     },
     {
-      "home_team": "IU Pennsylvania",
-      "away_team": "Lock Haven",
+      "home_team": "Coe",
+      "away_team": "Central College",
       "start_date": "",
       "draftkings_line": "Line Pending"
     },
     {
-      "home_team": "Southwestern U",
-      "away_team": "Trinity (TX)",
+      "home_team": "Loras",
+      "away_team": "Simpson (IA)",
+      "start_date": "",
+      "draftkings_line": "Line Pending"
+    },
+    {
+      "home_team": "McMurry",
+      "away_team": "Hardin Simmons",
+      "start_date": "",
+      "draftkings_line": "Line Pending"
+    },
+    {
+      "home_team": "Mary Hardin Baylor",
+      "away_team": "Howard Payne",
+      "start_date": "",
+      "draftkings_line": "Line Pending"
+    },
+    {
+      "home_team": "Carthage",
+      "away_team": "Elmhurst",
+      "start_date": "",
+      "draftkings_line": "Line Pending"
+    },
+    {
+      "home_team": "Augustana (IL)",
+      "away_team": "Millikin",
+      "start_date": "",
+      "draftkings_line": "Line Pending"
+    },
+    {
+      "home_team": "South Dakota",
+      "away_team": "Southern Illinois",
+      "start_date": "",
+      "draftkings_line": "Line Pending"
+    },
+    {
+      "home_team": "Carleton",
+      "away_team": "St. Scholastica",
+      "start_date": "",
+      "draftkings_line": "Line Pending"
+    },
+    {
+      "home_team": "Kentucky State",
+      "away_team": "Miles",
+      "start_date": "",
+      "draftkings_line": "Line Pending"
+    },
+    {
+      "home_team": "Chicago",
+      "away_team": "Cornell (IA)",
+      "start_date": "",
+      "draftkings_line": "Line Pending"
+    },
+    {
+      "home_team": "Ripon",
+      "away_team": "Lake Forest",
+      "start_date": "",
+      "draftkings_line": "Line Pending"
+    },
+    {
+      "home_team": "Hillsdale",
+      "away_team": "Walsh",
+      "start_date": "",
+      "draftkings_line": "Line Pending"
+    },
+    {
+      "home_team": "St. Norbert",
+      "away_team": "Lakeland",
       "start_date": "",
       "draftkings_line": "Line Pending"
     },
     {
       "home_team": "Clarion",
       "away_team": "Gannon",
-      "start_date": "",
-      "draftkings_line": "Line Pending"
-    },
-    {
-      "home_team": "The Citadel",
-      "away_team": "East Tennessee State",
       "start_date": "",
       "draftkings_line": "Line Pending"
     },
@@ -1041,20 +1047,8 @@
       "draftkings_line": "Line Pending"
     },
     {
-      "home_team": "Carroll (WI)",
-      "away_team": "Illinois Wesleyan",
-      "start_date": "",
-      "draftkings_line": "Line Pending"
-    },
-    {
-      "home_team": "Tufts",
-      "away_team": "Bowdoin",
-      "start_date": "",
-      "draftkings_line": "Line Pending"
-    },
-    {
-      "home_team": "Missouri Southern State",
-      "away_team": "Emporia State",
+      "home_team": "Wingate",
+      "away_team": "Tusculum",
       "start_date": "",
       "draftkings_line": "Line Pending"
     },
@@ -1065,50 +1059,20 @@
       "draftkings_line": "Line Pending"
     },
     {
+      "home_team": "Geneva",
+      "away_team": "Hiram",
+      "start_date": "",
+      "draftkings_line": "Line Pending"
+    },
+    {
       "home_team": "Arkansas Monticello",
       "away_team": "Oklahoma Baptist",
       "start_date": "",
       "draftkings_line": "Line Pending"
     },
     {
-      "home_team": "The College of New Jersey",
-      "away_team": "Vermont State Castleton",
-      "start_date": "",
-      "draftkings_line": "Line Pending"
-    },
-    {
-      "home_team": "Jamestown",
-      "away_team": "Minot State",
-      "start_date": "",
-      "draftkings_line": "Line Pending"
-    },
-    {
-      "home_team": "East Texas Baptist",
-      "away_team": "Schreiner",
-      "start_date": "",
-      "draftkings_line": "Line Pending"
-    },
-    {
-      "home_team": "Monmouth (IL)",
-      "away_team": "Luther",
-      "start_date": "",
-      "draftkings_line": "Line Pending"
-    },
-    {
-      "home_team": "Loras",
-      "away_team": "Simpson (IA)",
-      "start_date": "",
-      "draftkings_line": "Line Pending"
-    },
-    {
-      "home_team": "Winona State",
-      "away_team": "Minnesota State",
-      "start_date": "",
-      "draftkings_line": "Line Pending"
-    },
-    {
-      "home_team": "Weber State",
-      "away_team": "Idaho",
+      "home_team": "Carroll (WI)",
+      "away_team": "Illinois Wesleyan",
       "start_date": "",
       "draftkings_line": "Line Pending"
     },
@@ -1119,8 +1083,8 @@
       "draftkings_line": "Line Pending"
     },
     {
-      "home_team": "Geneva",
-      "away_team": "Hiram",
+      "home_team": "Missouri Southern State",
+      "away_team": "Emporia State",
       "start_date": "",
       "draftkings_line": "Line Pending"
     },
@@ -1131,14 +1095,8 @@
       "draftkings_line": "Line Pending"
     },
     {
-      "home_team": "Prairie View A&M",
-      "away_team": "Southern",
-      "start_date": "",
-      "draftkings_line": "Line Pending"
-    },
-    {
-      "home_team": "Wingate",
-      "away_team": "Tusculum",
+      "home_team": "Southwestern Oklahoma State",
+      "away_team": "Southern Arkansas",
       "start_date": "",
       "draftkings_line": "Line Pending"
     },
@@ -1149,8 +1107,14 @@
       "draftkings_line": "Line Pending"
     },
     {
-      "home_team": "Southwestern Oklahoma State",
-      "away_team": "Southern Arkansas",
+      "home_team": "Winona State",
+      "away_team": "Minnesota State",
+      "start_date": "",
+      "draftkings_line": "Line Pending"
+    },
+    {
+      "home_team": "Monmouth (IL)",
+      "away_team": "Luther",
       "start_date": "",
       "draftkings_line": "Line Pending"
     },
@@ -1161,22 +1125,40 @@
       "draftkings_line": "Line Pending"
     },
     {
-      "home_team": "Kansas State",
-      "away_team": "Houston",
+      "home_team": "Jamestown",
+      "away_team": "Minot State",
       "start_date": "",
-      "draftkings_line": "Kansas State -2.5"
+      "draftkings_line": "Line Pending"
     },
     {
-      "home_team": "Oklahoma",
-      "away_team": "Texas",
+      "home_team": "Weber State",
+      "away_team": "Idaho",
       "start_date": "",
-      "draftkings_line": "Oklahoma -10.5"
+      "draftkings_line": "Line Pending"
     },
     {
-      "home_team": "North Texas",
-      "away_team": "Charlotte",
+      "home_team": "The College of New Jersey",
+      "away_team": "Vermont State Castleton",
       "start_date": "",
-      "draftkings_line": "North Texas -28.5"
+      "draftkings_line": "Line Pending"
+    },
+    {
+      "home_team": "Akron",
+      "away_team": "Eastern Michigan",
+      "start_date": "",
+      "draftkings_line": "Akron +5.5"
+    },
+    {
+      "home_team": "Vanderbilt",
+      "away_team": "Ole Miss",
+      "start_date": "",
+      "draftkings_line": "Vanderbilt +9.5"
+    },
+    {
+      "home_team": "Ohio",
+      "away_team": "Central Michigan",
+      "start_date": "",
+      "draftkings_line": "Ohio -2.5"
     },
     {
       "home_team": "Notre Dame",
@@ -1191,22 +1173,10 @@
       "draftkings_line": "Oregon -10.5"
     },
     {
-      "home_team": "Akron",
-      "away_team": "Eastern Michigan",
+      "home_team": "Navy",
+      "away_team": "Tulsa",
       "start_date": "",
-      "draftkings_line": "Akron +5.5"
-    },
-    {
-      "home_team": "Michigan State",
-      "away_team": "Illinois",
-      "start_date": "",
-      "draftkings_line": "Michigan State +2.5"
-    },
-    {
-      "home_team": "Fordham",
-      "away_team": "Richmond",
-      "start_date": "",
-      "draftkings_line": "Line Pending"
+      "draftkings_line": "Navy -1.5"
     },
     {
       "home_team": "Toledo",
@@ -1215,16 +1185,22 @@
       "draftkings_line": "Toledo -18.5"
     },
     {
-      "home_team": "Ohio",
-      "away_team": "Central Michigan",
+      "home_team": "Michigan State",
+      "away_team": "Illinois",
       "start_date": "",
-      "draftkings_line": "Ohio -1.5"
+      "draftkings_line": "Michigan State +2.5"
     },
     {
-      "home_team": "Georgia Tech",
-      "away_team": "Duke",
+      "home_team": "North Texas",
+      "away_team": "Charlotte",
       "start_date": "",
-      "draftkings_line": "Georgia Tech +6.5"
+      "draftkings_line": "North Texas -28.5"
+    },
+    {
+      "home_team": "Fordham",
+      "away_team": "Richmond",
+      "start_date": "",
+      "draftkings_line": "Line Pending"
     },
     {
       "home_team": "Tennessee Tech",
@@ -1233,22 +1209,22 @@
       "draftkings_line": "Line Pending"
     },
     {
-      "home_team": "California",
-      "away_team": "Virginia Tech",
-      "start_date": "",
-      "draftkings_line": "California +10.0"
-    },
-    {
       "home_team": "Tennessee State",
       "away_team": "UT Martin",
       "start_date": "",
       "draftkings_line": "Line Pending"
     },
     {
-      "home_team": "Navy",
-      "away_team": "Tulsa",
+      "home_team": "Kansas State",
+      "away_team": "Houston",
       "start_date": "",
-      "draftkings_line": "Navy -1.5"
+      "draftkings_line": "Kansas State -2.5"
+    },
+    {
+      "home_team": "California",
+      "away_team": "Virginia Tech",
+      "start_date": "",
+      "draftkings_line": "California +10.0"
     },
     {
       "home_team": "Western Michigan",
@@ -1257,10 +1233,10 @@
       "draftkings_line": "Western Michigan -14.0"
     },
     {
-      "home_team": "Vanderbilt",
-      "away_team": "Ole Miss",
+      "home_team": "Georgia Tech",
+      "away_team": "Duke",
       "start_date": "",
-      "draftkings_line": "Vanderbilt +9.5"
+      "draftkings_line": "Georgia Tech +6.5"
     },
     {
       "home_team": "Gardner-Webb",
@@ -1269,10 +1245,22 @@
       "draftkings_line": "Line Pending"
     },
     {
+      "home_team": "Oklahoma",
+      "away_team": "Texas",
+      "start_date": "",
+      "draftkings_line": "Oklahoma -10.5"
+    },
+    {
       "home_team": "Temple",
       "away_team": "UConn",
       "start_date": "",
       "draftkings_line": "Temple -3.5"
+    },
+    {
+      "home_team": "Quincy",
+      "away_team": "William Jewell",
+      "start_date": "",
+      "draftkings_line": "Line Pending"
     },
     {
       "home_team": "La Verne",
@@ -1281,32 +1269,20 @@
       "draftkings_line": "Line Pending"
     },
     {
-      "home_team": "Tiffin",
-      "away_team": "Northwood",
+      "home_team": "Whittier",
+      "away_team": "Pomona Pitzer",
       "start_date": "",
       "draftkings_line": "Line Pending"
     },
     {
-      "home_team": "Western New Mexico",
-      "away_team": "Eastern New Mexico",
+      "home_team": "Portland State",
+      "away_team": "Utah Tech",
       "start_date": "",
       "draftkings_line": "Line Pending"
     },
     {
-      "home_team": "East Carolina",
-      "away_team": "Rice",
-      "start_date": "",
-      "draftkings_line": "East Carolina -10.0"
-    },
-    {
-      "home_team": "Lamar",
-      "away_team": "Incarnate Word",
-      "start_date": "",
-      "draftkings_line": "Line Pending"
-    },
-    {
-      "home_team": "Quincy",
-      "away_team": "William Jewell",
+      "home_team": "Prairie View A&M",
+      "away_team": "Southern",
       "start_date": "",
       "draftkings_line": "Line Pending"
     },
@@ -1317,14 +1293,20 @@
       "draftkings_line": "Line Pending"
     },
     {
-      "home_team": "Northwestern (OK)",
-      "away_team": "Henderson State",
+      "home_team": "West Virginia Wesleyan",
+      "away_team": "Fairmont State",
       "start_date": "",
       "draftkings_line": "Line Pending"
     },
     {
       "home_team": "Pacific (OR)",
       "away_team": "Linfield",
+      "start_date": "",
+      "draftkings_line": "Line Pending"
+    },
+    {
+      "home_team": "Pacific Lutheran",
+      "away_team": "Puget Sound",
       "start_date": "",
       "draftkings_line": "Line Pending"
     },
@@ -1341,32 +1323,32 @@
       "draftkings_line": "Line Pending"
     },
     {
-      "home_team": "Kentucky Wesleyan",
-      "away_team": "Lake Erie",
-      "start_date": "",
-      "draftkings_line": "Line Pending"
-    },
-    {
       "home_team": "Roanoke College",
       "away_team": "Hampden Sydney",
       "start_date": "",
       "draftkings_line": "Line Pending"
     },
     {
-      "home_team": "Whittier",
-      "away_team": "Pomona Pitzer",
+      "home_team": "Western New Mexico",
+      "away_team": "Eastern New Mexico",
       "start_date": "",
       "draftkings_line": "Line Pending"
     },
     {
-      "home_team": "Averett",
-      "away_team": "Shenandoah",
+      "home_team": "Tiffin",
+      "away_team": "Northwood",
       "start_date": "",
       "draftkings_line": "Line Pending"
     },
     {
-      "home_team": "Portland State",
-      "away_team": "Utah Tech",
+      "home_team": "Northwestern (OK)",
+      "away_team": "Henderson State",
+      "start_date": "",
+      "draftkings_line": "Line Pending"
+    },
+    {
+      "home_team": "Lamar",
+      "away_team": "Incarnate Word",
       "start_date": "",
       "draftkings_line": "Line Pending"
     },
@@ -1377,44 +1359,20 @@
       "draftkings_line": "Line Pending"
     },
     {
-      "home_team": "Ohio State",
-      "away_team": "Maryland",
-      "start_date": "",
-      "draftkings_line": "Ohio State -33.5"
-    },
-    {
       "home_team": "Arkansas",
       "away_team": "Tennessee",
       "start_date": "",
       "draftkings_line": "Arkansas +13.5"
     },
     {
+      "home_team": "Ohio State",
+      "away_team": "Maryland",
+      "start_date": "",
+      "draftkings_line": "Ohio State -33.5"
+    },
+    {
       "home_team": "Montclair State",
       "away_team": "William Paterson",
-      "start_date": "",
-      "draftkings_line": "Line Pending"
-    },
-    {
-      "home_team": "Grambling",
-      "away_team": "Jackson State",
-      "start_date": "",
-      "draftkings_line": "Line Pending"
-    },
-    {
-      "home_team": "West Florida",
-      "away_team": "Northeastern State",
-      "start_date": "",
-      "draftkings_line": "Line Pending"
-    },
-    {
-      "home_team": "Arkansas Tech",
-      "away_team": "East Central",
-      "start_date": "",
-      "draftkings_line": "Line Pending"
-    },
-    {
-      "home_team": "Northern Iowa",
-      "away_team": "North Dakota",
       "start_date": "",
       "draftkings_line": "Line Pending"
     },
@@ -1425,26 +1383,44 @@
       "draftkings_line": "Line Pending"
     },
     {
-      "home_team": "Oregon State",
-      "away_team": "San Diego State",
-      "start_date": "",
-      "draftkings_line": "Oregon State -16.5"
-    },
-    {
-      "home_team": "West Chester",
-      "away_team": "Shepherd",
+      "home_team": "Tufts",
+      "away_team": "Bowdoin",
       "start_date": "",
       "draftkings_line": "Line Pending"
     },
     {
-      "home_team": "Eastern Kentucky",
-      "away_team": "West Georgia",
+      "home_team": "Arkansas Tech",
+      "away_team": "East Central",
       "start_date": "",
       "draftkings_line": "Line Pending"
     },
     {
-      "home_team": "UVA Wise",
-      "away_team": "Lenoir Rhyne",
+      "home_team": "West Florida",
+      "away_team": "Northeastern State",
+      "start_date": "",
+      "draftkings_line": "Line Pending"
+    },
+    {
+      "home_team": "Kentucky Wesleyan",
+      "away_team": "Lake Erie",
+      "start_date": "",
+      "draftkings_line": "Line Pending"
+    },
+    {
+      "home_team": "Grambling",
+      "away_team": "Jackson State",
+      "start_date": "",
+      "draftkings_line": "Line Pending"
+    },
+    {
+      "home_team": "Northern Iowa",
+      "away_team": "North Dakota",
+      "start_date": "",
+      "draftkings_line": "Line Pending"
+    },
+    {
+      "home_team": "Indianapolis",
+      "away_team": "Missouri S&T",
       "start_date": "",
       "draftkings_line": "Line Pending"
     },
@@ -1467,86 +1443,32 @@
       "draftkings_line": "Line Pending"
     },
     {
+      "home_team": "West Chester",
+      "away_team": "Shepherd",
+      "start_date": "",
+      "draftkings_line": "Line Pending"
+    },
+    {
       "home_team": "Slippery Rock",
       "away_team": "Seton Hill",
       "start_date": "",
       "draftkings_line": "Line Pending"
     },
     {
-      "home_team": "Indianapolis",
-      "away_team": "Missouri S&T",
+      "home_team": "Eastern Kentucky",
+      "away_team": "West Georgia",
       "start_date": "",
       "draftkings_line": "Line Pending"
     },
     {
-      "home_team": "Memphis",
-      "away_team": "UAB",
+      "home_team": "Oregon State",
+      "away_team": "San Diego State",
       "start_date": "",
-      "draftkings_line": "Memphis -14.5"
+      "draftkings_line": "Oregon State -16.5"
     },
     {
-      "home_team": "Westminster (PA)",
-      "away_team": "Grove City",
-      "start_date": "",
-      "draftkings_line": "Line Pending"
-    },
-    {
-      "home_team": "Austin Peay",
-      "away_team": "Tarleton State",
-      "start_date": "",
-      "draftkings_line": "Line Pending"
-    },
-    {
-      "home_team": "UTEP",
-      "away_team": "Nevada",
-      "start_date": "",
-      "draftkings_line": "UTEP +9.5"
-    },
-    {
-      "home_team": "Alabama A&M",
-      "away_team": "Bethune-Cookman",
-      "start_date": "",
-      "draftkings_line": "Line Pending"
-    },
-    {
-      "home_team": "North Central College",
-      "away_team": "Wheaton (IL)",
-      "start_date": "",
-      "draftkings_line": "Line Pending"
-    },
-    {
-      "home_team": "Marshall",
-      "away_team": "Coastal Carolina",
-      "start_date": "",
-      "draftkings_line": "Marshall -4.0"
-    },
-    {
-      "home_team": "Wisconsin Lutheran",
-      "away_team": "Benedictine (IL)",
-      "start_date": "",
-      "draftkings_line": "Line Pending"
-    },
-    {
-      "home_team": "UNLV",
-      "away_team": "North Dakota State",
-      "start_date": "",
-      "draftkings_line": "UNLV +2.5"
-    },
-    {
-      "home_team": "Kentucky",
-      "away_team": "LSU",
-      "start_date": "",
-      "draftkings_line": "Kentucky +8.5"
-    },
-    {
-      "home_team": "Wilmington (OH)",
-      "away_team": "Hanover",
-      "start_date": "",
-      "draftkings_line": "Line Pending"
-    },
-    {
-      "home_team": "Angelo State",
-      "away_team": "Sul Ross State",
+      "home_team": "UVA Wise",
+      "away_team": "Lenoir Rhyne",
       "start_date": "",
       "draftkings_line": "Line Pending"
     },
@@ -1563,34 +1485,70 @@
       "draftkings_line": "Line Pending"
     },
     {
-      "home_team": "Alabama",
-      "away_team": "Georgia",
+      "home_team": "Angelo State",
+      "away_team": "Sul Ross State",
       "start_date": "",
-      "draftkings_line": "Alabama -1.5"
+      "draftkings_line": "Line Pending"
     },
     {
-      "home_team": "Penn State",
-      "away_team": "USC",
+      "home_team": "North Central College",
+      "away_team": "Wheaton (IL)",
       "start_date": "",
-      "draftkings_line": "Penn State -1.5"
+      "draftkings_line": "Line Pending"
     },
     {
-      "home_team": "Virginia",
-      "away_team": "Syracuse",
+      "home_team": "Wisconsin Lutheran",
+      "away_team": "Benedictine (IL)",
       "start_date": "",
-      "draftkings_line": "Virginia +3.5"
+      "draftkings_line": "Line Pending"
     },
     {
-      "home_team": "Louisiana Tech",
-      "away_team": "Louisiana",
+      "home_team": "UTEP",
+      "away_team": "Nevada",
       "start_date": "",
-      "draftkings_line": "Louisiana Tech -3.0"
+      "draftkings_line": "UTEP +9.5"
     },
     {
-      "home_team": "Northern Illinois",
-      "away_team": "Air Force",
+      "home_team": "Memphis",
+      "away_team": "UAB",
       "start_date": "",
-      "draftkings_line": "Northern Illinois +7.0"
+      "draftkings_line": "Memphis -14.5"
+    },
+    {
+      "home_team": "Austin Peay",
+      "away_team": "Tarleton State",
+      "start_date": "",
+      "draftkings_line": "Line Pending"
+    },
+    {
+      "home_team": "Kentucky",
+      "away_team": "LSU",
+      "start_date": "",
+      "draftkings_line": "Kentucky +8.5"
+    },
+    {
+      "home_team": "Westminster (PA)",
+      "away_team": "Grove City",
+      "start_date": "",
+      "draftkings_line": "Line Pending"
+    },
+    {
+      "home_team": "Marshall",
+      "away_team": "Coastal Carolina",
+      "start_date": "",
+      "draftkings_line": "Marshall -4.5"
+    },
+    {
+      "home_team": "UNLV",
+      "away_team": "North Dakota State",
+      "start_date": "",
+      "draftkings_line": "UNLV +2.5"
+    },
+    {
+      "home_team": "Wilmington (OH)",
+      "away_team": "Hanover",
+      "start_date": "",
+      "draftkings_line": "Line Pending"
     },
     {
       "home_team": "Georgia Southern",
@@ -1599,22 +1557,34 @@
       "draftkings_line": "Georgia Southern +7.5"
     },
     {
-      "home_team": "Abilene Christian",
-      "away_team": "Central Arkansas",
+      "home_team": "Alabama",
+      "away_team": "Georgia",
       "start_date": "",
-      "draftkings_line": "Line Pending"
+      "draftkings_line": "Alabama -2.5"
     },
     {
-      "home_team": "Purdue",
-      "away_team": "Minnesota",
+      "home_team": "Virginia",
+      "away_team": "Syracuse",
       "start_date": "",
-      "draftkings_line": "Purdue +2.5"
+      "draftkings_line": "Virginia +3.5"
     },
     {
-      "home_team": "UT Rio Grande Valley",
-      "away_team": "SE Louisiana",
+      "home_team": "Penn State",
+      "away_team": "USC",
       "start_date": "",
-      "draftkings_line": "Line Pending"
+      "draftkings_line": "Penn State -1.5"
+    },
+    {
+      "home_team": "Northern Illinois",
+      "away_team": "Air Force",
+      "start_date": "",
+      "draftkings_line": "Northern Illinois +7.0"
+    },
+    {
+      "home_team": "Louisiana Tech",
+      "away_team": "Louisiana",
+      "start_date": "",
+      "draftkings_line": "Louisiana Tech -3.0"
     },
     {
       "home_team": "West Texas",
@@ -1627,6 +1597,30 @@
       "away_team": "Fort Hays",
       "start_date": "",
       "draftkings_line": "Line Pending"
+    },
+    {
+      "home_team": "Utah",
+      "away_team": "Kansas",
+      "start_date": "",
+      "draftkings_line": "Utah -15.5"
+    },
+    {
+      "home_team": "UT Rio Grande Valley",
+      "away_team": "SE Louisiana",
+      "start_date": "",
+      "draftkings_line": "Line Pending"
+    },
+    {
+      "home_team": "Abilene Christian",
+      "away_team": "Central Arkansas",
+      "start_date": "",
+      "draftkings_line": "Line Pending"
+    },
+    {
+      "home_team": "Purdue",
+      "away_team": "Minnesota",
+      "start_date": "",
+      "draftkings_line": "Purdue +2.5"
     },
     {
       "home_team": "Central Washington",
@@ -1645,12 +1639,6 @@
       "away_team": "Chapman",
       "start_date": "",
       "draftkings_line": "Line Pending"
-    },
-    {
-      "home_team": "Utah",
-      "away_team": "Kansas",
-      "start_date": "",
-      "draftkings_line": "Utah -15.5"
     },
     {
       "home_team": "Arizona State",
