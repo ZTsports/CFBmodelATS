@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-10T00:15:38.037529+00:00",
+  "last_updated": "2026-10-10T06:12:27.154751+00:00",
   "games_count": 277,
   "games": [
     {
@@ -96,7 +96,7 @@
       "home_team": "Louisville",
       "away_team": "Florida State",
       "start_date": "",
-      "draftkings_line": "Louisville +1.5"
+      "draftkings_line": "Line Pending"
     },
     {
       "home_team": "Rhodes",
@@ -108,13 +108,13 @@
       "home_team": "Washington",
       "away_team": "Iowa",
       "start_date": "",
-      "draftkings_line": "Washington -3.0"
+      "draftkings_line": "Line Pending"
     },
     {
       "home_team": "Utah State",
       "away_team": "Washington State",
       "start_date": "",
-      "draftkings_line": "Utah State -4.0"
+      "draftkings_line": "Line Pending"
     },
     {
       "home_team": "San Jos\u00e9 State",
@@ -126,7 +126,7 @@
       "home_team": "BYU",
       "away_team": "Iowa State",
       "start_date": "",
-      "draftkings_line": "BYU -11.5"
+      "draftkings_line": "Line Pending"
     },
     {
       "home_team": "Missouri",
@@ -366,7 +366,7 @@
       "home_team": "Florida",
       "away_team": "South Carolina",
       "start_date": "",
-      "draftkings_line": "Florida -11.5"
+      "draftkings_line": "Florida -10.5"
     },
     {
       "home_team": "Cornell",
@@ -1650,7 +1650,7 @@
       "home_team": "Utah",
       "away_team": "Kansas",
       "start_date": "",
-      "draftkings_line": "Utah -4.0"
+      "draftkings_line": "Utah -15.5"
     },
     {
       "home_team": "Arizona State",
