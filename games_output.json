@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-11T06:13:01.589281+00:00",
+  "last_updated": "2026-10-11T12:12:26.759776+00:00",
   "games_count": 275,
   "games": [
     {
@@ -1170,7 +1170,7 @@
       "home_team": "Oregon",
       "away_team": "UCLA",
       "start_date": "",
-      "draftkings_line": "Oregon -7.5"
+      "draftkings_line": "Oregon -7.0"
     },
     {
       "home_team": "Navy",
@@ -1188,7 +1188,7 @@
       "home_team": "Michigan State",
       "away_team": "Illinois",
       "start_date": "",
-      "draftkings_line": "Michigan State +7.5"
+      "draftkings_line": "Michigan State +8.5"
     },
     {
       "home_team": "North Texas",
@@ -1224,7 +1224,7 @@
       "home_team": "California",
       "away_team": "Virginia Tech",
       "start_date": "",
-      "draftkings_line": "Line Pending"
+      "draftkings_line": "California +8.5"
     },
     {
       "home_team": "Western Michigan",
@@ -1464,7 +1464,7 @@
       "home_team": "Oregon State",
       "away_team": "San Diego State",
       "start_date": "",
-      "draftkings_line": "Line Pending"
+      "draftkings_line": "Oregon State -15.5"
     },
     {
       "home_team": "UVA Wise",
@@ -1644,13 +1644,13 @@
       "home_team": "Arizona State",
       "away_team": "Hawai'i",
       "start_date": "",
-      "draftkings_line": "Arizona State -12.5"
+      "draftkings_line": "Line Pending"
     },
     {
       "home_team": "Fresno State",
       "away_team": "Boise State",
       "start_date": "",
-      "draftkings_line": "Fresno State +9.5"
+      "draftkings_line": "Line Pending"
     }
   ]
 }
