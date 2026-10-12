@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-12T12:20:05.600115+00:00",
+  "last_updated": "2026-10-12T18:11:49.558857+00:00",
   "games_count": 275,
   "games": [
     {
@@ -126,7 +126,7 @@
       "home_team": "BYU",
       "away_team": "Iowa State",
       "start_date": "",
-      "draftkings_line": "BYU +10.5"
+      "draftkings_line": "BYU +10.0"
     },
     {
       "home_team": "Maine Maritime",
@@ -288,7 +288,7 @@
       "home_team": "Bowling Green",
       "away_team": "Sacramento State",
       "start_date": "",
-      "draftkings_line": "Bowling Green -7.5"
+      "draftkings_line": "Bowling Green -6.5"
     },
     {
       "home_team": "Kutztown",
@@ -366,7 +366,7 @@
       "home_team": "Eastern",
       "away_team": "King's",
       "start_date": "",
-      "draftkings_line": "Eastern +5.5"
+      "draftkings_line": "Eastern +6.5"
     },
     {
       "home_team": "Northwestern",
@@ -1170,7 +1170,7 @@
       "home_team": "Oregon",
       "away_team": "UCLA",
       "start_date": "",
-      "draftkings_line": "Oregon -18.5"
+      "draftkings_line": "Oregon -17.5"
     },
     {
       "home_team": "Navy",
@@ -1218,13 +1218,13 @@
       "home_team": "Kansas State",
       "away_team": "Houston",
       "start_date": "",
-      "draftkings_line": "Kansas State -6.0"
+      "draftkings_line": "Kansas State -4.5"
     },
     {
       "home_team": "California",
       "away_team": "Virginia Tech",
       "start_date": "",
-      "draftkings_line": "California +10.0"
+      "draftkings_line": "California +9.5"
     },
     {
       "home_team": "Western Michigan",
@@ -1248,7 +1248,7 @@
       "home_team": "Oklahoma",
       "away_team": "Texas",
       "start_date": "",
-      "draftkings_line": "Oklahoma -7.0"
+      "draftkings_line": "Oklahoma -6.5"
     },
     {
       "home_team": "Temple",
@@ -1464,7 +1464,7 @@
       "home_team": "Oregon State",
       "away_team": "San Diego State",
       "start_date": "",
-      "draftkings_line": "Oregon State -18.5"
+      "draftkings_line": "Oregon State -17.5"
     },
     {
       "home_team": "UVA Wise",
@@ -1506,7 +1506,7 @@
       "home_team": "UTEP",
       "away_team": "Nevada",
       "start_date": "",
-      "draftkings_line": "UTEP +8.5"
+      "draftkings_line": "UTEP +7.5"
     },
     {
       "home_team": "Memphis",
