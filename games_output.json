@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-12T18:11:49.558857+00:00",
+  "last_updated": "2026-10-13T00:17:45.146269+00:00",
   "games_count": 275,
   "games": [
     {
@@ -150,7 +150,7 @@
       "home_team": "West Virginia",
       "away_team": "Arizona",
       "start_date": "",
-      "draftkings_line": "West Virginia -2.5"
+      "draftkings_line": "West Virginia -1.5"
     },
     {
       "home_team": "Alvernia",
@@ -1248,7 +1248,7 @@
       "home_team": "Oklahoma",
       "away_team": "Texas",
       "start_date": "",
-      "draftkings_line": "Oklahoma -6.5"
+      "draftkings_line": "Oklahoma -7.0"
     },
     {
       "home_team": "Temple",
@@ -1566,7 +1566,7 @@
       "home_team": "Virginia",
       "away_team": "Syracuse",
       "start_date": "",
-      "draftkings_line": "Virginia -2.5"
+      "draftkings_line": "Virginia -1.5"
     },
     {
       "home_team": "Penn State",
@@ -1620,7 +1620,7 @@
       "home_team": "Purdue",
       "away_team": "Minnesota",
       "start_date": "",
-      "draftkings_line": "Purdue -3.0"
+      "draftkings_line": "Purdue -3.5"
     },
     {
       "home_team": "Central Washington",
