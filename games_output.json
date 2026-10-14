@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-14T12:26:45.667557+00:00",
+  "last_updated": "2026-10-14T18:25:47.359523+00:00",
   "games_count": 275,
   "games": [
     {
@@ -324,7 +324,7 @@
       "home_team": "Missouri",
       "away_team": "Texas A&M",
       "start_date": "",
-      "draftkings_line": "Missouri +3.0"
+      "draftkings_line": "Missouri +2.5"
     },
     {
       "home_team": "Sacred Heart",
@@ -1038,7 +1038,7 @@
       "home_team": "Northwest Missouri State",
       "away_team": "Central Missouri",
       "start_date": "",
-      "draftkings_line": "Northwest Missouri State +3.0"
+      "draftkings_line": "Northwest Missouri State +2.5"
     },
     {
       "home_team": "Wartburg",
@@ -1170,7 +1170,7 @@
       "home_team": "Oregon",
       "away_team": "UCLA",
       "start_date": "",
-      "draftkings_line": "Oregon -17.5"
+      "draftkings_line": "Oregon -18.5"
     },
     {
       "home_team": "Navy",
@@ -1464,7 +1464,7 @@
       "home_team": "Oregon State",
       "away_team": "San Diego State",
       "start_date": "",
-      "draftkings_line": "Oregon State -17.5"
+      "draftkings_line": "Oregon State -18.5"
     },
     {
       "home_team": "UVA Wise",
