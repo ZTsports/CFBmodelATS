@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-15T12:26:24.176269+00:00",
+  "last_updated": "2026-10-15T18:23:34.546889+00:00",
   "games_count": 275,
   "games": [
     {
@@ -12,13 +12,13 @@
       "home_team": "Kennesaw State",
       "away_team": "Jacksonville State",
       "start_date": "",
-      "draftkings_line": "Line Pending"
+      "draftkings_line": "Kennesaw State +9.5"
     },
     {
       "home_team": "Florida International",
       "away_team": "New Mexico State",
       "start_date": "",
-      "draftkings_line": "Line Pending"
+      "draftkings_line": "Florida International -9.5"
     },
     {
       "home_team": "Western Kentucky",
@@ -1602,7 +1602,7 @@
       "home_team": "Utah",
       "away_team": "Kansas",
       "start_date": "",
-      "draftkings_line": "Utah -7.0"
+      "draftkings_line": "Utah -6.5"
     },
     {
       "home_team": "UT Rio Grande Valley",
