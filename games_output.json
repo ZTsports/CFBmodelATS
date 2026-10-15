@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-14T18:25:47.359523+00:00",
+  "last_updated": "2026-10-15T00:22:47.164001+00:00",
   "games_count": 275,
   "games": [
     {
@@ -324,7 +324,7 @@
       "home_team": "Missouri",
       "away_team": "Texas A&M",
       "start_date": "",
-      "draftkings_line": "Missouri +2.5"
+      "draftkings_line": "Missouri -4.5"
     },
     {
       "home_team": "Sacred Heart",
@@ -1038,7 +1038,7 @@
       "home_team": "Northwest Missouri State",
       "away_team": "Central Missouri",
       "start_date": "",
-      "draftkings_line": "Northwest Missouri State +2.5"
+      "draftkings_line": "Northwest Missouri State -4.5"
     },
     {
       "home_team": "Wartburg",
@@ -1248,7 +1248,7 @@
       "home_team": "Oklahoma",
       "away_team": "Texas",
       "start_date": "",
-      "draftkings_line": "Oklahoma -7.0"
+      "draftkings_line": "Oklahoma -6.5"
     },
     {
       "home_team": "Temple",
@@ -1524,7 +1524,7 @@
       "home_team": "Kentucky",
       "away_team": "LSU",
       "start_date": "",
-      "draftkings_line": "Line Pending"
+      "draftkings_line": "Kentucky -9.5"
     },
     {
       "home_team": "Westminster (PA)",
@@ -1536,7 +1536,7 @@
       "home_team": "Marshall",
       "away_team": "Coastal Carolina",
       "start_date": "",
-      "draftkings_line": "Line Pending"
+      "draftkings_line": "Marshall +2.5"
     },
     {
       "home_team": "UNLV",
@@ -1560,7 +1560,7 @@
       "home_team": "Alabama",
       "away_team": "Georgia",
       "start_date": "",
-      "draftkings_line": "Line Pending"
+      "draftkings_line": "Alabama -15.5"
     },
     {
       "home_team": "Virginia",
@@ -1602,7 +1602,7 @@
       "home_team": "Utah",
       "away_team": "Kansas",
       "start_date": "",
-      "draftkings_line": "Line Pending"
+      "draftkings_line": "Utah -7.0"
     },
     {
       "home_team": "UT Rio Grande Valley",
