@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-16T00:20:52.640008+00:00",
+  "last_updated": "2026-10-16T06:25:19.859069+00:00",
   "games_count": 275,
   "games": [
     {
@@ -12,13 +12,13 @@
       "home_team": "Kennesaw State",
       "away_team": "Jacksonville State",
       "start_date": "",
-      "draftkings_line": "Kennesaw State +9.5"
+      "draftkings_line": "Kennesaw State +8.5"
     },
     {
       "home_team": "Florida International",
       "away_team": "New Mexico State",
       "start_date": "",
-      "draftkings_line": "Florida International -9.5"
+      "draftkings_line": "Florida International -10.5"
     },
     {
       "home_team": "Western Kentucky",
@@ -1506,7 +1506,7 @@
       "home_team": "UTEP",
       "away_team": "Nevada",
       "start_date": "",
-      "draftkings_line": "UTEP +6.5"
+      "draftkings_line": "UTEP +7.0"
     },
     {
       "home_team": "Memphis",
