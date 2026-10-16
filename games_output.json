@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-15T18:23:34.546889+00:00",
+  "last_updated": "2026-10-16T00:20:52.640008+00:00",
   "games_count": 275,
   "games": [
     {
@@ -1188,7 +1188,7 @@
       "home_team": "Michigan State",
       "away_team": "Illinois",
       "start_date": "",
-      "draftkings_line": "Michigan State +7.5"
+      "draftkings_line": "Michigan State +7.0"
     },
     {
       "home_team": "North Texas",
@@ -1224,7 +1224,7 @@
       "home_team": "California",
       "away_team": "Virginia Tech",
       "start_date": "",
-      "draftkings_line": "California +9.5"
+      "draftkings_line": "California +10.0"
     },
     {
       "home_team": "Western Michigan",
@@ -1506,7 +1506,7 @@
       "home_team": "UTEP",
       "away_team": "Nevada",
       "start_date": "",
-      "draftkings_line": "UTEP +7.5"
+      "draftkings_line": "UTEP +6.5"
     },
     {
       "home_team": "Memphis",
