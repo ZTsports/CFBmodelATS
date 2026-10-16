@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-16T12:25:24.728343+00:00",
+  "last_updated": "2026-10-16T18:22:18.156465+00:00",
   "games_count": 275,
   "games": [
     {
@@ -18,7 +18,7 @@
       "home_team": "Florida International",
       "away_team": "New Mexico State",
       "start_date": "",
-      "draftkings_line": "Florida International -10.5"
+      "draftkings_line": "Florida International -10.0"
     },
     {
       "home_team": "Western Kentucky",
@@ -1536,7 +1536,7 @@
       "home_team": "Marshall",
       "away_team": "Coastal Carolina",
       "start_date": "",
-      "draftkings_line": "Marshall +2.5"
+      "draftkings_line": "Marshall +3.0"
     },
     {
       "home_team": "UNLV",
@@ -1620,7 +1620,7 @@
       "home_team": "Purdue",
       "away_team": "Minnesota",
       "start_date": "",
-      "draftkings_line": "Purdue -3.5"
+      "draftkings_line": "Purdue -3.0"
     },
     {
       "home_team": "Central Washington",
