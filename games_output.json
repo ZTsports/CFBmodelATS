@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-16T18:22:18.156465+00:00",
+  "last_updated": "2026-10-17T00:22:11.230577+00:00",
   "games_count": 275,
   "games": [
     {
@@ -1218,7 +1218,7 @@
       "home_team": "Kansas State",
       "away_team": "Houston",
       "start_date": "",
-      "draftkings_line": "Kansas State -4.5"
+      "draftkings_line": "Kansas State -3.5"
     },
     {
       "home_team": "California",
@@ -1254,7 +1254,7 @@
       "home_team": "Temple",
       "away_team": "UConn",
       "start_date": "",
-      "draftkings_line": "Temple -21.0"
+      "draftkings_line": "Temple -20.5"
     },
     {
       "home_team": "Quincy",
@@ -1620,7 +1620,7 @@
       "home_team": "Purdue",
       "away_team": "Minnesota",
       "start_date": "",
-      "draftkings_line": "Purdue -3.0"
+      "draftkings_line": "Purdue +3.5"
     },
     {
       "home_team": "Central Washington",
