@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-18T06:20:44.588807+00:00",
+  "last_updated": "2026-10-18T12:18:21.924110+00:00",
   "games_count": 275,
   "games": [
     {
@@ -108,7 +108,7 @@
       "home_team": "Washington",
       "away_team": "Iowa",
       "start_date": "",
-      "draftkings_line": "Line Pending"
+      "draftkings_line": "Washington +15.5"
     },
     {
       "home_team": "Utah State",
@@ -270,7 +270,7 @@
       "home_team": "Oklahoma State",
       "away_team": "UCF",
       "start_date": "",
-      "draftkings_line": "Line Pending"
+      "draftkings_line": "Oklahoma State -14.5"
     },
     {
       "home_team": "Pittsburgh",
@@ -1170,7 +1170,7 @@
       "home_team": "Oregon",
       "away_team": "UCLA",
       "start_date": "",
-      "draftkings_line": "Oregon +4.5"
+      "draftkings_line": "Line Pending"
     },
     {
       "home_team": "Navy",
@@ -1236,7 +1236,7 @@
       "home_team": "Georgia Tech",
       "away_team": "Duke",
       "start_date": "",
-      "draftkings_line": "Line Pending"
+      "draftkings_line": "Georgia Tech -4.5"
     },
     {
       "home_team": "Gardner-Webb",
@@ -1248,7 +1248,7 @@
       "home_team": "Oklahoma",
       "away_team": "Texas",
       "start_date": "",
-      "draftkings_line": "Line Pending"
+      "draftkings_line": "Oklahoma -14.5"
     },
     {
       "home_team": "Temple",
@@ -1602,7 +1602,7 @@
       "home_team": "Utah",
       "away_team": "Kansas",
       "start_date": "",
-      "draftkings_line": "Line Pending"
+      "draftkings_line": "Utah -5.5"
     },
     {
       "home_team": "UT Rio Grande Valley",
@@ -1644,7 +1644,7 @@
       "home_team": "Arizona State",
       "away_team": "Hawai'i",
       "start_date": "",
-      "draftkings_line": "Line Pending"
+      "draftkings_line": "Arizona State +3.5"
     },
     {
       "home_team": "Fresno State",
