@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-17T18:15:32.598471+00:00",
+  "last_updated": "2026-10-18T00:21:25.636052+00:00",
   "games_count": 275,
   "games": [
     {
@@ -42,7 +42,7 @@
       "home_team": "UTSA",
       "away_team": "South Florida",
       "start_date": "",
-      "draftkings_line": "UTSA -6.5"
+      "draftkings_line": "UTSA +2.5"
     },
     {
       "home_team": "Alabama State",
@@ -126,7 +126,7 @@
       "home_team": "BYU",
       "away_team": "Iowa State",
       "start_date": "",
-      "draftkings_line": "BYU +10.5"
+      "draftkings_line": "BYU +6.5"
     },
     {
       "home_team": "Maine Maritime",
@@ -150,7 +150,7 @@
       "home_team": "West Virginia",
       "away_team": "Arizona",
       "start_date": "",
-      "draftkings_line": "West Virginia +2.5"
+      "draftkings_line": "Line Pending"
     },
     {
       "home_team": "Alvernia",
@@ -282,13 +282,13 @@
       "home_team": "Army",
       "away_team": "Tulane",
       "start_date": "",
-      "draftkings_line": "Army -21.5"
+      "draftkings_line": "Line Pending"
     },
     {
       "home_team": "Bowling Green",
       "away_team": "Sacramento State",
       "start_date": "",
-      "draftkings_line": "Bowling Green +5.5"
+      "draftkings_line": "Line Pending"
     },
     {
       "home_team": "Kutztown",
@@ -366,7 +366,7 @@
       "home_team": "Eastern",
       "away_team": "King's",
       "start_date": "",
-      "draftkings_line": "Eastern +7.0"
+      "draftkings_line": "Line Pending"
     },
     {
       "home_team": "Northwestern",
@@ -378,7 +378,7 @@
       "home_team": "Florida",
       "away_team": "South Carolina",
       "start_date": "",
-      "draftkings_line": "Florida -21.0"
+      "draftkings_line": "Florida -14.5"
     },
     {
       "home_team": "Cornell",
@@ -1170,7 +1170,7 @@
       "home_team": "Oregon",
       "away_team": "UCLA",
       "start_date": "",
-      "draftkings_line": "Oregon -18.5"
+      "draftkings_line": "Oregon -24.5"
     },
     {
       "home_team": "Navy",
@@ -1188,7 +1188,7 @@
       "home_team": "Michigan State",
       "away_team": "Illinois",
       "start_date": "",
-      "draftkings_line": "Michigan State -1.5"
+      "draftkings_line": "Line Pending"
     },
     {
       "home_team": "North Texas",
@@ -1218,7 +1218,7 @@
       "home_team": "Kansas State",
       "away_team": "Houston",
       "start_date": "",
-      "draftkings_line": "Kansas State +2.5"
+      "draftkings_line": "Line Pending"
     },
     {
       "home_team": "California",
@@ -1248,13 +1248,13 @@
       "home_team": "Oklahoma",
       "away_team": "Texas",
       "start_date": "",
-      "draftkings_line": "Oklahoma -6.5"
+      "draftkings_line": "Oklahoma -3.5"
     },
     {
       "home_team": "Temple",
       "away_team": "UConn",
       "start_date": "",
-      "draftkings_line": "Temple -13.5"
+      "draftkings_line": "Line Pending"
     },
     {
       "home_team": "Quincy",
@@ -1464,7 +1464,7 @@
       "home_team": "Oregon State",
       "away_team": "San Diego State",
       "start_date": "",
-      "draftkings_line": "Oregon State -18.5"
+      "draftkings_line": "Oregon State -24.5"
     },
     {
       "home_team": "UVA Wise",
@@ -1506,7 +1506,7 @@
       "home_team": "UTEP",
       "away_team": "Nevada",
       "start_date": "",
-      "draftkings_line": "UTEP +7.0"
+      "draftkings_line": "UTEP +6.5"
     },
     {
       "home_team": "Memphis",
@@ -1560,13 +1560,13 @@
       "home_team": "Alabama",
       "away_team": "Georgia",
       "start_date": "",
-      "draftkings_line": "Alabama -16.5"
+      "draftkings_line": "Line Pending"
     },
     {
       "home_team": "Virginia",
       "away_team": "Syracuse",
       "start_date": "",
-      "draftkings_line": "Virginia +2.5"
+      "draftkings_line": "Line Pending"
     },
     {
       "home_team": "Penn State",
@@ -1602,7 +1602,7 @@
       "home_team": "Utah",
       "away_team": "Kansas",
       "start_date": "",
-      "draftkings_line": "Utah -6.5"
+      "draftkings_line": "Line Pending"
     },
     {
       "home_team": "UT Rio Grande Valley",
