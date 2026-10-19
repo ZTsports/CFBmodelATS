@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-10-19T00:22:30.093276+00:00",
+  "last_updated": "2026-10-19T06:30:11.084956+00:00",
   "games_count": 275,
   "games": [
     {
       "home_team": "Troy",
       "away_team": "Southern Miss",
       "start_date": "",
-      "draftkings_line": "Troy -17.5"
+      "draftkings_line": "Troy -16.5"
     },
     {
       "home_team": "Kennesaw State",
       "away_team": "Jacksonville State",
       "start_date": "",
-      "draftkings_line": "Kennesaw State +11.5"
+      "draftkings_line": "Kennesaw State +10.5"
     },
     {
       "home_team": "Florida International",
@@ -270,7 +270,7 @@
       "home_team": "Oklahoma State",
       "away_team": "UCF",
       "start_date": "",
-      "draftkings_line": "Oklahoma State -14.0"
+      "draftkings_line": "Oklahoma State -13.5"
     },
     {
       "home_team": "Pittsburgh",
@@ -1158,7 +1158,7 @@
       "home_team": "Ohio",
       "away_team": "Central Michigan",
       "start_date": "",
-      "draftkings_line": "Ohio -10.5"
+      "draftkings_line": "Ohio -11.5"
     },
     {
       "home_team": "Notre Dame",
@@ -1248,7 +1248,7 @@
       "home_team": "Oklahoma",
       "away_team": "Texas",
       "start_date": "",
-      "draftkings_line": "Oklahoma -14.0"
+      "draftkings_line": "Oklahoma -13.5"
     },
     {
       "home_team": "Temple",
@@ -1536,7 +1536,7 @@
       "home_team": "Marshall",
       "away_team": "Coastal Carolina",
       "start_date": "",
-      "draftkings_line": "Marshall +3.0"
+      "draftkings_line": "Marshall +2.5"
     },
     {
       "home_team": "UNLV",
