@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-21T12:27:37.299717+00:00",
+  "last_updated": "2026-10-21T18:24:24.322317+00:00",
   "games_count": 274,
   "games": [
     {
       "home_team": "Troy",
       "away_team": "Southern Miss",
       "start_date": "",
-      "draftkings_line": "Troy -14.5"
+      "draftkings_line": "Troy -14.0"
     },
     {
       "home_team": "Kennesaw State",
@@ -258,7 +258,7 @@
       "home_team": "Oklahoma State",
       "away_team": "UCF",
       "start_date": "",
-      "draftkings_line": "Oklahoma State -12.5"
+      "draftkings_line": "Oklahoma State -13.5"
     },
     {
       "home_team": "Charleston Southern",
@@ -1218,7 +1218,7 @@
       "home_team": "Oklahoma",
       "away_team": "Texas",
       "start_date": "",
-      "draftkings_line": "Oklahoma -12.5"
+      "draftkings_line": "Oklahoma -13.5"
     },
     {
       "home_team": "Navy",
@@ -1572,7 +1572,7 @@
       "home_team": "Northern Illinois",
       "away_team": "Air Force",
       "start_date": "",
-      "draftkings_line": "Northern Illinois +4.0"
+      "draftkings_line": "Northern Illinois +4.5"
     },
     {
       "home_team": "Penn State",
