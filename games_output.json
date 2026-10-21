@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-20T18:26:00.017546+00:00",
+  "last_updated": "2026-10-21T00:23:17.813663+00:00",
   "games_count": 274,
   "games": [
     {
@@ -18,7 +18,7 @@
       "home_team": "Florida International",
       "away_team": "New Mexico State",
       "start_date": "",
-      "draftkings_line": "Florida International -10.0"
+      "draftkings_line": "Florida International -1.5"
     },
     {
       "home_team": "Liberty",
@@ -114,7 +114,7 @@
       "home_team": "Washington",
       "away_team": "Iowa",
       "start_date": "",
-      "draftkings_line": "Washington +12.5"
+      "draftkings_line": "Washington +13.5"
     },
     {
       "home_team": "San Jos\u00e9 State",
@@ -378,7 +378,7 @@
       "home_team": "Florida",
       "away_team": "South Carolina",
       "start_date": "",
-      "draftkings_line": "Florida -10.0"
+      "draftkings_line": "Florida -1.5"
     },
     {
       "home_team": "Cornell",
@@ -1482,7 +1482,7 @@
       "home_team": "Marshall",
       "away_team": "Coastal Carolina",
       "start_date": "",
-      "draftkings_line": "Marshall +2.5"
+      "draftkings_line": "Marshall +3.5"
     },
     {
       "home_team": "Memphis",
@@ -1572,7 +1572,7 @@
       "home_team": "Northern Illinois",
       "away_team": "Air Force",
       "start_date": "",
-      "draftkings_line": "Northern Illinois +4.5"
+      "draftkings_line": "Northern Illinois +4.0"
     },
     {
       "home_team": "Penn State",
