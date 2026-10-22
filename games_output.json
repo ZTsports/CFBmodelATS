@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-21T18:24:24.322317+00:00",
+  "last_updated": "2026-10-22T00:23:54.263900+00:00",
   "games_count": 274,
   "games": [
     {
@@ -12,7 +12,7 @@
       "home_team": "Kennesaw State",
       "away_team": "Jacksonville State",
       "start_date": "",
-      "draftkings_line": "Kennesaw State +10.0"
+      "draftkings_line": "Kennesaw State +9.5"
     },
     {
       "home_team": "Florida International",
@@ -126,7 +126,7 @@
       "home_team": "BYU",
       "away_team": "Iowa State",
       "start_date": "",
-      "draftkings_line": "Line Pending"
+      "draftkings_line": "BYU -17.5"
     },
     {
       "home_team": "Maine Maritime",
@@ -1146,7 +1146,7 @@
       "home_team": "Oregon",
       "away_team": "UCLA",
       "start_date": "",
-      "draftkings_line": "Line Pending"
+      "draftkings_line": "Oregon -7.5"
     },
     {
       "home_team": "Gardner-Webb",
@@ -1236,7 +1236,7 @@
       "home_team": "Georgia Tech",
       "away_team": "Duke",
       "start_date": "",
-      "draftkings_line": "Georgia Tech -4.0"
+      "draftkings_line": "Georgia Tech -4.5"
     },
     {
       "home_team": "California",
@@ -1488,7 +1488,7 @@
       "home_team": "Memphis",
       "away_team": "UAB",
       "start_date": "",
-      "draftkings_line": "Memphis -10.0"
+      "draftkings_line": "Memphis -10.5"
     },
     {
       "home_team": "Austin Peay",
@@ -1554,13 +1554,13 @@
       "home_team": "Louisiana Tech",
       "away_team": "Louisiana",
       "start_date": "",
-      "draftkings_line": "Louisiana Tech -12.5"
+      "draftkings_line": "Louisiana Tech -13.5"
     },
     {
       "home_team": "Virginia",
       "away_team": "Syracuse",
       "start_date": "",
-      "draftkings_line": "Virginia -1.5"
+      "draftkings_line": "Virginia -2.5"
     },
     {
       "home_team": "Georgia Southern",
