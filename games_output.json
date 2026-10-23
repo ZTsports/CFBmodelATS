@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-22T18:23:10.495198+00:00",
+  "last_updated": "2026-10-23T00:25:50.622201+00:00",
   "games_count": 274,
   "games": [
     {
@@ -12,7 +12,7 @@
       "home_team": "Kennesaw State",
       "away_team": "Jacksonville State",
       "start_date": "",
-      "draftkings_line": "Kennesaw State +9.5"
+      "draftkings_line": "Kennesaw State +17.5"
     },
     {
       "home_team": "Florida International",
@@ -210,7 +210,7 @@
       "home_team": "Nebraska",
       "away_team": "Indiana",
       "start_date": "",
-      "draftkings_line": "Line Pending"
+      "draftkings_line": "Nebraska -9.5"
     },
     {
       "home_team": "West Virginia",
@@ -1236,7 +1236,7 @@
       "home_team": "Georgia Tech",
       "away_team": "Duke",
       "start_date": "",
-      "draftkings_line": "Georgia Tech -4.5"
+      "draftkings_line": "Georgia Tech -5.5"
     },
     {
       "home_team": "California",
@@ -1488,7 +1488,7 @@
       "home_team": "Memphis",
       "away_team": "UAB",
       "start_date": "",
-      "draftkings_line": "Memphis -10.5"
+      "draftkings_line": "Memphis -1.5"
     },
     {
       "home_team": "Austin Peay",
@@ -1638,7 +1638,7 @@
       "home_team": "Fresno State",
       "away_team": "Boise State",
       "start_date": "",
-      "draftkings_line": "Line Pending"
+      "draftkings_line": "Fresno State +6.5"
     },
     {
       "home_team": "Arizona State",
