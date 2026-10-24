@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-24T00:27:13.748292+00:00",
+  "last_updated": "2026-10-24T06:22:27.270146+00:00",
   "games_count": 274,
   "games": [
     {
@@ -1560,7 +1560,7 @@
       "home_team": "Virginia",
       "away_team": "Syracuse",
       "start_date": "",
-      "draftkings_line": "Virginia -5.5"
+      "draftkings_line": "Line Pending"
     },
     {
       "home_team": "Georgia Southern",
@@ -1572,7 +1572,7 @@
       "home_team": "Northern Illinois",
       "away_team": "Air Force",
       "start_date": "",
-      "draftkings_line": "Northern Illinois +4.0"
+      "draftkings_line": "Northern Illinois +3.5"
     },
     {
       "home_team": "Penn State",
@@ -1644,7 +1644,7 @@
       "home_team": "Arizona State",
       "away_team": "Hawai'i",
       "start_date": "",
-      "draftkings_line": "Arizona State +2.5"
+      "draftkings_line": "Arizona State +1.5"
     }
   ]
 }
