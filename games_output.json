@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-24T12:21:46.037538+00:00",
+  "last_updated": "2026-10-24T18:18:12.862620+00:00",
   "games_count": 274,
   "games": [
     {
       "home_team": "Troy",
       "away_team": "Southern Miss",
       "start_date": "",
-      "draftkings_line": "Troy -11.5"
+      "draftkings_line": "Troy -13.5"
     },
     {
       "home_team": "Kennesaw State",
@@ -126,7 +126,7 @@
       "home_team": "BYU",
       "away_team": "Iowa State",
       "start_date": "",
-      "draftkings_line": "BYU -16.5"
+      "draftkings_line": "Line Pending"
     },
     {
       "home_team": "Maine Maritime",
@@ -210,7 +210,7 @@
       "home_team": "Nebraska",
       "away_team": "Indiana",
       "start_date": "",
-      "draftkings_line": "Nebraska -9.5"
+      "draftkings_line": "Line Pending"
     },
     {
       "home_team": "West Virginia",
@@ -366,7 +366,7 @@
       "home_team": "Northwestern",
       "away_team": "Ball State",
       "start_date": "",
-      "draftkings_line": "Northwestern -15.5"
+      "draftkings_line": "Northwestern -28.5"
     },
     {
       "home_team": "Georgetown",
@@ -378,7 +378,7 @@
       "home_team": "Florida",
       "away_team": "South Carolina",
       "start_date": "",
-      "draftkings_line": "Florida -8.5"
+      "draftkings_line": "Florida -6.5"
     },
     {
       "home_team": "Cornell",
@@ -1146,7 +1146,7 @@
       "home_team": "Oregon",
       "away_team": "UCLA",
       "start_date": "",
-      "draftkings_line": "Oregon -7.5"
+      "draftkings_line": "Line Pending"
     },
     {
       "home_team": "Gardner-Webb",
@@ -1188,13 +1188,13 @@
       "home_team": "Toledo",
       "away_team": "Buffalo",
       "start_date": "",
-      "draftkings_line": "Toledo -2.5"
+      "draftkings_line": "Toledo -7.5"
     },
     {
       "home_team": "Ohio",
       "away_team": "Central Michigan",
       "start_date": "",
-      "draftkings_line": "Ohio -10.0"
+      "draftkings_line": "Ohio -10.5"
     },
     {
       "home_team": "Akron",
@@ -1236,7 +1236,7 @@
       "home_team": "Georgia Tech",
       "away_team": "Duke",
       "start_date": "",
-      "draftkings_line": "Georgia Tech -6.0"
+      "draftkings_line": "Georgia Tech -6.5"
     },
     {
       "home_team": "California",
@@ -1572,7 +1572,7 @@
       "home_team": "Northern Illinois",
       "away_team": "Air Force",
       "start_date": "",
-      "draftkings_line": "Northern Illinois +3.5"
+      "draftkings_line": "Northern Illinois +3.0"
     },
     {
       "home_team": "Penn State",
@@ -1638,7 +1638,7 @@
       "home_team": "Fresno State",
       "away_team": "Boise State",
       "start_date": "",
-      "draftkings_line": "Fresno State +6.5"
+      "draftkings_line": "Line Pending"
     },
     {
       "home_team": "Arizona State",
