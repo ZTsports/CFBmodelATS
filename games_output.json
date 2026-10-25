@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-25T06:23:54.421320+00:00",
+  "last_updated": "2026-10-25T12:22:10.914302+00:00",
   "games_count": 274,
   "games": [
     {
@@ -90,7 +90,7 @@
       "home_team": "Louisville",
       "away_team": "Florida State",
       "start_date": "",
-      "draftkings_line": "Line Pending"
+      "draftkings_line": "Louisville -21.5"
     },
     {
       "home_team": "Johnson C. Smith",
@@ -234,7 +234,7 @@
       "home_team": "Pittsburgh",
       "away_team": "North Carolina",
       "start_date": "",
-      "draftkings_line": "Line Pending"
+      "draftkings_line": "Pittsburgh -7.5"
     },
     {
       "home_team": "Bowling Green",
@@ -330,7 +330,7 @@
       "home_team": "NC State",
       "away_team": "Wake Forest",
       "start_date": "",
-      "draftkings_line": "Line Pending"
+      "draftkings_line": "NC State -7.5"
     },
     {
       "home_team": "Yale",
@@ -1578,7 +1578,7 @@
       "home_team": "Penn State",
       "away_team": "USC",
       "start_date": "",
-      "draftkings_line": "Penn State -8.5"
+      "draftkings_line": "Penn State -9.5"
     },
     {
       "home_team": "Purdue",
