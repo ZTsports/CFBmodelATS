@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-26T06:31:10.805539+00:00",
+  "last_updated": "2026-10-26T14:31:49.717551+00:00",
   "games_count": 274,
   "games": [
     {
@@ -24,7 +24,7 @@
       "home_team": "Liberty",
       "away_team": "Sam Houston",
       "start_date": "",
-      "draftkings_line": "Liberty -14.0"
+      "draftkings_line": "Liberty -14.5"
     },
     {
       "home_team": "Western Kentucky",
@@ -126,7 +126,7 @@
       "home_team": "BYU",
       "away_team": "Iowa State",
       "start_date": "",
-      "draftkings_line": "BYU -15.5"
+      "draftkings_line": "BYU -14.5"
     },
     {
       "home_team": "Maine Maritime",
@@ -186,7 +186,7 @@
       "home_team": "Missouri",
       "away_team": "Texas A&M",
       "start_date": "",
-      "draftkings_line": "Missouri -6.5"
+      "draftkings_line": "Missouri -5.5"
     },
     {
       "home_team": "Catholic",
@@ -330,7 +330,7 @@
       "home_team": "NC State",
       "away_team": "Wake Forest",
       "start_date": "",
-      "draftkings_line": "NC State -8.5"
+      "draftkings_line": "NC State -7.0"
     },
     {
       "home_team": "Yale",
@@ -378,7 +378,7 @@
       "home_team": "Florida",
       "away_team": "South Carolina",
       "start_date": "",
-      "draftkings_line": "Florida -7.5"
+      "draftkings_line": "Florida -8.5"
     },
     {
       "home_team": "Cornell",
@@ -1038,7 +1038,7 @@
       "home_team": "Northwest Missouri State",
       "away_team": "Central Missouri",
       "start_date": "",
-      "draftkings_line": "Northwest Missouri State -6.5"
+      "draftkings_line": "Northwest Missouri State -5.5"
     },
     {
       "home_team": "Wartburg",
@@ -1206,7 +1206,7 @@
       "home_team": "Western Michigan",
       "away_team": "Kent State",
       "start_date": "",
-      "draftkings_line": "Western Michigan -14.0"
+      "draftkings_line": "Western Michigan -13.5"
     },
     {
       "home_team": "Vanderbilt",
@@ -1224,7 +1224,7 @@
       "home_team": "Navy",
       "away_team": "Tulsa",
       "start_date": "",
-      "draftkings_line": "Navy +29.5"
+      "draftkings_line": "Navy +30.5"
     },
     {
       "home_team": "Kansas State",
@@ -1638,7 +1638,7 @@
       "home_team": "Fresno State",
       "away_team": "Boise State",
       "start_date": "",
-      "draftkings_line": "Fresno State +6.5"
+      "draftkings_line": "Fresno State +5.5"
     },
     {
       "home_team": "Arizona State",
