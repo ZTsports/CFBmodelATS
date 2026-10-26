@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-26T00:27:12.078071+00:00",
+  "last_updated": "2026-10-26T06:31:10.805539+00:00",
   "games_count": 274,
   "games": [
     {
@@ -30,7 +30,7 @@
       "home_team": "Western Kentucky",
       "away_team": "Missouri State",
       "start_date": "",
-      "draftkings_line": "Western Kentucky +1.5"
+      "draftkings_line": "Western Kentucky -1.5"
     },
     {
       "home_team": "UTSA",
@@ -108,7 +108,7 @@
       "home_team": "Utah State",
       "away_team": "Washington State",
       "start_date": "",
-      "draftkings_line": "Utah State -6.0"
+      "draftkings_line": "Utah State -6.5"
     },
     {
       "home_team": "Washington",
@@ -540,7 +540,7 @@
       "home_team": "East Carolina",
       "away_team": "Rice",
       "start_date": "",
-      "draftkings_line": "East Carolina -5.5"
+      "draftkings_line": "East Carolina -6.0"
     },
     {
       "home_team": "Southern Virginia",
@@ -1218,7 +1218,7 @@
       "home_team": "Oklahoma",
       "away_team": "Texas",
       "start_date": "",
-      "draftkings_line": "Oklahoma -4.5"
+      "draftkings_line": "Oklahoma -5.5"
     },
     {
       "home_team": "Navy",
@@ -1476,7 +1476,7 @@
       "home_team": "Kentucky",
       "away_team": "LSU",
       "start_date": "",
-      "draftkings_line": "Kentucky +1.5"
+      "draftkings_line": "Kentucky -1.5"
     },
     {
       "home_team": "Marshall",
@@ -1566,7 +1566,7 @@
       "home_team": "Georgia Southern",
       "away_team": "James Madison",
       "start_date": "",
-      "draftkings_line": "Georgia Southern -4.5"
+      "draftkings_line": "Georgia Southern -5.5"
     },
     {
       "home_team": "Northern Illinois",
@@ -1608,7 +1608,7 @@
       "home_team": "Utah",
       "away_team": "Kansas",
       "start_date": "",
-      "draftkings_line": "Utah -6.0"
+      "draftkings_line": "Utah -6.5"
     },
     {
       "home_team": "Central Oklahoma",
