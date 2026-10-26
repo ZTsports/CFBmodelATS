@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-26T14:31:49.717551+00:00",
+  "last_updated": "2026-10-26T18:32:19.482266+00:00",
   "games_count": 274,
   "games": [
     {
@@ -24,7 +24,7 @@
       "home_team": "Liberty",
       "away_team": "Sam Houston",
       "start_date": "",
-      "draftkings_line": "Liberty -14.5"
+      "draftkings_line": "Liberty -14.0"
     },
     {
       "home_team": "Western Kentucky",
@@ -126,7 +126,7 @@
       "home_team": "BYU",
       "away_team": "Iowa State",
       "start_date": "",
-      "draftkings_line": "BYU -14.5"
+      "draftkings_line": "BYU -16.5"
     },
     {
       "home_team": "Maine Maritime",
@@ -378,7 +378,7 @@
       "home_team": "Florida",
       "away_team": "South Carolina",
       "start_date": "",
-      "draftkings_line": "Florida -8.5"
+      "draftkings_line": "Florida -7.5"
     },
     {
       "home_team": "Cornell",
@@ -1176,7 +1176,7 @@
       "home_team": "Notre Dame",
       "away_team": "Stanford",
       "start_date": "",
-      "draftkings_line": "Line Pending"
+      "draftkings_line": "Notre Dame -3.5"
     },
     {
       "home_team": "Michigan State",
@@ -1488,7 +1488,7 @@
       "home_team": "Memphis",
       "away_team": "UAB",
       "start_date": "",
-      "draftkings_line": "Memphis -6.5"
+      "draftkings_line": "Memphis -6.0"
     },
     {
       "home_team": "Austin Peay",
