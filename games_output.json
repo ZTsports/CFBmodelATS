@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-27T18:33:59.512311+00:00",
+  "last_updated": "2026-10-28T00:33:57.483363+00:00",
   "games_count": 274,
   "games": [
     {
@@ -30,7 +30,7 @@
       "home_team": "Western Kentucky",
       "away_team": "Missouri State",
       "start_date": "",
-      "draftkings_line": "Western Kentucky -1.5"
+      "draftkings_line": "Western Kentucky +4.5"
     },
     {
       "home_team": "UTSA",
@@ -186,7 +186,7 @@
       "home_team": "Missouri",
       "away_team": "Texas A&M",
       "start_date": "",
-      "draftkings_line": "Missouri -6.0"
+      "draftkings_line": "Missouri -8.5"
     },
     {
       "home_team": "Catholic",
@@ -1038,7 +1038,7 @@
       "home_team": "Northwest Missouri State",
       "away_team": "Central Missouri",
       "start_date": "",
-      "draftkings_line": "Northwest Missouri State -6.0"
+      "draftkings_line": "Northwest Missouri State -8.5"
     },
     {
       "home_team": "Wartburg",
@@ -1476,7 +1476,7 @@
       "home_team": "Kentucky",
       "away_team": "LSU",
       "start_date": "",
-      "draftkings_line": "Kentucky -1.5"
+      "draftkings_line": "Kentucky +4.5"
     },
     {
       "home_team": "Marshall",
