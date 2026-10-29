@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-29T12:36:53.565393+00:00",
+  "last_updated": "2026-10-29T18:36:40.432488+00:00",
   "games_count": 274,
   "games": [
     {
@@ -138,7 +138,7 @@
       "home_team": "Army",
       "away_team": "Tulane",
       "start_date": "",
-      "draftkings_line": "Army -6.0"
+      "draftkings_line": "Army -5.5"
     },
     {
       "home_team": "North Carolina A&T",
@@ -360,7 +360,7 @@
       "home_team": "Eastern",
       "away_team": "King's",
       "start_date": "",
-      "draftkings_line": "Line Pending"
+      "draftkings_line": "Eastern -1.5"
     },
     {
       "home_team": "Northwestern",
@@ -540,7 +540,7 @@
       "home_team": "East Carolina",
       "away_team": "Rice",
       "start_date": "",
-      "draftkings_line": "East Carolina -6.0"
+      "draftkings_line": "East Carolina -5.5"
     },
     {
       "home_team": "Southern Virginia",
@@ -1200,7 +1200,7 @@
       "home_team": "Akron",
       "away_team": "Eastern Michigan",
       "start_date": "",
-      "draftkings_line": "Line Pending"
+      "draftkings_line": "Akron +11.5"
     },
     {
       "home_team": "Western Michigan",
