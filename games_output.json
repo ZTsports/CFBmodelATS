@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-30T12:36:43.933970+00:00",
+  "last_updated": "2026-10-30T18:33:43.808317+00:00",
   "games_count": 274,
   "games": [
     {
@@ -330,7 +330,7 @@
       "home_team": "NC State",
       "away_team": "Wake Forest",
       "start_date": "",
-      "draftkings_line": "NC State -7.0"
+      "draftkings_line": "NC State -7.5"
     },
     {
       "home_team": "Yale",
@@ -360,7 +360,7 @@
       "home_team": "Eastern",
       "away_team": "King's",
       "start_date": "",
-      "draftkings_line": "Eastern -1.5"
+      "draftkings_line": "Eastern -2.5"
     },
     {
       "home_team": "Northwestern",
@@ -1200,7 +1200,7 @@
       "home_team": "Akron",
       "away_team": "Eastern Michigan",
       "start_date": "",
-      "draftkings_line": "Akron +11.5"
+      "draftkings_line": "Akron +12.5"
     },
     {
       "home_team": "Western Michigan",
