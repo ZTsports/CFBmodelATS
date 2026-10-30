@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-29T18:36:40.432488+00:00",
+  "last_updated": "2026-10-30T00:34:40.312765+00:00",
   "games_count": 274,
   "games": [
     {
@@ -540,7 +540,7 @@
       "home_team": "East Carolina",
       "away_team": "Rice",
       "start_date": "",
-      "draftkings_line": "East Carolina -5.5"
+      "draftkings_line": "East Carolina -4.5"
     },
     {
       "home_team": "Southern Virginia",
@@ -1218,7 +1218,7 @@
       "home_team": "Oklahoma",
       "away_team": "Texas",
       "start_date": "",
-      "draftkings_line": "Oklahoma -4.5"
+      "draftkings_line": "Oklahoma -3.5"
     },
     {
       "home_team": "Navy",
@@ -1248,7 +1248,7 @@
       "home_team": "North Texas",
       "away_team": "Charlotte",
       "start_date": "",
-      "draftkings_line": "North Texas -14.0"
+      "draftkings_line": "North Texas -3.5"
     },
     {
       "home_team": "Temple",
@@ -1488,7 +1488,7 @@
       "home_team": "Memphis",
       "away_team": "UAB",
       "start_date": "",
-      "draftkings_line": "Memphis -6.0"
+      "draftkings_line": "Memphis -6.5"
     },
     {
       "home_team": "Austin Peay",
@@ -1578,7 +1578,7 @@
       "home_team": "Penn State",
       "away_team": "USC",
       "start_date": "",
-      "draftkings_line": "Penn State -9.5"
+      "draftkings_line": "Penn State -10.0"
     },
     {
       "home_team": "Purdue",
@@ -1638,7 +1638,7 @@
       "home_team": "Fresno State",
       "away_team": "Boise State",
       "start_date": "",
-      "draftkings_line": "Fresno State +5.5"
+      "draftkings_line": "Fresno State +6.0"
     },
     {
       "home_team": "Arizona State",
