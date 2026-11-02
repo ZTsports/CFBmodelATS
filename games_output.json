@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-02T04:28:22.030304+00:00",
+  "last_updated": "2026-11-02T14:47:09.523685+00:00",
   "games_count": 274,
   "games": [
     {
       "home_team": "Troy",
       "away_team": "Southern Miss",
       "start_date": "",
-      "draftkings_line": "Troy +5.5"
+      "draftkings_line": "Troy +4.5"
     },
     {
       "home_team": "Kennesaw State",
@@ -186,7 +186,7 @@
       "home_team": "Missouri",
       "away_team": "Texas A&M",
       "start_date": "",
-      "draftkings_line": "Missouri +3.0"
+      "draftkings_line": "Missouri +2.5"
     },
     {
       "home_team": "Catholic",
@@ -1176,7 +1176,7 @@
       "home_team": "Notre Dame",
       "away_team": "Stanford",
       "start_date": "",
-      "draftkings_line": "Notre Dame -5.5"
+      "draftkings_line": "Notre Dame -6.0"
     },
     {
       "home_team": "Michigan State",
@@ -1200,7 +1200,7 @@
       "home_team": "Akron",
       "away_team": "Eastern Michigan",
       "start_date": "",
-      "draftkings_line": "Akron +12.5"
+      "draftkings_line": "Akron +13.5"
     },
     {
       "home_team": "Western Michigan",
@@ -1644,7 +1644,7 @@
       "home_team": "Arizona State",
       "away_team": "Hawai'i",
       "start_date": "",
-      "draftkings_line": "Arizona State -3.5"
+      "draftkings_line": "Arizona State -3.0"
     }
   ]
 }
