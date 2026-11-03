@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-02T14:47:09.523685+00:00",
+  "last_updated": "2026-11-03T00:30:50.858357+00:00",
   "games_count": 274,
   "games": [
     {
@@ -18,7 +18,7 @@
       "home_team": "Florida International",
       "away_team": "New Mexico State",
       "start_date": "",
-      "draftkings_line": "Florida International -4.0"
+      "draftkings_line": "Florida International -4.5"
     },
     {
       "home_team": "Liberty",
@@ -1176,7 +1176,7 @@
       "home_team": "Notre Dame",
       "away_team": "Stanford",
       "start_date": "",
-      "draftkings_line": "Notre Dame -6.0"
+      "draftkings_line": "Notre Dame -5.5"
     },
     {
       "home_team": "Michigan State",
@@ -1200,7 +1200,7 @@
       "home_team": "Akron",
       "away_team": "Eastern Michigan",
       "start_date": "",
-      "draftkings_line": "Akron +13.5"
+      "draftkings_line": "Akron +14.0"
     },
     {
       "home_team": "Western Michigan",
@@ -1230,7 +1230,7 @@
       "home_team": "Kansas State",
       "away_team": "Houston",
       "start_date": "",
-      "draftkings_line": "Kansas State +3.5"
+      "draftkings_line": "Kansas State +4.0"
     },
     {
       "home_team": "Georgia Tech",
@@ -1500,7 +1500,7 @@
       "home_team": "UNLV",
       "away_team": "North Dakota State",
       "start_date": "",
-      "draftkings_line": "UNLV -7.0"
+      "draftkings_line": "UNLV -6.0"
     },
     {
       "home_team": "Wilmington (OH)",
@@ -1566,7 +1566,7 @@
       "home_team": "Georgia Southern",
       "away_team": "James Madison",
       "start_date": "",
-      "draftkings_line": "Georgia Southern -10.0"
+      "draftkings_line": "Georgia Southern -10.5"
     },
     {
       "home_team": "Northern Illinois",
