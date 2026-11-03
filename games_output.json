@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-03T13:38:45.987722+00:00",
+  "last_updated": "2026-11-03T22:55:00.051690+00:00",
   "games_count": 274,
   "games": [
     {
@@ -12,7 +12,7 @@
       "home_team": "Kennesaw State",
       "away_team": "Jacksonville State",
       "start_date": "",
-      "draftkings_line": "Kennesaw State +2.5"
+      "draftkings_line": "Kennesaw State +1.5"
     },
     {
       "home_team": "Florida International",
@@ -1176,7 +1176,7 @@
       "home_team": "Notre Dame",
       "away_team": "Stanford",
       "start_date": "",
-      "draftkings_line": "Notre Dame -5.5"
+      "draftkings_line": "Notre Dame -6.0"
     },
     {
       "home_team": "Michigan State",
@@ -1194,13 +1194,13 @@
       "home_team": "Ohio",
       "away_team": "Central Michigan",
       "start_date": "",
-      "draftkings_line": "Ohio -7.0"
+      "draftkings_line": "Ohio -7.5"
     },
     {
       "home_team": "Akron",
       "away_team": "Eastern Michigan",
       "start_date": "",
-      "draftkings_line": "Akron +14.0"
+      "draftkings_line": "Akron +12.5"
     },
     {
       "home_team": "Western Michigan",
@@ -1230,7 +1230,7 @@
       "home_team": "Kansas State",
       "away_team": "Houston",
       "start_date": "",
-      "draftkings_line": "Kansas State +4.0"
+      "draftkings_line": "Kansas State +4.5"
     },
     {
       "home_team": "Georgia Tech",
@@ -1362,7 +1362,7 @@
       "home_team": "Ohio State",
       "away_team": "Maryland",
       "start_date": "",
-      "draftkings_line": "Ohio State -7.0"
+      "draftkings_line": "Ohio State -7.5"
     },
     {
       "home_team": "Arkansas",
