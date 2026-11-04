@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-04T04:51:49.804427+00:00",
+  "last_updated": "2026-11-04T13:47:46.793999+00:00",
   "games_count": 274,
   "games": [
     {
@@ -540,7 +540,7 @@
       "home_team": "East Carolina",
       "away_team": "Rice",
       "start_date": "",
-      "draftkings_line": "East Carolina -1.5"
+      "draftkings_line": "East Carolina -2.5"
     },
     {
       "home_team": "Southern Virginia",
@@ -1176,7 +1176,7 @@
       "home_team": "Notre Dame",
       "away_team": "Stanford",
       "start_date": "",
-      "draftkings_line": "Notre Dame -6.0"
+      "draftkings_line": "Notre Dame -5.5"
     },
     {
       "home_team": "Michigan State",
@@ -1248,7 +1248,7 @@
       "home_team": "North Texas",
       "away_team": "Charlotte",
       "start_date": "",
-      "draftkings_line": "North Texas -16.5"
+      "draftkings_line": "North Texas -17.5"
     },
     {
       "home_team": "Temple",
