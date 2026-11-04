@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-04T13:47:46.793999+00:00",
+  "last_updated": "2026-11-04T23:12:46.832143+00:00",
   "games_count": 274,
   "games": [
     {
@@ -126,7 +126,7 @@
       "home_team": "BYU",
       "away_team": "Iowa State",
       "start_date": "",
-      "draftkings_line": "Line Pending"
+      "draftkings_line": "BYU -7.5"
     },
     {
       "home_team": "Maine Maritime",
@@ -258,7 +258,7 @@
       "home_team": "Oklahoma State",
       "away_team": "UCF",
       "start_date": "",
-      "draftkings_line": "Line Pending"
+      "draftkings_line": "Oklahoma State +1.5"
     },
     {
       "home_team": "Charleston Southern",
@@ -360,13 +360,13 @@
       "home_team": "Eastern",
       "away_team": "King's",
       "start_date": "",
-      "draftkings_line": "Eastern -1.5"
+      "draftkings_line": "Eastern +2.5"
     },
     {
       "home_team": "Northwestern",
       "away_team": "Ball State",
       "start_date": "",
-      "draftkings_line": "Northwestern -2.5"
+      "draftkings_line": "Northwestern -3.0"
     },
     {
       "home_team": "Georgetown",
@@ -1176,7 +1176,7 @@
       "home_team": "Notre Dame",
       "away_team": "Stanford",
       "start_date": "",
-      "draftkings_line": "Notre Dame -5.5"
+      "draftkings_line": "Notre Dame -7.0"
     },
     {
       "home_team": "Michigan State",
@@ -1218,7 +1218,7 @@
       "home_team": "Oklahoma",
       "away_team": "Texas",
       "start_date": "",
-      "draftkings_line": "Line Pending"
+      "draftkings_line": "Oklahoma +1.5"
     },
     {
       "home_team": "Navy",
@@ -1230,7 +1230,7 @@
       "home_team": "Kansas State",
       "away_team": "Houston",
       "start_date": "",
-      "draftkings_line": "Kansas State +4.5"
+      "draftkings_line": "Kansas State +5.5"
     },
     {
       "home_team": "Georgia Tech",
