@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-04T23:12:46.832143+00:00",
+  "last_updated": "2026-11-05T05:08:55.048992+00:00",
   "games_count": 274,
   "games": [
     {
@@ -330,7 +330,7 @@
       "home_team": "NC State",
       "away_team": "Wake Forest",
       "start_date": "",
-      "draftkings_line": "NC State +4.5"
+      "draftkings_line": "NC State +4.0"
     },
     {
       "home_team": "Yale",
@@ -360,13 +360,13 @@
       "home_team": "Eastern",
       "away_team": "King's",
       "start_date": "",
-      "draftkings_line": "Eastern +2.5"
+      "draftkings_line": "Line Pending"
     },
     {
       "home_team": "Northwestern",
       "away_team": "Ball State",
       "start_date": "",
-      "draftkings_line": "Northwestern -3.0"
+      "draftkings_line": "Northwestern -2.5"
     },
     {
       "home_team": "Georgetown",
@@ -1476,7 +1476,7 @@
       "home_team": "Kentucky",
       "away_team": "LSU",
       "start_date": "",
-      "draftkings_line": "Line Pending"
+      "draftkings_line": "Kentucky -1.5"
     },
     {
       "home_team": "Marshall",
@@ -1608,7 +1608,7 @@
       "home_team": "Utah",
       "away_team": "Kansas",
       "start_date": "",
-      "draftkings_line": "Utah -5.5"
+      "draftkings_line": "Utah -4.5"
     },
     {
       "home_team": "Central Oklahoma",
