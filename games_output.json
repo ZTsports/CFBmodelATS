@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-05T05:08:55.048992+00:00",
+  "last_updated": "2026-11-05T13:59:22.201956+00:00",
   "games_count": 274,
   "games": [
     {
       "home_team": "Troy",
       "away_team": "Southern Miss",
       "start_date": "",
-      "draftkings_line": "Troy +4.5"
+      "draftkings_line": "Troy +5.5"
     },
     {
       "home_team": "Kennesaw State",
@@ -378,7 +378,7 @@
       "home_team": "Florida",
       "away_team": "South Carolina",
       "start_date": "",
-      "draftkings_line": "Florida +7.0"
+      "draftkings_line": "Florida +6.5"
     },
     {
       "home_team": "Cornell",
@@ -1176,7 +1176,7 @@
       "home_team": "Notre Dame",
       "away_team": "Stanford",
       "start_date": "",
-      "draftkings_line": "Notre Dame -7.0"
+      "draftkings_line": "Notre Dame -7.5"
     },
     {
       "home_team": "Michigan State",
@@ -1230,7 +1230,7 @@
       "home_team": "Kansas State",
       "away_team": "Houston",
       "start_date": "",
-      "draftkings_line": "Kansas State +5.5"
+      "draftkings_line": "Kansas State +6.0"
     },
     {
       "home_team": "Georgia Tech",
