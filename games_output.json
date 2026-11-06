@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-06T13:45:19.894566+00:00",
+  "last_updated": "2026-11-06T22:43:10.921503+00:00",
   "games_count": 274,
   "games": [
     {
@@ -108,7 +108,7 @@
       "home_team": "Utah State",
       "away_team": "Washington State",
       "start_date": "",
-      "draftkings_line": "Utah State +2.5"
+      "draftkings_line": "Utah State +1.5"
     },
     {
       "home_team": "Washington",
@@ -138,7 +138,7 @@
       "home_team": "Army",
       "away_team": "Tulane",
       "start_date": "",
-      "draftkings_line": "Army -3.0"
+      "draftkings_line": "Army -4.0"
     },
     {
       "home_team": "North Carolina A&T",
@@ -366,7 +366,7 @@
       "home_team": "Northwestern",
       "away_team": "Ball State",
       "start_date": "",
-      "draftkings_line": "Northwestern -2.5"
+      "draftkings_line": "Northwestern +2.5"
     },
     {
       "home_team": "Georgetown",
@@ -540,7 +540,7 @@
       "home_team": "East Carolina",
       "away_team": "Rice",
       "start_date": "",
-      "draftkings_line": "East Carolina -2.5"
+      "draftkings_line": "East Carolina -1.5"
     },
     {
       "home_team": "Southern Virginia",
@@ -1176,7 +1176,7 @@
       "home_team": "Notre Dame",
       "away_team": "Stanford",
       "start_date": "",
-      "draftkings_line": "Notre Dame -7.5"
+      "draftkings_line": "Notre Dame -7.0"
     },
     {
       "home_team": "Michigan State",
@@ -1188,7 +1188,7 @@
       "home_team": "Toledo",
       "away_team": "Buffalo",
       "start_date": "",
-      "draftkings_line": "Toledo -14.5"
+      "draftkings_line": "Toledo -13.5"
     },
     {
       "home_team": "Ohio",
@@ -1200,7 +1200,7 @@
       "home_team": "Akron",
       "away_team": "Eastern Michigan",
       "start_date": "",
-      "draftkings_line": "Akron +14.5"
+      "draftkings_line": "Akron +13.5"
     },
     {
       "home_team": "Western Michigan",
@@ -1248,7 +1248,7 @@
       "home_team": "North Texas",
       "away_team": "Charlotte",
       "start_date": "",
-      "draftkings_line": "North Texas -17.5"
+      "draftkings_line": "North Texas -16.5"
     },
     {
       "home_team": "Temple",
@@ -1500,7 +1500,7 @@
       "home_team": "UNLV",
       "away_team": "North Dakota State",
       "start_date": "",
-      "draftkings_line": "UNLV -5.5"
+      "draftkings_line": "UNLV -4.5"
     },
     {
       "home_team": "Wilmington (OH)",
@@ -1566,7 +1566,7 @@
       "home_team": "Georgia Southern",
       "away_team": "James Madison",
       "start_date": "",
-      "draftkings_line": "Georgia Southern -10.5"
+      "draftkings_line": "Georgia Southern -8.5"
     },
     {
       "home_team": "Northern Illinois",
