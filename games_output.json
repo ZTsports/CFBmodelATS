@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05T23:16:11.006511+00:00",
+  "last_updated": "2026-11-06T05:08:43.690373+00:00",
   "games_count": 274,
   "games": [
     {
@@ -378,7 +378,7 @@
       "home_team": "Florida",
       "away_team": "South Carolina",
       "start_date": "",
-      "draftkings_line": "Florida +7.0"
+      "draftkings_line": "Florida -4.5"
     },
     {
       "home_team": "Cornell",
@@ -1230,7 +1230,7 @@
       "home_team": "Kansas State",
       "away_team": "Houston",
       "start_date": "",
-      "draftkings_line": "Kansas State +6.0"
+      "draftkings_line": "Kansas State +6.5"
     },
     {
       "home_team": "Georgia Tech",
