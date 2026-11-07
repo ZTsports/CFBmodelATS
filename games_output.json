@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-06T22:43:10.921503+00:00",
+  "last_updated": "2026-11-07T04:41:06.217628+00:00",
   "games_count": 274,
   "games": [
     {
@@ -540,7 +540,7 @@
       "home_team": "East Carolina",
       "away_team": "Rice",
       "start_date": "",
-      "draftkings_line": "East Carolina -1.5"
+      "draftkings_line": "Line Pending"
     },
     {
       "home_team": "Southern Virginia",
@@ -1146,7 +1146,7 @@
       "home_team": "Oregon",
       "away_team": "UCLA",
       "start_date": "",
-      "draftkings_line": "Oregon -6.5"
+      "draftkings_line": "Oregon -6.0"
     },
     {
       "home_team": "Gardner-Webb",
@@ -1428,7 +1428,7 @@
       "home_team": "Oregon State",
       "away_team": "San Diego State",
       "start_date": "",
-      "draftkings_line": "Oregon State -6.5"
+      "draftkings_line": "Oregon State -6.0"
     },
     {
       "home_team": "Indianapolis",
@@ -1500,7 +1500,7 @@
       "home_team": "UNLV",
       "away_team": "North Dakota State",
       "start_date": "",
-      "draftkings_line": "UNLV -4.5"
+      "draftkings_line": "UNLV -4.0"
     },
     {
       "home_team": "Wilmington (OH)",
@@ -1512,7 +1512,7 @@
       "home_team": "UTEP",
       "away_team": "Nevada",
       "start_date": "",
-      "draftkings_line": "UTEP +8.5"
+      "draftkings_line": "UTEP +7.5"
     },
     {
       "home_team": "Eastern Washington",
@@ -1644,7 +1644,7 @@
       "home_team": "Arizona State",
       "away_team": "Hawai'i",
       "start_date": "",
-      "draftkings_line": "Arizona State -3.5"
+      "draftkings_line": "Arizona State -3.0"
     }
   ]
 }
