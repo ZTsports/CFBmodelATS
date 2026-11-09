@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-09T04:41:44.230554+00:00",
+  "last_updated": "2026-11-09T15:12:36.080229+00:00",
   "games_count": 274,
   "games": [
     {
@@ -24,7 +24,7 @@
       "home_team": "Liberty",
       "away_team": "Sam Houston",
       "start_date": "",
-      "draftkings_line": "Liberty -21.5"
+      "draftkings_line": "Liberty -20.5"
     },
     {
       "home_team": "Western Kentucky",
@@ -36,7 +36,7 @@
       "home_team": "UTSA",
       "away_team": "South Florida",
       "start_date": "",
-      "draftkings_line": "UTSA +1.5"
+      "draftkings_line": "UTSA +2.5"
     },
     {
       "home_team": "Arkansas State",
@@ -378,7 +378,7 @@
       "home_team": "Florida",
       "away_team": "South Carolina",
       "start_date": "",
-      "draftkings_line": "Florida +5.5"
+      "draftkings_line": "Florida +4.5"
     },
     {
       "home_team": "Cornell",
@@ -1176,13 +1176,13 @@
       "home_team": "Notre Dame",
       "away_team": "Stanford",
       "start_date": "",
-      "draftkings_line": "Notre Dame -30.5"
+      "draftkings_line": "Notre Dame -29.5"
     },
     {
       "home_team": "Michigan State",
       "away_team": "Illinois",
       "start_date": "",
-      "draftkings_line": "Michigan State +4.0"
+      "draftkings_line": "Michigan State +3.5"
     },
     {
       "home_team": "Toledo",
@@ -1194,13 +1194,13 @@
       "home_team": "Ohio",
       "away_team": "Central Michigan",
       "start_date": "",
-      "draftkings_line": "Ohio -11.5"
+      "draftkings_line": "Ohio -12.5"
     },
     {
       "home_team": "Akron",
       "away_team": "Eastern Michigan",
       "start_date": "",
-      "draftkings_line": "Akron +14.5"
+      "draftkings_line": "Akron +14.0"
     },
     {
       "home_team": "Western Michigan",
@@ -1212,7 +1212,7 @@
       "home_team": "Vanderbilt",
       "away_team": "Ole Miss",
       "start_date": "",
-      "draftkings_line": "Vanderbilt +18.5"
+      "draftkings_line": "Vanderbilt +17.5"
     },
     {
       "home_team": "Oklahoma",
@@ -1362,7 +1362,7 @@
       "home_team": "Ohio State",
       "away_team": "Maryland",
       "start_date": "",
-      "draftkings_line": "Ohio State -11.5"
+      "draftkings_line": "Ohio State -12.5"
     },
     {
       "home_team": "Arkansas",
@@ -1512,7 +1512,7 @@
       "home_team": "UTEP",
       "away_team": "Nevada",
       "start_date": "",
-      "draftkings_line": "UTEP +9.5"
+      "draftkings_line": "UTEP +8.5"
     },
     {
       "home_team": "Eastern Washington",
@@ -1548,7 +1548,7 @@
       "home_team": "Alabama",
       "away_team": "Georgia",
       "start_date": "",
-      "draftkings_line": "Alabama -2.5"
+      "draftkings_line": "Alabama -3.0"
     },
     {
       "home_team": "Louisiana Tech",
@@ -1572,7 +1572,7 @@
       "home_team": "Northern Illinois",
       "away_team": "Air Force",
       "start_date": "",
-      "draftkings_line": "Northern Illinois +7.5"
+      "draftkings_line": "Northern Illinois +7.0"
     },
     {
       "home_team": "Penn State",
