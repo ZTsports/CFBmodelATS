@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10T14:20:41.226583+00:00",
+  "last_updated": "2026-11-10T22:50:59.677805+00:00",
   "games_count": 274,
   "games": [
     {
@@ -240,7 +240,7 @@
       "home_team": "Bowling Green",
       "away_team": "Sacramento State",
       "start_date": "",
-      "draftkings_line": "Bowling Green -5.5"
+      "draftkings_line": "Bowling Green -4.5"
     },
     {
       "home_team": "Millersville",
@@ -378,7 +378,7 @@
       "home_team": "Florida",
       "away_team": "South Carolina",
       "start_date": "",
-      "draftkings_line": "Florida +4.0"
+      "draftkings_line": "Florida +3.5"
     },
     {
       "home_team": "Cornell",
@@ -1200,7 +1200,7 @@
       "home_team": "Akron",
       "away_team": "Eastern Michigan",
       "start_date": "",
-      "draftkings_line": "Akron +14.0"
+      "draftkings_line": "Akron +15.5"
     },
     {
       "home_team": "Western Michigan",
