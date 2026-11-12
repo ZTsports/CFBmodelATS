@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-12T14:38:22.613642+00:00",
+  "last_updated": "2026-11-12T23:13:41.936016+00:00",
   "games_count": 274,
   "games": [
     {
@@ -114,7 +114,7 @@
       "home_team": "Washington",
       "away_team": "Iowa",
       "start_date": "",
-      "draftkings_line": "Washington -9.5"
+      "draftkings_line": "Washington -8.5"
     },
     {
       "home_team": "San Jos\u00e9 State",
@@ -378,7 +378,7 @@
       "home_team": "Florida",
       "away_team": "South Carolina",
       "start_date": "",
-      "draftkings_line": "Florida +3.5"
+      "draftkings_line": "Florida +4.0"
     },
     {
       "home_team": "Cornell",
@@ -1146,7 +1146,7 @@
       "home_team": "Oregon",
       "away_team": "UCLA",
       "start_date": "",
-      "draftkings_line": "Oregon -11.5"
+      "draftkings_line": "Oregon -10.5"
     },
     {
       "home_team": "Gardner-Webb",
@@ -1206,7 +1206,7 @@
       "home_team": "Western Michigan",
       "away_team": "Kent State",
       "start_date": "",
-      "draftkings_line": "Line Pending"
+      "draftkings_line": "Western Michigan -13.5"
     },
     {
       "home_team": "Vanderbilt",
@@ -1218,7 +1218,7 @@
       "home_team": "Oklahoma",
       "away_team": "Texas",
       "start_date": "",
-      "draftkings_line": "Oklahoma +1.5"
+      "draftkings_line": "Oklahoma -1.5"
     },
     {
       "home_team": "Navy",
@@ -1512,7 +1512,7 @@
       "home_team": "UTEP",
       "away_team": "Nevada",
       "start_date": "",
-      "draftkings_line": "UTEP +7.5"
+      "draftkings_line": "UTEP +8.5"
     },
     {
       "home_team": "Eastern Washington",
