@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-12T00:03:39.447787+00:00",
+  "last_updated": "2026-11-12T14:38:22.613642+00:00",
   "games_count": 274,
   "games": [
     {
@@ -24,7 +24,7 @@
       "home_team": "Liberty",
       "away_team": "Sam Houston",
       "start_date": "",
-      "draftkings_line": "Liberty -20.5"
+      "draftkings_line": "Liberty -21.0"
     },
     {
       "home_team": "Western Kentucky",
@@ -1146,7 +1146,7 @@
       "home_team": "Oregon",
       "away_team": "UCLA",
       "start_date": "",
-      "draftkings_line": "Oregon -10.5"
+      "draftkings_line": "Oregon -11.5"
     },
     {
       "home_team": "Gardner-Webb",
@@ -1182,19 +1182,19 @@
       "home_team": "Michigan State",
       "away_team": "Illinois",
       "start_date": "",
-      "draftkings_line": "Michigan State +3.0"
+      "draftkings_line": "Michigan State +3.5"
     },
     {
       "home_team": "Toledo",
       "away_team": "Buffalo",
       "start_date": "",
-      "draftkings_line": "Toledo -14.0"
+      "draftkings_line": "Line Pending"
     },
     {
       "home_team": "Ohio",
       "away_team": "Central Michigan",
       "start_date": "",
-      "draftkings_line": "Ohio -12.5"
+      "draftkings_line": "Ohio -14.0"
     },
     {
       "home_team": "Akron",
@@ -1218,7 +1218,7 @@
       "home_team": "Oklahoma",
       "away_team": "Texas",
       "start_date": "",
-      "draftkings_line": "Oklahoma -1.5"
+      "draftkings_line": "Oklahoma +1.5"
     },
     {
       "home_team": "Navy",
@@ -1362,13 +1362,13 @@
       "home_team": "Ohio State",
       "away_team": "Maryland",
       "start_date": "",
-      "draftkings_line": "Ohio State -12.5"
+      "draftkings_line": "Ohio State -14.0"
     },
     {
       "home_team": "Arkansas",
       "away_team": "Tennessee",
       "start_date": "",
-      "draftkings_line": "Arkansas +7.5"
+      "draftkings_line": "Arkansas +7.0"
     },
     {
       "home_team": "Kentucky Wesleyan",
