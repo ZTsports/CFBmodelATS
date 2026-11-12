@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-11T13:34:22.185507+00:00",
+  "last_updated": "2026-11-12T00:03:39.447787+00:00",
   "games_count": 274,
   "games": [
     {
@@ -210,7 +210,7 @@
       "home_team": "Nebraska",
       "away_team": "Indiana",
       "start_date": "",
-      "draftkings_line": "Line Pending"
+      "draftkings_line": "Nebraska +5.5"
     },
     {
       "home_team": "West Virginia",
@@ -1146,7 +1146,7 @@
       "home_team": "Oregon",
       "away_team": "UCLA",
       "start_date": "",
-      "draftkings_line": "Oregon -11.5"
+      "draftkings_line": "Oregon -10.5"
     },
     {
       "home_team": "Gardner-Webb",
@@ -1182,7 +1182,7 @@
       "home_team": "Michigan State",
       "away_team": "Illinois",
       "start_date": "",
-      "draftkings_line": "Michigan State +3.5"
+      "draftkings_line": "Michigan State +3.0"
     },
     {
       "home_team": "Toledo",
@@ -1212,13 +1212,13 @@
       "home_team": "Vanderbilt",
       "away_team": "Ole Miss",
       "start_date": "",
-      "draftkings_line": "Vanderbilt +15.5"
+      "draftkings_line": "Vanderbilt +17.5"
     },
     {
       "home_team": "Oklahoma",
       "away_team": "Texas",
       "start_date": "",
-      "draftkings_line": "Oklahoma +1.5"
+      "draftkings_line": "Oklahoma -1.5"
     },
     {
       "home_team": "Navy",
