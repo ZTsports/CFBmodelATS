@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13T13:56:14.612203+00:00",
+  "last_updated": "2026-11-13T23:15:20.199099+00:00",
   "games_count": 274,
   "games": [
     {
@@ -216,7 +216,7 @@
       "home_team": "West Virginia",
       "away_team": "Arizona",
       "start_date": "",
-      "draftkings_line": "West Virginia -3.0"
+      "draftkings_line": "West Virginia -2.5"
     },
     {
       "home_team": "Maryville (TN)",
@@ -234,7 +234,7 @@
       "home_team": "Pittsburgh",
       "away_team": "North Carolina",
       "start_date": "",
-      "draftkings_line": "Pittsburgh -3.5"
+      "draftkings_line": "Pittsburgh -3.0"
     },
     {
       "home_team": "Bowling Green",
@@ -1182,7 +1182,7 @@
       "home_team": "Michigan State",
       "away_team": "Illinois",
       "start_date": "",
-      "draftkings_line": "Michigan State +3.5"
+      "draftkings_line": "Michigan State +2.5"
     },
     {
       "home_team": "Toledo",
@@ -1212,13 +1212,13 @@
       "home_team": "Vanderbilt",
       "away_team": "Ole Miss",
       "start_date": "",
-      "draftkings_line": "Vanderbilt +17.5"
+      "draftkings_line": "Vanderbilt +14.0"
     },
     {
       "home_team": "Oklahoma",
       "away_team": "Texas",
       "start_date": "",
-      "draftkings_line": "Oklahoma -1.5"
+      "draftkings_line": "Oklahoma -2.5"
     },
     {
       "home_team": "Navy",
@@ -1512,7 +1512,7 @@
       "home_team": "UTEP",
       "away_team": "Nevada",
       "start_date": "",
-      "draftkings_line": "UTEP +8.5"
+      "draftkings_line": "UTEP +7.5"
     },
     {
       "home_team": "Eastern Washington",
@@ -1560,7 +1560,7 @@
       "home_team": "Virginia",
       "away_team": "Syracuse",
       "start_date": "",
-      "draftkings_line": "Virginia -10.0"
+      "draftkings_line": "Virginia -10.5"
     },
     {
       "home_team": "Georgia Southern",
@@ -1572,13 +1572,13 @@
       "home_team": "Northern Illinois",
       "away_team": "Air Force",
       "start_date": "",
-      "draftkings_line": "Northern Illinois +7.0"
+      "draftkings_line": "Northern Illinois +5.5"
     },
     {
       "home_team": "Penn State",
       "away_team": "USC",
       "start_date": "",
-      "draftkings_line": "Penn State -9.5"
+      "draftkings_line": "Penn State -10.5"
     },
     {
       "home_team": "Purdue",
