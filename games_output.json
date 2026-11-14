@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13T23:15:20.199099+00:00",
+  "last_updated": "2026-11-14T04:57:04.644460+00:00",
   "games_count": 274,
   "games": [
     {
@@ -114,7 +114,7 @@
       "home_team": "Washington",
       "away_team": "Iowa",
       "start_date": "",
-      "draftkings_line": "Washington -8.5"
+      "draftkings_line": "Washington -9.5"
     },
     {
       "home_team": "San Jos\u00e9 State",
@@ -126,7 +126,7 @@
       "home_team": "BYU",
       "away_team": "Iowa State",
       "start_date": "",
-      "draftkings_line": "BYU -7.5"
+      "draftkings_line": "BYU -8.5"
     },
     {
       "home_team": "Maine Maritime",
@@ -234,7 +234,7 @@
       "home_team": "Pittsburgh",
       "away_team": "North Carolina",
       "start_date": "",
-      "draftkings_line": "Pittsburgh -3.0"
+      "draftkings_line": "Line Pending"
     },
     {
       "home_team": "Bowling Green",
@@ -1512,7 +1512,7 @@
       "home_team": "UTEP",
       "away_team": "Nevada",
       "start_date": "",
-      "draftkings_line": "UTEP +7.5"
+      "draftkings_line": "UTEP +7.0"
     },
     {
       "home_team": "Eastern Washington",
@@ -1560,7 +1560,7 @@
       "home_team": "Virginia",
       "away_team": "Syracuse",
       "start_date": "",
-      "draftkings_line": "Virginia -10.5"
+      "draftkings_line": "Virginia -11.5"
     },
     {
       "home_team": "Georgia Southern",
@@ -1578,7 +1578,7 @@
       "home_team": "Penn State",
       "away_team": "USC",
       "start_date": "",
-      "draftkings_line": "Penn State -10.5"
+      "draftkings_line": "Penn State -11.5"
     },
     {
       "home_team": "Purdue",
