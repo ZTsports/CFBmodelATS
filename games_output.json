@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-15T04:50:26.586161+00:00",
+  "last_updated": "2026-11-15T13:27:05.314547+00:00",
   "games_count": 272,
   "games": [
     {
@@ -36,7 +36,7 @@
       "home_team": "UTSA",
       "away_team": "South Florida",
       "start_date": "",
-      "draftkings_line": "UTSA -8.5"
+      "draftkings_line": "Line Pending"
     },
     {
       "home_team": "Arkansas State",
@@ -90,7 +90,7 @@
       "home_team": "Louisville",
       "away_team": "Florida State",
       "start_date": "",
-      "draftkings_line": "Line Pending"
+      "draftkings_line": "Louisville -12.5"
     },
     {
       "home_team": "Belhaven",
@@ -108,7 +108,7 @@
       "home_team": "Washington",
       "away_team": "Iowa",
       "start_date": "",
-      "draftkings_line": "Washington -33.5"
+      "draftkings_line": "Washington +7.5"
     },
     {
       "home_team": "San Jos\u00e9 State",
@@ -150,7 +150,7 @@
       "home_team": "West Virginia",
       "away_team": "Arizona",
       "start_date": "",
-      "draftkings_line": "Line Pending"
+      "draftkings_line": "West Virginia +7.5"
     },
     {
       "home_team": "Alvernia",
@@ -270,7 +270,7 @@
       "home_team": "Oklahoma State",
       "away_team": "UCF",
       "start_date": "",
-      "draftkings_line": "Oklahoma State +3.5"
+      "draftkings_line": "Line Pending"
     },
     {
       "home_team": "Pittsburgh",
@@ -330,7 +330,7 @@
       "home_team": "Missouri",
       "away_team": "Texas A&M",
       "start_date": "",
-      "draftkings_line": "Line Pending"
+      "draftkings_line": "Missouri -5.5"
     },
     {
       "home_team": "Catholic",
@@ -366,7 +366,7 @@
       "home_team": "Florida",
       "away_team": "South Carolina",
       "start_date": "",
-      "draftkings_line": "Line Pending"
+      "draftkings_line": "Florida -12.5"
     },
     {
       "home_team": "Cornell",
@@ -1146,7 +1146,7 @@
       "home_team": "Michigan State",
       "away_team": "Illinois",
       "start_date": "",
-      "draftkings_line": "Michigan State +12.5"
+      "draftkings_line": "Michigan State +13.5"
     },
     {
       "home_team": "Toledo",
@@ -1164,7 +1164,7 @@
       "home_team": "Oklahoma",
       "away_team": "Texas",
       "start_date": "",
-      "draftkings_line": "Oklahoma +3.5"
+      "draftkings_line": "Oklahoma -2.5"
     },
     {
       "home_team": "Oregon",
@@ -1182,7 +1182,7 @@
       "home_team": "California",
       "away_team": "Virginia Tech",
       "start_date": "",
-      "draftkings_line": "Line Pending"
+      "draftkings_line": "California +2.5"
     },
     {
       "home_team": "Akron",
@@ -1218,7 +1218,7 @@
       "home_team": "Notre Dame",
       "away_team": "Stanford",
       "start_date": "",
-      "draftkings_line": "Line Pending"
+      "draftkings_line": "Notre Dame -17.5"
     },
     {
       "home_team": "North Texas",
@@ -1230,13 +1230,13 @@
       "home_team": "Georgia Tech",
       "away_team": "Duke",
       "start_date": "",
-      "draftkings_line": "Georgia Tech +20.5"
+      "draftkings_line": "Georgia Tech +21.0"
     },
     {
       "home_team": "Kansas State",
       "away_team": "Houston",
       "start_date": "",
-      "draftkings_line": "Line Pending"
+      "draftkings_line": "Kansas State +11.5"
     },
     {
       "home_team": "Temple",
@@ -1506,7 +1506,7 @@
       "home_team": "UTEP",
       "away_team": "Nevada",
       "start_date": "",
-      "draftkings_line": "UTEP +21.5"
+      "draftkings_line": "Line Pending"
     },
     {
       "home_team": "Marshall",
@@ -1542,7 +1542,7 @@
       "home_team": "Virginia",
       "away_team": "Syracuse",
       "start_date": "",
-      "draftkings_line": "Line Pending"
+      "draftkings_line": "Virginia -1.5"
     },
     {
       "home_team": "Louisiana Tech",
@@ -1554,7 +1554,7 @@
       "home_team": "Penn State",
       "away_team": "USC",
       "start_date": "",
-      "draftkings_line": "Line Pending"
+      "draftkings_line": "Penn State -22.5"
     },
     {
       "home_team": "Northern Illinois",
@@ -1596,7 +1596,7 @@
       "home_team": "Purdue",
       "away_team": "Minnesota",
       "start_date": "",
-      "draftkings_line": "Line Pending"
+      "draftkings_line": "Purdue +4.5"
     },
     {
       "home_team": "Abilene Christian",
@@ -1632,7 +1632,7 @@
       "home_team": "Arizona State",
       "away_team": "Hawai'i",
       "start_date": "",
-      "draftkings_line": "Line Pending"
+      "draftkings_line": "Arizona State +4.5"
     }
   ]
 }
