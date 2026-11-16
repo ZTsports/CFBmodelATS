@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-15T22:28:46.762273+00:00",
+  "last_updated": "2026-11-16T04:46:43.614856+00:00",
   "games_count": 272,
   "games": [
     {
@@ -90,7 +90,7 @@
       "home_team": "Louisville",
       "away_team": "Florida State",
       "start_date": "",
-      "draftkings_line": "Louisville -12.5"
+      "draftkings_line": "Louisville -13.5"
     },
     {
       "home_team": "Belhaven",
@@ -288,7 +288,7 @@
       "home_team": "Army",
       "away_team": "Tulane",
       "start_date": "",
-      "draftkings_line": "Army -5.5"
+      "draftkings_line": "Army -4.5"
     },
     {
       "home_team": "North Carolina A&T",
@@ -1170,7 +1170,7 @@
       "home_team": "Oregon",
       "away_team": "UCLA",
       "start_date": "",
-      "draftkings_line": "Oregon -8.5"
+      "draftkings_line": "Oregon -9.5"
     },
     {
       "home_team": "Vanderbilt",
@@ -1212,7 +1212,7 @@
       "home_team": "Navy",
       "away_team": "Tulsa",
       "start_date": "",
-      "draftkings_line": "Navy +3.0"
+      "draftkings_line": "Navy +3.5"
     },
     {
       "home_team": "Notre Dame",
@@ -1236,7 +1236,7 @@
       "home_team": "Kansas State",
       "away_team": "Houston",
       "start_date": "",
-      "draftkings_line": "Kansas State +9.5"
+      "draftkings_line": "Kansas State +8.5"
     },
     {
       "home_team": "Temple",
@@ -1428,7 +1428,7 @@
       "home_team": "Oregon State",
       "away_team": "San Diego State",
       "start_date": "",
-      "draftkings_line": "Oregon State -8.5"
+      "draftkings_line": "Oregon State -9.5"
     },
     {
       "home_team": "Idaho State",
@@ -1542,7 +1542,7 @@
       "home_team": "Virginia",
       "away_team": "Syracuse",
       "start_date": "",
-      "draftkings_line": "Virginia -1.5"
+      "draftkings_line": "Virginia +1.5"
     },
     {
       "home_team": "Louisiana Tech",
