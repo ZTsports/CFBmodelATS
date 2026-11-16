@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-16T04:46:43.614856+00:00",
+  "last_updated": "2026-11-16T14:48:34.012421+00:00",
   "games_count": 272,
   "games": [
     {
@@ -144,7 +144,7 @@
       "home_team": "Nebraska",
       "away_team": "Indiana",
       "start_date": "",
-      "draftkings_line": "Nebraska +2.5"
+      "draftkings_line": "Nebraska +3.0"
     },
     {
       "home_team": "West Virginia",
@@ -1140,19 +1140,19 @@
       "home_team": "Ohio",
       "away_team": "Central Michigan",
       "start_date": "",
-      "draftkings_line": "Ohio -10.5"
+      "draftkings_line": "Ohio -11.5"
     },
     {
       "home_team": "Michigan State",
       "away_team": "Illinois",
       "start_date": "",
-      "draftkings_line": "Michigan State +14.0"
+      "draftkings_line": "Michigan State +16.5"
     },
     {
       "home_team": "Toledo",
       "away_team": "Buffalo",
       "start_date": "",
-      "draftkings_line": "Toledo -15.5"
+      "draftkings_line": "Toledo -16.5"
     },
     {
       "home_team": "Western Michigan",
@@ -1230,13 +1230,13 @@
       "home_team": "Georgia Tech",
       "away_team": "Duke",
       "start_date": "",
-      "draftkings_line": "Georgia Tech +21.5"
+      "draftkings_line": "Georgia Tech +21.0"
     },
     {
       "home_team": "Kansas State",
       "away_team": "Houston",
       "start_date": "",
-      "draftkings_line": "Kansas State +8.5"
+      "draftkings_line": "Kansas State +7.5"
     },
     {
       "home_team": "Temple",
@@ -1548,7 +1548,7 @@
       "home_team": "Louisiana Tech",
       "away_team": "Louisiana",
       "start_date": "",
-      "draftkings_line": "Louisiana Tech -14.5"
+      "draftkings_line": "Louisiana Tech -14.0"
     },
     {
       "home_team": "Penn State",
@@ -1596,7 +1596,7 @@
       "home_team": "Purdue",
       "away_team": "Minnesota",
       "start_date": "",
-      "draftkings_line": "Purdue +6.0"
+      "draftkings_line": "Purdue +5.5"
     },
     {
       "home_team": "Abilene Christian",
@@ -1626,7 +1626,7 @@
       "home_team": "Fresno State",
       "away_team": "Boise State",
       "start_date": "",
-      "draftkings_line": "Fresno State -21.0"
+      "draftkings_line": "Fresno State -20.5"
     },
     {
       "home_team": "Arizona State",
