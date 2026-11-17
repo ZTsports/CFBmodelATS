@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-17T01:35:43.022521+00:00",
+  "last_updated": "2026-11-17T15:30:04.572447+00:00",
   "games_count": 272,
   "games": [
     {
@@ -90,7 +90,7 @@
       "home_team": "Louisville",
       "away_team": "Florida State",
       "start_date": "",
-      "draftkings_line": "Louisville -13.5"
+      "draftkings_line": "Louisville -14.0"
     },
     {
       "home_team": "Belhaven",
@@ -108,7 +108,7 @@
       "home_team": "Washington",
       "away_team": "Iowa",
       "start_date": "",
-      "draftkings_line": "Washington +8.5"
+      "draftkings_line": "Washington +7.5"
     },
     {
       "home_team": "San Jos\u00e9 State",
@@ -1140,7 +1140,7 @@
       "home_team": "Ohio",
       "away_team": "Central Michigan",
       "start_date": "",
-      "draftkings_line": "Ohio -10.5"
+      "draftkings_line": "Ohio -10.0"
     },
     {
       "home_team": "Michigan State",
@@ -1158,7 +1158,7 @@
       "home_team": "Western Michigan",
       "away_team": "Kent State",
       "start_date": "",
-      "draftkings_line": "Western Michigan -14.5"
+      "draftkings_line": "Western Michigan -15.5"
     },
     {
       "home_team": "Oklahoma",
@@ -1512,7 +1512,7 @@
       "home_team": "Marshall",
       "away_team": "Coastal Carolina",
       "start_date": "",
-      "draftkings_line": "Marshall +1.5"
+      "draftkings_line": "Marshall -1.5"
     },
     {
       "home_team": "Westminster (PA)",
