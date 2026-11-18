@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-18T00:32:43.890903+00:00",
+  "last_updated": "2026-11-18T15:06:44.412108+00:00",
   "games_count": 272,
   "games": [
     {
@@ -288,7 +288,7 @@
       "home_team": "Army",
       "away_team": "Tulane",
       "start_date": "",
-      "draftkings_line": "Army -5.5"
+      "draftkings_line": "Army -6.0"
     },
     {
       "home_team": "North Carolina A&T",
@@ -1140,7 +1140,7 @@
       "home_team": "Ohio",
       "away_team": "Central Michigan",
       "start_date": "",
-      "draftkings_line": "Ohio -12.5"
+      "draftkings_line": "Line Pending"
     },
     {
       "home_team": "Michigan State",
@@ -1158,7 +1158,7 @@
       "home_team": "Western Michigan",
       "away_team": "Kent State",
       "start_date": "",
-      "draftkings_line": "Western Michigan -33.5"
+      "draftkings_line": "Line Pending"
     },
     {
       "home_team": "Oklahoma",
@@ -1230,7 +1230,7 @@
       "home_team": "Georgia Tech",
       "away_team": "Duke",
       "start_date": "",
-      "draftkings_line": "Georgia Tech +20.5"
+      "draftkings_line": "Georgia Tech +21.0"
     },
     {
       "home_team": "Kansas State",
@@ -1566,7 +1566,7 @@
       "home_team": "Alabama",
       "away_team": "Georgia",
       "start_date": "",
-      "draftkings_line": "Line Pending"
+      "draftkings_line": "Alabama -49.5"
     },
     {
       "home_team": "Utah",
