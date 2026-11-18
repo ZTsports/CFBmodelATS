@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-18T15:06:44.412108+00:00",
+  "last_updated": "2026-11-18T23:53:46.696385+00:00",
   "games_count": 272,
   "games": [
     {
@@ -1140,7 +1140,7 @@
       "home_team": "Ohio",
       "away_team": "Central Michigan",
       "start_date": "",
-      "draftkings_line": "Line Pending"
+      "draftkings_line": "Ohio -12.5"
     },
     {
       "home_team": "Michigan State",
@@ -1152,7 +1152,7 @@
       "home_team": "Toledo",
       "away_team": "Buffalo",
       "start_date": "",
-      "draftkings_line": "Toledo -15.5"
+      "draftkings_line": "Toledo -16.5"
     },
     {
       "home_team": "Western Michigan",
@@ -1350,7 +1350,7 @@
       "home_team": "Ohio State",
       "away_team": "Maryland",
       "start_date": "",
-      "draftkings_line": "Line Pending"
+      "draftkings_line": "Ohio State -12.5"
     },
     {
       "home_team": "Arkansas",
@@ -1464,7 +1464,7 @@
       "home_team": "Kentucky",
       "away_team": "LSU",
       "start_date": "",
-      "draftkings_line": "Line Pending"
+      "draftkings_line": "Kentucky -1.5"
     },
     {
       "home_team": "Angelo State",
