@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-19T05:56:08.660122+00:00",
+  "last_updated": "2026-11-19T15:20:37.829995+00:00",
   "games_count": 272,
   "games": [
     {
       "home_team": "Troy",
       "away_team": "Southern Miss",
       "start_date": "",
-      "draftkings_line": "Troy +8.5"
+      "draftkings_line": "Troy +9.5"
     },
     {
       "home_team": "Kennesaw State",
@@ -144,7 +144,7 @@
       "home_team": "Nebraska",
       "away_team": "Indiana",
       "start_date": "",
-      "draftkings_line": "Nebraska +3.0"
+      "draftkings_line": "Nebraska +3.5"
     },
     {
       "home_team": "West Virginia",
@@ -1242,7 +1242,7 @@
       "home_team": "Temple",
       "away_team": "UConn",
       "start_date": "",
-      "draftkings_line": "Temple -3.0"
+      "draftkings_line": "Temple -2.5"
     },
     {
       "home_team": "Northwestern (OK)",
