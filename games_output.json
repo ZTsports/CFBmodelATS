@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-18T23:53:46.696385+00:00",
+  "last_updated": "2026-11-19T05:56:08.660122+00:00",
   "games_count": 272,
   "games": [
     {
@@ -1212,7 +1212,7 @@
       "home_team": "Navy",
       "away_team": "Tulsa",
       "start_date": "",
-      "draftkings_line": "Navy +3.5"
+      "draftkings_line": "Navy +3.0"
     },
     {
       "home_team": "Notre Dame",
@@ -1230,7 +1230,7 @@
       "home_team": "Georgia Tech",
       "away_team": "Duke",
       "start_date": "",
-      "draftkings_line": "Georgia Tech +21.0"
+      "draftkings_line": "Georgia Tech +20.5"
     },
     {
       "home_team": "Kansas State",
@@ -1512,7 +1512,7 @@
       "home_team": "Marshall",
       "away_team": "Coastal Carolina",
       "start_date": "",
-      "draftkings_line": "Marshall -1.5"
+      "draftkings_line": "Marshall -2.5"
     },
     {
       "home_team": "Westminster (PA)",
@@ -1632,7 +1632,7 @@
       "home_team": "Arizona State",
       "away_team": "Hawai'i",
       "start_date": "",
-      "draftkings_line": "Arizona State +3.0"
+      "draftkings_line": "Arizona State +2.5"
     }
   ]
 }
