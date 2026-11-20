@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19T15:20:37.829995+00:00",
+  "last_updated": "2026-11-20T00:18:36.291696+00:00",
   "games_count": 272,
   "games": [
     {
@@ -90,7 +90,7 @@
       "home_team": "Louisville",
       "away_team": "Florida State",
       "start_date": "",
-      "draftkings_line": "Louisville -14.0"
+      "draftkings_line": "Louisville -13.5"
     },
     {
       "home_team": "Belhaven",
@@ -150,7 +150,7 @@
       "home_team": "West Virginia",
       "away_team": "Arizona",
       "start_date": "",
-      "draftkings_line": "West Virginia +8.5"
+      "draftkings_line": "West Virginia +7.5"
     },
     {
       "home_team": "Alvernia",
@@ -330,7 +330,7 @@
       "home_team": "Missouri",
       "away_team": "Texas A&M",
       "start_date": "",
-      "draftkings_line": "Missouri -5.5"
+      "draftkings_line": "Missouri -4.5"
     },
     {
       "home_team": "Catholic",
@@ -348,7 +348,7 @@
       "home_team": "Eastern",
       "away_team": "King's",
       "start_date": "",
-      "draftkings_line": "Line Pending"
+      "draftkings_line": "Eastern -5.5"
     },
     {
       "home_team": "Northwestern",
@@ -1146,7 +1146,7 @@
       "home_team": "Michigan State",
       "away_team": "Illinois",
       "start_date": "",
-      "draftkings_line": "Michigan State +16.5"
+      "draftkings_line": "Michigan State +17.5"
     },
     {
       "home_team": "Toledo",
@@ -1158,7 +1158,7 @@
       "home_team": "Western Michigan",
       "away_team": "Kent State",
       "start_date": "",
-      "draftkings_line": "Line Pending"
+      "draftkings_line": "Western Michigan -7.5"
     },
     {
       "home_team": "Oklahoma",
@@ -1170,7 +1170,7 @@
       "home_team": "Oregon",
       "away_team": "UCLA",
       "start_date": "",
-      "draftkings_line": "Oregon -9.5"
+      "draftkings_line": "Oregon -8.5"
     },
     {
       "home_team": "Vanderbilt",
@@ -1188,7 +1188,7 @@
       "home_team": "Akron",
       "away_team": "Eastern Michigan",
       "start_date": "",
-      "draftkings_line": "Line Pending"
+      "draftkings_line": "Akron +10.5"
     },
     {
       "home_team": "Gardner-Webb",
@@ -1428,7 +1428,7 @@
       "home_team": "Oregon State",
       "away_team": "San Diego State",
       "start_date": "",
-      "draftkings_line": "Oregon State -9.5"
+      "draftkings_line": "Oregon State -8.5"
     },
     {
       "home_team": "Idaho State",
@@ -1548,13 +1548,13 @@
       "home_team": "Louisiana Tech",
       "away_team": "Louisiana",
       "start_date": "",
-      "draftkings_line": "Louisiana Tech -13.5"
+      "draftkings_line": "Louisiana Tech -14.0"
     },
     {
       "home_team": "Penn State",
       "away_team": "USC",
       "start_date": "",
-      "draftkings_line": "Penn State -24.5"
+      "draftkings_line": "Penn State -26.5"
     },
     {
       "home_team": "Northern Illinois",
