@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-20T14:54:02.949855+00:00",
+  "last_updated": "2026-11-20T23:40:58.985055+00:00",
   "games_count": 272,
   "games": [
     {
@@ -12,7 +12,7 @@
       "home_team": "Kennesaw State",
       "away_team": "Jacksonville State",
       "start_date": "",
-      "draftkings_line": "Kennesaw State -3.0"
+      "draftkings_line": "Kennesaw State -2.5"
     },
     {
       "home_team": "Florida International",
@@ -1164,7 +1164,7 @@
       "home_team": "Oklahoma",
       "away_team": "Texas",
       "start_date": "",
-      "draftkings_line": "Oklahoma -7.5"
+      "draftkings_line": "Oklahoma -7.0"
     },
     {
       "home_team": "Oregon",
@@ -1212,7 +1212,7 @@
       "home_team": "Navy",
       "away_team": "Tulsa",
       "start_date": "",
-      "draftkings_line": "Navy +3.0"
+      "draftkings_line": "Navy +2.5"
     },
     {
       "home_team": "Notre Dame",
@@ -1548,7 +1548,7 @@
       "home_team": "Louisiana Tech",
       "away_team": "Louisiana",
       "start_date": "",
-      "draftkings_line": "Louisiana Tech -14.0"
+      "draftkings_line": "Louisiana Tech -14.5"
     },
     {
       "home_team": "Penn State",
@@ -1566,7 +1566,7 @@
       "home_team": "Alabama",
       "away_team": "Georgia",
       "start_date": "",
-      "draftkings_line": "Alabama -49.5"
+      "draftkings_line": "Alabama -48.5"
     },
     {
       "home_team": "Utah",
@@ -1626,7 +1626,7 @@
       "home_team": "Fresno State",
       "away_team": "Boise State",
       "start_date": "",
-      "draftkings_line": "Fresno State -19.5"
+      "draftkings_line": "Fresno State -20.5"
     },
     {
       "home_team": "Arizona State",
