@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-20T23:40:58.985055+00:00",
+  "last_updated": "2026-11-21T05:39:36.717425+00:00",
   "games_count": 272,
   "games": [
     {
@@ -144,13 +144,13 @@
       "home_team": "Nebraska",
       "away_team": "Indiana",
       "start_date": "",
-      "draftkings_line": "Nebraska +3.5"
+      "draftkings_line": "Nebraska +3.0"
     },
     {
       "home_team": "West Virginia",
       "away_team": "Arizona",
       "start_date": "",
-      "draftkings_line": "West Virginia +7.5"
+      "draftkings_line": "West Virginia +7.0"
     },
     {
       "home_team": "Alvernia",
@@ -1146,13 +1146,13 @@
       "home_team": "Michigan State",
       "away_team": "Illinois",
       "start_date": "",
-      "draftkings_line": "Michigan State +17.5"
+      "draftkings_line": "Line Pending"
     },
     {
       "home_team": "Toledo",
       "away_team": "Buffalo",
       "start_date": "",
-      "draftkings_line": "Toledo -16.5"
+      "draftkings_line": "Line Pending"
     },
     {
       "home_team": "Western Michigan",
@@ -1230,7 +1230,7 @@
       "home_team": "Georgia Tech",
       "away_team": "Duke",
       "start_date": "",
-      "draftkings_line": "Georgia Tech +20.5"
+      "draftkings_line": "Georgia Tech +21.0"
     },
     {
       "home_team": "Kansas State",
