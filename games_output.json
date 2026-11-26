@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-26T01:34:02.601795+00:00",
+  "last_updated": "2026-11-26T16:24:20.463732+00:00",
   "games_count": 272,
   "games": [
     {
@@ -36,7 +36,7 @@
       "home_team": "UTSA",
       "away_team": "South Florida",
       "start_date": "",
-      "draftkings_line": "UTSA -1.5"
+      "draftkings_line": "UTSA +1.5"
     },
     {
       "home_team": "Arkansas State",
@@ -366,7 +366,7 @@
       "home_team": "Florida",
       "away_team": "South Carolina",
       "start_date": "",
-      "draftkings_line": "Florida -6.0"
+      "draftkings_line": "Florida -6.5"
     },
     {
       "home_team": "Cornell",
@@ -1170,7 +1170,7 @@
       "home_team": "Oregon",
       "away_team": "UCLA",
       "start_date": "",
-      "draftkings_line": "Oregon -14.0"
+      "draftkings_line": "Oregon -13.5"
     },
     {
       "home_team": "Vanderbilt",
@@ -1572,7 +1572,7 @@
       "home_team": "Utah",
       "away_team": "Kansas",
       "start_date": "",
-      "draftkings_line": "Utah -25.5"
+      "draftkings_line": "Utah -26.5"
     },
     {
       "home_team": "UT Rio Grande Valley",
