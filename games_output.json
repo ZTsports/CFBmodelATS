@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27T01:29:15.379583+00:00",
+  "last_updated": "2026-11-27T16:09:28.446137+00:00",
   "games_count": 272,
   "games": [
     {
@@ -120,7 +120,7 @@
       "home_team": "Utah State",
       "away_team": "Washington State",
       "start_date": "",
-      "draftkings_line": "Utah State +7.0"
+      "draftkings_line": "Utah State +7.5"
     },
     {
       "home_team": "BYU",
@@ -270,7 +270,7 @@
       "home_team": "Oklahoma State",
       "away_team": "UCF",
       "start_date": "",
-      "draftkings_line": "Oklahoma State -6.5"
+      "draftkings_line": "Oklahoma State -6.0"
     },
     {
       "home_team": "Pittsburgh",
@@ -330,7 +330,7 @@
       "home_team": "Missouri",
       "away_team": "Texas A&M",
       "start_date": "",
-      "draftkings_line": "Missouri +17.5"
+      "draftkings_line": "Missouri +18.5"
     },
     {
       "home_team": "Catholic",
@@ -1032,7 +1032,7 @@
       "home_team": "Northwest Missouri State",
       "away_team": "Central Missouri",
       "start_date": "",
-      "draftkings_line": "Northwest Missouri State +17.5"
+      "draftkings_line": "Northwest Missouri State +18.5"
     },
     {
       "home_team": "Missouri Southern State",
@@ -1164,7 +1164,7 @@
       "home_team": "Oklahoma",
       "away_team": "Texas",
       "start_date": "",
-      "draftkings_line": "Oklahoma -6.5"
+      "draftkings_line": "Oklahoma -6.0"
     },
     {
       "home_team": "Oregon",
@@ -1224,7 +1224,7 @@
       "home_team": "North Texas",
       "away_team": "Charlotte",
       "start_date": "",
-      "draftkings_line": "North Texas -3.0"
+      "draftkings_line": "North Texas -2.5"
     },
     {
       "home_team": "Georgia Tech",
@@ -1350,7 +1350,7 @@
       "home_team": "Ohio State",
       "away_team": "Maryland",
       "start_date": "",
-      "draftkings_line": "Ohio State -10.0"
+      "draftkings_line": "Ohio State -10.5"
     },
     {
       "home_team": "Arkansas",
@@ -1524,7 +1524,7 @@
       "home_team": "Memphis",
       "away_team": "UAB",
       "start_date": "",
-      "draftkings_line": "Memphis -18.5"
+      "draftkings_line": "Memphis -19.5"
     },
     {
       "home_team": "Austin Peay",
@@ -1566,13 +1566,13 @@
       "home_team": "Alabama",
       "away_team": "Georgia",
       "start_date": "",
-      "draftkings_line": "Alabama -3.5"
+      "draftkings_line": "Alabama -3.0"
     },
     {
       "home_team": "Utah",
       "away_team": "Kansas",
       "start_date": "",
-      "draftkings_line": "Utah -26.5"
+      "draftkings_line": "Utah -25.5"
     },
     {
       "home_team": "UT Rio Grande Valley",
