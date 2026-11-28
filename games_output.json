@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-28T01:05:55.184188+00:00",
+  "last_updated": "2026-11-28T15:03:01.906447+00:00",
   "games_count": 272,
   "games": [
     {
@@ -126,7 +126,7 @@
       "home_team": "BYU",
       "away_team": "Iowa State",
       "start_date": "",
-      "draftkings_line": "BYU -16.5"
+      "draftkings_line": "BYU -17.5"
     },
     {
       "home_team": "Maine Maritime",
@@ -354,7 +354,7 @@
       "home_team": "Northwestern",
       "away_team": "Ball State",
       "start_date": "",
-      "draftkings_line": "Northwestern -3.0"
+      "draftkings_line": "Northwestern -5.5"
     },
     {
       "home_team": "Georgetown",
@@ -1140,7 +1140,7 @@
       "home_team": "Ohio",
       "away_team": "Central Michigan",
       "start_date": "",
-      "draftkings_line": "Ohio -10.5"
+      "draftkings_line": "Ohio -10.0"
     },
     {
       "home_team": "Michigan State",
@@ -1350,7 +1350,7 @@
       "home_team": "Ohio State",
       "away_team": "Maryland",
       "start_date": "",
-      "draftkings_line": "Ohio State -10.5"
+      "draftkings_line": "Ohio State -10.0"
     },
     {
       "home_team": "Arkansas",
@@ -1536,13 +1536,13 @@
       "home_team": "Georgia Southern",
       "away_team": "James Madison",
       "start_date": "",
-      "draftkings_line": "Georgia Southern -2.5"
+      "draftkings_line": "Georgia Southern -1.5"
     },
     {
       "home_team": "Virginia",
       "away_team": "Syracuse",
       "start_date": "",
-      "draftkings_line": "Virginia +3.0"
+      "draftkings_line": "Virginia +2.5"
     },
     {
       "home_team": "Louisiana Tech",
@@ -1560,7 +1560,7 @@
       "home_team": "Northern Illinois",
       "away_team": "Air Force",
       "start_date": "",
-      "draftkings_line": "Northern Illinois -4.5"
+      "draftkings_line": "Northern Illinois -5.5"
     },
     {
       "home_team": "Alabama",
@@ -1572,7 +1572,7 @@
       "home_team": "Utah",
       "away_team": "Kansas",
       "start_date": "",
-      "draftkings_line": "Utah -25.5"
+      "draftkings_line": "Utah +7.5"
     },
     {
       "home_team": "UT Rio Grande Valley",
@@ -1626,7 +1626,7 @@
       "home_team": "Fresno State",
       "away_team": "Boise State",
       "start_date": "",
-      "draftkings_line": "Fresno State -3.0"
+      "draftkings_line": "Fresno State -2.5"
     },
     {
       "home_team": "Arizona State",
